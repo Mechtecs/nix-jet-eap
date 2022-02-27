@@ -35,7 +35,10 @@
           name = "goland";
         } // GO));
         clion = with CL; (magic ({
-          pkg = clion;
+          pkg = clion.overrideDerivation (old: {
+            autoPatchelfIgnoreMissingDeps = true;
+            postFixup = builtins.replaceStrings [ clion.name ] [ "clion-${ver}" ] old.postFixup;
+          });
           name = "clion";
         } // CL));
         webstorm = with WS; (magic ({
