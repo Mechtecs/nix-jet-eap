@@ -1,0 +1,6 @@
+{
+  "name": "nix-jet-eap-updater",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}

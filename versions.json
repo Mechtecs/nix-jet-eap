@@ -1,0 +1,66 @@
+{
+  "stable": {
+    "DG": {
+      "ver": "2021.3.4",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-2021.3.4.tar.gz",
+      "sha256": "a34670f1a6c77e00237302a70f22fb5bf089dfe128341fd89b2f25bb8becb325"
+    },
+    "PS": {
+      "ver": "2021.3.2",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2021.3.2.tar.gz",
+      "sha256": "761b347142035e8b74cc5a9939100af9d45f1f6ee29de1e78cd6b1ff06fe20e2"
+    },
+    "IIU": {
+      "ver": "2021.3.2",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-2021.3.2.tar.gz",
+      "sha256": "0b3230fbd899cc82377c2be0fb036337202f341c3c236252dd8eedc37248341c"
+    },
+    "GO": {
+      "ver": "2021.3.3",
+      "archive": "https://download.jetbrains.com/go/goland-2021.3.3.tar.gz",
+      "sha256": "9d2b709703516eddeb7f4d6568a7de2e268de4258c7bc7787baee806fbaee4a3"
+    },
+    "CL": {
+      "ver": "2021.3.3",
+      "archive": "https://download.jetbrains.com/cpp/CLion-2021.3.3.tar.gz",
+      "sha256": "35986be8adfe0a291a0d2d550c1bf4861ae6c33ecbc71198a472e0ac01a0f10d"
+    },
+    "WS": {
+      "ver": "2021.3.2",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2021.3.2.tar.gz",
+      "sha256": "18a53c1b1b92e9b7e516b425a390f23f46b880a704d1cb223d1ba64410b15060"
+    }
+  },
+  "eap": {
+    "DG": {
+      "ver": "221.4165.70",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-221.4165.70.tar.gz",
+      "sha256": "3139dc46d54ba7aaeaab2535f56abdfec9529c520015439f65a4c3edd77cbc7a"
+    },
+    "PS": {
+      "ver": "221.4501.163",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-221.4501.163.tar.gz",
+      "sha256": "c2466526d666cdad94bfb4a64f6ff0766d4c5e5e711c0ce6b36e0ff4475ef579"
+    },
+    "IIU": {
+      "ver": "221.4501.155",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-221.4501.155.tar.gz",
+      "sha256": "8b56aa423932dcc57700ab4daa5da86768b4332f0a923197146a20b8f3c09cbf"
+    },
+    "GO": {
+      "ver": "221.4501.94",
+      "archive": "https://download.jetbrains.com/go/goland-221.4501.94.tar.gz",
+      "sha256": "965212c3fc952826c9220302cf402b280c6f75b3edbee15b6cd38ae466398357"
+    },
+    "CL": {
+      "ver": "221.4501.161",
+      "archive": "https://download.jetbrains.com/cpp/CLion-221.4501.161.tar.gz",
+      "sha256": "18ab9d537970f7c952c13fc98e95dd3c855785615ec8f9b488011579625dec0c"
+    },
+    "WS": {
+      "ver": "221.4501.160",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-221.4501.160.tar.gz",
+      "sha256": "c9896a0a3b4a944d3cce2251afc561b5d309fbaa90fde551ed5a78034a037e60"
+    }
+  }
+}
