@@ -33,9 +33,9 @@
   },
   "eap": {
     "DG": {
-      "ver": "221.4165.70",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-221.4165.70.tar.gz",
-      "sha256": "3139dc46d54ba7aaeaab2535f56abdfec9529c520015439f65a4c3edd77cbc7a"
+      "ver": "221.4906.1",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-221.4906.1.tar.gz",
+      "sha256": "c11bc666011612003e219632efadcaa5ef4a30bc2e18da30e574d5c68c6bc18c"
     },
     "PS": {
       "ver": "221.4501.163",
