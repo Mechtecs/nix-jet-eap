@@ -38,29 +38,29 @@
       "sha256": "c11bc666011612003e219632efadcaa5ef4a30bc2e18da30e574d5c68c6bc18c"
     },
     "PS": {
-      "ver": "221.4501.163",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-221.4501.163.tar.gz",
-      "sha256": "c2466526d666cdad94bfb4a64f6ff0766d4c5e5e711c0ce6b36e0ff4475ef579"
+      "ver": "221.4906.9",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-221.4906.9.tar.gz",
+      "sha256": "c53611037f8726bb38c7224de770f8cc8719ed3c2209dddc07b6630b7fe04178"
     },
     "IIU": {
-      "ver": "221.4501.155",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-221.4501.155.tar.gz",
-      "sha256": "8b56aa423932dcc57700ab4daa5da86768b4332f0a923197146a20b8f3c09cbf"
+      "ver": "221.4906.8",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-221.4906.8.tar.gz",
+      "sha256": "2490f275d65f31008b5a118ba2889772de4c7ab2ef7ead3ada6848d8d0bd1181"
     },
     "GO": {
-      "ver": "221.4501.94",
-      "archive": "https://download.jetbrains.com/go/goland-221.4501.94.tar.gz",
-      "sha256": "965212c3fc952826c9220302cf402b280c6f75b3edbee15b6cd38ae466398357"
+      "ver": "221.4906.8",
+      "archive": "https://download.jetbrains.com/go/goland-221.4906.8.tar.gz",
+      "sha256": "eb6b8fb5f43c4846a845633eca931fb873d4036e4b607c9f62b5aab34eb2103f"
     },
     "CL": {
-      "ver": "221.4501.161",
-      "archive": "https://download.jetbrains.com/cpp/CLion-221.4501.161.tar.gz",
-      "sha256": "18ab9d537970f7c952c13fc98e95dd3c855785615ec8f9b488011579625dec0c"
+      "ver": "221.4906.7",
+      "archive": "https://download.jetbrains.com/cpp/CLion-221.4906.7.tar.gz",
+      "sha256": "a6cc4810a9d0c5d6b663feae8e97f093c3cb2d486eea0f3edbb36574cdb8e054"
     },
     "WS": {
-      "ver": "221.4501.160",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-221.4501.160.tar.gz",
-      "sha256": "c9896a0a3b4a944d3cce2251afc561b5d309fbaa90fde551ed5a78034a037e60"
+      "ver": "221.4906.8",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-221.4906.8.tar.gz",
+      "sha256": "f4c3bfa86627a5b6db543b8a16684f018aba123dfb8ffcb9b7b9758c0dd9a60d"
     }
   }
 }
