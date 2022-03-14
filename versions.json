@@ -38,9 +38,9 @@
       "sha256": "c11bc666011612003e219632efadcaa5ef4a30bc2e18da30e574d5c68c6bc18c"
     },
     "PS": {
-      "ver": "221.4906.9",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-221.4906.9.tar.gz",
-      "sha256": "c53611037f8726bb38c7224de770f8cc8719ed3c2209dddc07b6630b7fe04178"
+      "ver": "221.4994.43",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-221.4994.43.tar.gz",
+      "sha256": "b02f417d03e36236d942fa8ecb73139fce0064f8fbee588c4c6293a048bee89e"
     },
     "IIU": {
       "ver": "221.4994.44",
