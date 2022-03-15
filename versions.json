@@ -21,9 +21,9 @@
       "sha256": "9d2b709703516eddeb7f4d6568a7de2e268de4258c7bc7787baee806fbaee4a3"
     },
     "CL": {
-      "ver": "2021.3.3",
-      "archive": "https://download.jetbrains.com/cpp/CLion-2021.3.3.tar.gz",
-      "sha256": "35986be8adfe0a291a0d2d550c1bf4861ae6c33ecbc71198a472e0ac01a0f10d"
+      "ver": "2021.3.4",
+      "archive": "https://download.jetbrains.com/cpp/CLion-2021.3.4.tar.gz",
+      "sha256": "f3b0b9e0dd0cd4aebef5d424e7a22868c732daad47d6c94f73630cef449ccf78"
     },
     "WS": {
       "ver": "2021.3.2",
