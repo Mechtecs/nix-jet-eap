@@ -2,7 +2,7 @@
   description = "NixOS configuration with two or more channels";
 
   inputs = {
-    nixpkgs.url = "nixpkgs/nixos-unstable";
+    nixpkgs.url = "nixpkgs/master";
   };
 
   outputs = { self, nixpkgs }:
