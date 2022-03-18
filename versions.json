@@ -26,9 +26,9 @@
       "sha256": "f3b0b9e0dd0cd4aebef5d424e7a22868c732daad47d6c94f73630cef449ccf78"
     },
     "WS": {
-      "ver": "2021.3.2",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2021.3.2.tar.gz",
-      "sha256": "18a53c1b1b92e9b7e516b425a390f23f46b880a704d1cb223d1ba64410b15060"
+      "ver": "2021.3.3",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2021.3.3.tar.gz",
+      "sha256": "22425a654298da7366c38627e8789e25474533f39cbb58fba0a5a10139a0b5d3"
     }
   },
   "eap": {
@@ -43,9 +43,9 @@
       "sha256": "b02f417d03e36236d942fa8ecb73139fce0064f8fbee588c4c6293a048bee89e"
     },
     "IIU": {
-      "ver": "221.4994.44",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-221.4994.44.tar.gz",
-      "sha256": "83bcc17e723935e3b3a09f7948aec292405618357249b7c501a7f5a66e5f203a"
+      "ver": "221.5080.9",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-221.5080.9.tar.gz",
+      "sha256": "2db2bfc7f9792513746ef8e90ffacadacf4032e8a3f486dfa8048ddd0e07c817"
     },
     "GO": {
       "ver": "221.4994.43",
