@@ -30,3 +30,12 @@ jobs:
         run: "cd .updater && npm ci"
       - name: Run updater
         run: node .updater
+      - name: commit n push when dirty
+        run: |
+          if [[ $(git diff --stat) != '' ]]; then
+            git config --global user.name "GitHub Actions Bot"
+            git config --global.user.email "never.ever@reply.local"
+            git add versions.json
+            git commit -m "Update versions.json"
+            git push
+          else
