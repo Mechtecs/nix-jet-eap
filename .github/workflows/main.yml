@@ -33,7 +33,7 @@ jobs:
           if [[ $(git diff --stat) != '' ]]; then
             echo repo is dirty!
             git config --global user.name "GitHub Actions Bot"
-            git config --global.user.email "never.ever@reply.local"
+            git config --global user.email "never.ever@reply.local"
             git add "${GITHUB_WORKSPACE}/versions.json"
             git commit -m "Update versions.json"
             git push
