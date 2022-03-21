@@ -5,7 +5,7 @@ name: CI
 # Controls when the workflow will run
 on:
   schedule:
-    - '30 * * * *'
+    - cron: '30 * * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
