@@ -1,5 +1,10 @@
 {
   "stable": {
+    "RD": {
+      "ver": "2021.3.3",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2021.3.3.tar.gz",
+      "sha256": "1dc57d5d7932d4a8dea51fc5cbdaa52f9626490092978f02fa15bb41cb84068f"
+    },
     "DG": {
       "ver": "2021.3.4",
       "archive": "https://download.jetbrains.com/datagrip/datagrip-2021.3.4.tar.gz",
@@ -25,6 +30,11 @@
       "archive": "https://download.jetbrains.com/cpp/CLion-2021.3.4.tar.gz",
       "sha256": "f3b0b9e0dd0cd4aebef5d424e7a22868c732daad47d6c94f73630cef449ccf78"
     },
+    "PCP": {
+      "ver": "2021.3.3",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-2021.3.3.tar.gz",
+      "sha256": "0135af18088581891717bf5d6156902a166adb853fd0415ad52c6414f3a8cfc7"
+    },
     "WS": {
       "ver": "2021.3.3",
       "archive": "https://download.jetbrains.com/webstorm/WebStorm-2021.3.3.tar.gz",
@@ -32,6 +42,11 @@
     }
   },
   "eap": {
+    "RD": {
+      "ver": "221.4994.45",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2022.1-EAP6-221.4994.45.Checked.tar.gz",
+      "sha256": "5b3a05eef7dd605fbed32e05f56d6c8a064b7c45f529a70685ccb1af851c3ae9"
+    },
     "DG": {
       "ver": "221.4906.1",
       "archive": "https://download.jetbrains.com/datagrip/datagrip-221.4906.1.tar.gz",
@@ -56,6 +71,11 @@
       "ver": "221.5080.1",
       "archive": "https://download.jetbrains.com/cpp/CLion-221.5080.1.tar.gz",
       "sha256": "26c35f60b04ed2b54579010f4a997886b07cadf777890876863cddf04475aceb"
+    },
+    "PCP": {
+      "ver": "221.4994.44",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-221.4994.44.tar.gz",
+      "sha256": "e0a1bb459bba5ef2f64eb3ec42cbdf99b40ddad398115e76084647c1a5975c68"
     },
     "WS": {
       "ver": "221.4994.43",

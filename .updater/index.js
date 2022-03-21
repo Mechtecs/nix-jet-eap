@@ -22,9 +22,15 @@ const jetbrainsAPI = {
       code: 'PS',
     },
     {
-
+      name: 'PyCharm Professional',
+      code: 'PCP',
+    },
+    {
+      name: 'Rider',
+      code: 'RD',
+    },
+    {
       name: 'WebStorm',
-
       code: 'WS',
     }
   ],
