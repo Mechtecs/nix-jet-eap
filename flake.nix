@@ -41,18 +41,18 @@
           });
           name = "clion";
         } // CL));
-        rider = with WS; (magic ({
+        rider = with RD; (magic ({
           pkg = rider;
           name = "rider";
-        } // WS));
+        } // RD));
         pycharm-professional = with PCP; (magic ({
           pkg = pycharm-professional;
           name = "pycharm-professional";
         } // PCP));
-        webstorm = with RD; (magic ({
+        webstorm = with WS; (magic ({
           pkg = webstorm;
           name = "webstorm";
-        } // RD));
+        } // WS));
       };
     in
     {
