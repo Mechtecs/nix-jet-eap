@@ -43,9 +43,9 @@
   },
   "eap": {
     "RD": {
-      "ver": "221.4994.45",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2022.1-EAP6-221.4994.45.Checked.tar.gz",
-      "sha256": "5b3a05eef7dd605fbed32e05f56d6c8a064b7c45f529a70685ccb1af851c3ae9"
+      "ver": "221.5080.29",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2022.1-EAP7-221.5080.29.Checked.tar.gz",
+      "sha256": "e0d3f83a11e43577cde3f921ccb8c691a40ea99095b87447ca6f47234dc1a7f5"
     },
     "DG": {
       "ver": "221.4906.1",
@@ -78,9 +78,9 @@
       "sha256": "e0a1bb459bba5ef2f64eb3ec42cbdf99b40ddad398115e76084647c1a5975c68"
     },
     "WS": {
-      "ver": "221.4994.43",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-221.4994.43.tar.gz",
-      "sha256": "972f9c71d2c244d68cde49c1bcc8695dfd315f2b26a6030b13a10b0b0c48f4b6"
+      "ver": "221.5080.13",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-221.5080.13.tar.gz",
+      "sha256": "303a199cebceb9f40cdf430ea36fcaae565d4eca91ae4114f36e7cee76061989"
     }
   }
 }
