@@ -38,4 +38,4 @@ jobs:
             git add versions.json
             git commit -m "Update versions.json"
             git push
-          else
+          fi
