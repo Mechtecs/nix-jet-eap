@@ -1,39 +1,48 @@
-const axios = require('axios');
-const {writeFile, realpath} = require('fs/promises');
+const {get} = require('axios');
+const { writeFile, realpath } = require('fs/promises');
 
 const jetbrainsAPI = {
   host: 'data.services.jetbrains.com',
-  codes: ["SPA", "TBA", "IIU", "PCP", "WS", "PS", "RS", "RD", "CL", "DS", "DG", "RM", "AC", "GO", "RC", "DPK", "DP", "DM", "DC", "YTD", "TC", "HB", "MPS", "PCE", "IIE"],
-  products: [
-    {
-      name: 'CLion',
-      code: 'CL'
-    }, {
-      name: 'Datagrip',
-      code: 'DG',
-    }, {
-      name: 'GoLand',
-      code: 'GO',
-    }, {
-      name: 'IntelliJ IDEA Ultimate',
-      code: 'IIU',
-    }, {
-      name: 'PHPStorm',
-      code: 'PS',
+  codes: {
+    // dotUltimate suite - Windows only
+    dotUltimate: {
+      DC: 'dotCover',
+      DM: 'dotMemory',
+      DP: 'dotTrace',
+      DPK: 'dotPeek',
+      RC: 'ReSharperCpp',
+      RS: 'ReSharper',
     },
-    {
-      name: 'PyCharm Professional',
-      code: 'PCP',
+
+    // macOS only
+    macOS: {
+      AC: 'AppCode',
     },
-    {
-      name: 'Rider',
-      code: 'RD',
+
+    server: {
+      YTD: 'YouTrack',
+      TC: 'TeamCity',
     },
-    {
-      name: 'WebStorm',
-      code: 'WS',
-    }
-  ],
+
+    // tools available for linux
+    IDE: {
+      CL: 'CLion',
+      DG: 'DataGrip',
+      DS: 'DataSpell',
+      GO: 'GoLand',
+      HB: 'Hub',
+      IIE: 'IntelliJ IDEA Edu',
+      IIU: 'IntelliJ IDEA',
+      MPS: 'MPS',
+      PCE: 'PyCharm Edu',
+      PCP: 'PyCharm',
+      PS: 'PhpStorm',
+      RD: 'Rider',
+      RM: 'RubyMine',
+      TBA: 'Toolbox',
+      WS: 'WebStorm',
+    },
+  },
   ressources: {
     productReleases: '/products/releases',
   },
@@ -46,14 +55,15 @@ const jetbrainsAPI = {
  * @param queryParams object
  * @return {Promise<AxiosResponse<any>>}
  */
-function fetchReleases(codes, queryParams) {
-  return axios.get(`https://${jetbrainsAPI.host}${jetbrainsAPI.ressources.productReleases}`, {
+function fetchReleases(codes, additionalParams = {}) {
+  return get(`https://${jetbrainsAPI.host}${jetbrainsAPI.ressources.productReleases}`, {
     params: {
+      latest: 'true',
       code: codes.join(','),
-      ...queryParams,
+      ...additionalParams,
     },
   });
-};
+}
 
 function extractBuildInformation(products) {
   let builds = [];
@@ -78,7 +88,7 @@ function extractBuildInformation(products) {
 async function loadBuildMetadata(build) {
   return {
     ...build,
-    sha256: await axios.get(build.link.checksum).then(response => response.data.split(' ')[0]),
+    sha256: await get(build.link.checksum).then(response => response.data.split(' ')[0]),
   }
 }
 
@@ -94,20 +104,19 @@ function mapBuildsToObject(builds) {
   return buildsObject;
 }
 
+function sortBuildsByCode(builds) {
+  return builds.sort((a, b) => a.code.localeCompare(b.code));
+}
+
 async function run() {
-  const productCodes = jetbrainsAPI.products.map(product => product.code);
+  const productCodes = Object.keys(jetbrainsAPI.codes.IDE);
   const queries = [
-    fetchReleases(productCodes, {
-      latest: 'true',
-    }),
-    fetchReleases(productCodes, {
-      latest: 'true',
-      type: 'eap',
-    }),
+    fetchReleases(productCodes),
+    fetchReleases(productCodes, {type: 'eap'}),
   ];
   const responses = (await Promise.all(queries)).map(response => response.data);
-  const stableBuilds = await Promise.all(await extractBuildInformation(responses[0]).map(loadBuildMetadata));
-  const eapBuilds = await Promise.all(await extractBuildInformation(responses[1]).map(loadBuildMetadata));
+  const stableBuilds = sortBuildsByCode(await Promise.all(extractBuildInformation(responses[0]).map(loadBuildMetadata)));
+  const eapBuilds = sortBuildsByCode(await Promise.all(extractBuildInformation(responses[1]).map(loadBuildMetadata)));
 
   const products = {
     stable: mapBuildsToObject(stableBuilds),
