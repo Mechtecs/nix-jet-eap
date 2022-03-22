@@ -1,39 +1,74 @@
 {
   "stable": {
-    "RD": {
-      "ver": "2021.3.3",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2021.3.3.tar.gz",
-      "sha256": "1dc57d5d7932d4a8dea51fc5cbdaa52f9626490092978f02fa15bb41cb84068f"
+    "CL": {
+      "ver": "2021.3.4",
+      "archive": "https://download.jetbrains.com/cpp/CLion-2021.3.4.tar.gz",
+      "sha256": "f3b0b9e0dd0cd4aebef5d424e7a22868c732daad47d6c94f73630cef449ccf78"
     },
     "DG": {
       "ver": "2021.3.4",
       "archive": "https://download.jetbrains.com/datagrip/datagrip-2021.3.4.tar.gz",
       "sha256": "a34670f1a6c77e00237302a70f22fb5bf089dfe128341fd89b2f25bb8becb325"
     },
-    "PS": {
+    "DS": {
       "ver": "2021.3.3",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2021.3.3.tar.gz",
-      "sha256": "df22f80b920f18d04ab9da18886b9102ec4cbe1d2a7f659a715f233eb4a37193"
-    },
-    "IIU": {
-      "ver": "2021.3.3",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-2021.3.3.tar.gz",
-      "sha256": "cdf65a9900f4436da5306ad2eb27f2b32346b3d56e8f07aac6815b402b1d6c99"
+      "archive": "https://download.jetbrains.com/python/dataspell-2021.3.3.tar.gz",
+      "sha256": "79a00d606c9bc05b5ec8aa2d75da8d9a874d58174099d177d93a6e5421c1fe57"
     },
     "GO": {
       "ver": "2021.3.4",
       "archive": "https://download.jetbrains.com/go/goland-2021.3.4.tar.gz",
       "sha256": "e7cb7845bdd71a3caf7cf27c4e44219ac805f13a6b154351b7d285ae34ab407e"
     },
-    "CL": {
-      "ver": "2021.3.4",
-      "archive": "https://download.jetbrains.com/cpp/CLion-2021.3.4.tar.gz",
-      "sha256": "f3b0b9e0dd0cd4aebef5d424e7a22868c732daad47d6c94f73630cef449ccf78"
+    "HB": {
+      "ver": "2022.1",
+      "archive": "https://download.jetbrains.com/hub/hub-2022.1.14499.zip",
+      "sha256": "68473cb0c1cecfea3c8ebb988de29edc17b288e420d613ba2f2d3b2fa7a7f5c7"
+    },
+    "IIE": {
+      "ver": "2021.3.3",
+      "archive": "https://download.jetbrains.com/idea/ideaIE-2021.3.3.tar.gz",
+      "sha256": "37fbca62e262d12d355f58b3c9a31a470b3845d91ef1585f7ed0b6626b451889"
+    },
+    "IIU": {
+      "ver": "2021.3.3",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-2021.3.3.tar.gz",
+      "sha256": "cdf65a9900f4436da5306ad2eb27f2b32346b3d56e8f07aac6815b402b1d6c99"
+    },
+    "MPS": {
+      "ver": "2021.3",
+      "archive": "https://download.jetbrains.com/mps/2021.3/MPS-2021.3.tar.gz",
+      "sha256": "e9aeb62f0d667dd285f808e3ba308f572797dbf11d51e9aa06cf49481bee857f"
+    },
+    "PCE": {
+      "ver": "2021.3.3",
+      "archive": "https://download.jetbrains.com/python/pycharm-edu-2021.3.3.tar.gz",
+      "sha256": "7ff4b3acfd57b5ed4e16dd2e1f999a7a6f0e36de7eb6ba904030c2c3ba1fb688"
     },
     "PCP": {
       "ver": "2021.3.3",
       "archive": "https://download.jetbrains.com/python/pycharm-professional-2021.3.3.tar.gz",
       "sha256": "0135af18088581891717bf5d6156902a166adb853fd0415ad52c6414f3a8cfc7"
+    },
+    "PS": {
+      "ver": "2021.3.3",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2021.3.3.tar.gz",
+      "sha256": "df22f80b920f18d04ab9da18886b9102ec4cbe1d2a7f659a715f233eb4a37193"
+    },
+    "RD": {
+      "ver": "2021.3.3",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2021.3.3.tar.gz",
+      "sha256": "1dc57d5d7932d4a8dea51fc5cbdaa52f9626490092978f02fa15bb41cb84068f"
+    },
+    "RM": {
+      "ver": "2021.3.3",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2021.3.3.tar.gz",
+      "sha256": "601f51c8e8db6a3e7686ce0005a284682ff6893a9a4d9360d36b6848887f8e40"
+    },
+    "TBA": {
+      "ver": "1.22",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.22.10970.tar.gz",
+      "sha256": "3b2cfc340d9116699d9e83173ea79d325df7f940d6f446d34076833608a99139"
     },
     "WS": {
       "ver": "2021.3.3",
@@ -42,40 +77,55 @@
     }
   },
   "eap": {
-    "RD": {
-      "ver": "221.5080.29",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2022.1-EAP7-221.5080.29.Checked.tar.gz",
-      "sha256": "e0d3f83a11e43577cde3f921ccb8c691a40ea99095b87447ca6f47234dc1a7f5"
+    "CL": {
+      "ver": "221.5080.1",
+      "archive": "https://download.jetbrains.com/cpp/CLion-221.5080.1.tar.gz",
+      "sha256": "26c35f60b04ed2b54579010f4a997886b07cadf777890876863cddf04475aceb"
     },
     "DG": {
       "ver": "221.4906.1",
       "archive": "https://download.jetbrains.com/datagrip/datagrip-221.4906.1.tar.gz",
       "sha256": "c11bc666011612003e219632efadcaa5ef4a30bc2e18da30e574d5c68c6bc18c"
     },
-    "PS": {
-      "ver": "221.4994.43",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-221.4994.43.tar.gz",
-      "sha256": "b02f417d03e36236d942fa8ecb73139fce0064f8fbee588c4c6293a048bee89e"
-    },
-    "IIU": {
-      "ver": "221.5080.9",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-221.5080.9.tar.gz",
-      "sha256": "2db2bfc7f9792513746ef8e90ffacadacf4032e8a3f486dfa8048ddd0e07c817"
+    "DS": {
+      "ver": "221.4994.58",
+      "archive": "https://download.jetbrains.com/python/dataspell-221.4994.58.tar.gz",
+      "sha256": "46a1dd67cf3cc2da3b42af746376704c48bf524b60b02bddbbddfe049933d41c"
     },
     "GO": {
       "ver": "221.5080.20",
       "archive": "https://download.jetbrains.com/go/goland-221.5080.20.tar.gz",
       "sha256": "39052d9b938066edc63c60288e21d4cfc5b28b88f58308e0e156a564803bec53"
     },
-    "CL": {
-      "ver": "221.5080.1",
-      "archive": "https://download.jetbrains.com/cpp/CLion-221.5080.1.tar.gz",
-      "sha256": "26c35f60b04ed2b54579010f4a997886b07cadf777890876863cddf04475aceb"
+    "IIU": {
+      "ver": "221.5080.9",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-221.5080.9.tar.gz",
+      "sha256": "2db2bfc7f9792513746ef8e90ffacadacf4032e8a3f486dfa8048ddd0e07c817"
+    },
+    "MPS": {
+      "ver": "213.6461.785",
+      "archive": "https://download.jetbrains.com/mps/2021.3/MPS-2021.3-RC1.tar.gz",
+      "sha256": "777b94b1b53d7487e8c7f71e73d30e175086ab7ae97ca264e5c2a2737f48c097"
     },
     "PCP": {
       "ver": "221.4994.44",
       "archive": "https://download.jetbrains.com/python/pycharm-professional-221.4994.44.tar.gz",
       "sha256": "e0a1bb459bba5ef2f64eb3ec42cbdf99b40ddad398115e76084647c1a5975c68"
+    },
+    "PS": {
+      "ver": "221.4994.43",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-221.4994.43.tar.gz",
+      "sha256": "b02f417d03e36236d942fa8ecb73139fce0064f8fbee588c4c6293a048bee89e"
+    },
+    "RD": {
+      "ver": "221.5080.29",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2022.1-EAP7-221.5080.29.Checked.tar.gz",
+      "sha256": "e0d3f83a11e43577cde3f921ccb8c691a40ea99095b87447ca6f47234dc1a7f5"
+    },
+    "RM": {
+      "ver": "221.5080.4",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-221.5080.4.tar.gz",
+      "sha256": "a5e15d70e6b66ff45a1d6af59e42b7cbc6f51c4db746715e4ed2b381f980b6fb"
     },
     "WS": {
       "ver": "221.5080.13",
