@@ -22,8 +22,8 @@
     },
     "HB": {
       "ver": "2022.1",
-      "archive": "https://download.jetbrains.com/hub/hub-2022.1.14499.zip",
-      "sha256": "68473cb0c1cecfea3c8ebb988de29edc17b288e420d613ba2f2d3b2fa7a7f5c7"
+      "archive": "https://download.jetbrains.com/hub/hub-2022.1.14576.zip",
+      "sha256": "5483ecae241231c43a335a64492fa4c1a980ae178bcb4830fdb8d4330c88a8f9"
     },
     "IIE": {
       "ver": "2021.3.4",
