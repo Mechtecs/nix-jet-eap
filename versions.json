@@ -1,9 +1,9 @@
 {
   "stable": {
     "CL": {
-      "ver": "2021.3.4",
-      "archive": "https://download.jetbrains.com/cpp/CLion-2021.3.4.tar.gz",
-      "sha256": "f3b0b9e0dd0cd4aebef5d424e7a22868c732daad47d6c94f73630cef449ccf78"
+      "ver": "2022.1",
+      "archive": "https://download.jetbrains.com/cpp/CLion-2022.1.tar.gz",
+      "sha256": "a8ad8db6362d60a5ce60a7552110887dbd12e8420c839c368b55808b68dea38b"
     },
     "DG": {
       "ver": "2022.1",
@@ -16,9 +16,9 @@
       "sha256": "a75c7cd1b65a0657d5409d2db0179613db536515990e83be017dc306c5d22429"
     },
     "GO": {
-      "ver": "2021.3.4",
-      "archive": "https://download.jetbrains.com/go/goland-2021.3.4.tar.gz",
-      "sha256": "e7cb7845bdd71a3caf7cf27c4e44219ac805f13a6b154351b7d285ae34ab407e"
+      "ver": "2022.1",
+      "archive": "https://download.jetbrains.com/go/goland-2022.1.tar.gz",
+      "sha256": "7803f432b62b7b9a9f340fd48375f50d60b0e5412b052b70e175de8edf82a947"
     },
     "HB": {
       "ver": "2022.1",
@@ -51,9 +51,9 @@
       "sha256": "9b160ed74f384be31ff376af73f91924a212e6440ce142a581b22f261e6cf605"
     },
     "PS": {
-      "ver": "2021.3.3",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2021.3.3.tar.gz",
-      "sha256": "df22f80b920f18d04ab9da18886b9102ec4cbe1d2a7f659a715f233eb4a37193"
+      "ver": "2022.1",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2022.1.tar.gz",
+      "sha256": "e30d6991c98addcc02ab05c623d0c42797d605db73c01b7c153bf2246c877395"
     },
     "RD": {
       "ver": "2021.3.4",
