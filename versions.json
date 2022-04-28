@@ -26,9 +26,9 @@
       "sha256": "a7f1a9bb94ab6d77c5addaf49095cf9baf0e594a2594fb6f1a3caede270a73b1"
     },
     "IIE": {
-      "ver": "2021.3.4",
-      "archive": "https://download.jetbrains.com/idea/ideaIE-2021.3.4.tar.gz",
-      "sha256": "2ccddc7dac0568fb85e056207b9a7523b4dc45556d541b05f6ea965ac14a074c"
+      "ver": "2022.1",
+      "archive": "https://download.jetbrains.com/idea/ideaIE-2022.1.tar.gz",
+      "sha256": "7065cc26e1ba4037ecb64d3809277f82f8b083c51b48e2ff8d5f22fc7edb3765"
     },
     "IIU": {
       "ver": "2022.1",
@@ -41,9 +41,9 @@
       "sha256": "e9aeb62f0d667dd285f808e3ba308f572797dbf11d51e9aa06cf49481bee857f"
     },
     "PCE": {
-      "ver": "2021.3.4",
-      "archive": "https://download.jetbrains.com/python/pycharm-edu-2021.3.4.tar.gz",
-      "sha256": "4d348a57a8883b32d4ba92fb70e7e9ec4257afcd029ea02522a2679edae7a484"
+      "ver": "2022.1",
+      "archive": "https://download.jetbrains.com/python/pycharm-edu-2022.1.tar.gz",
+      "sha256": "e51bdb14950bbce6f90154d5abe5eabaefc601cf7613c31bfc09e3e21f883c1a"
     },
     "PCP": {
       "ver": "2022.1",
