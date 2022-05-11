@@ -31,9 +31,9 @@
       "sha256": "7065cc26e1ba4037ecb64d3809277f82f8b083c51b48e2ff8d5f22fc7edb3765"
     },
     "IIU": {
-      "ver": "2022.1",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-2022.1.tar.gz",
-      "sha256": "6ec9623d995e519968edfde73be7b3178bf0e345c86a08cfbfcaef341e7f346e"
+      "ver": "2022.1.1",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-2022.1.1.tar.gz",
+      "sha256": "4291489cc15f62fa0c9ed338b94dba9889b23d8d8d6e00638fdcb4aab69eb0f5"
     },
     "MPS": {
       "ver": "2021.3.1",
