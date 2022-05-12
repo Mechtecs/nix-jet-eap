@@ -46,9 +46,9 @@
       "sha256": "e51bdb14950bbce6f90154d5abe5eabaefc601cf7613c31bfc09e3e21f883c1a"
     },
     "PCP": {
-      "ver": "2022.1",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-2022.1.tar.gz",
-      "sha256": "9b160ed74f384be31ff376af73f91924a212e6440ce142a581b22f261e6cf605"
+      "ver": "2022.1.1",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-2022.1.1.tar.gz",
+      "sha256": "fee081e04964b2eb934d425043117e2dda52f34942e7f6111a6fb3bb948d73c2"
     },
     "PS": {
       "ver": "2022.1",
