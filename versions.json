@@ -51,9 +51,9 @@
       "sha256": "fee081e04964b2eb934d425043117e2dda52f34942e7f6111a6fb3bb948d73c2"
     },
     "PS": {
-      "ver": "2022.1",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2022.1.tar.gz",
-      "sha256": "e30d6991c98addcc02ab05c623d0c42797d605db73c01b7c153bf2246c877395"
+      "ver": "2022.1.1",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2022.1.1.tar.gz",
+      "sha256": "f7da3142e0af46d4433a7564f5764e60d301a1c2195ed52f8c346b053d1f26ea"
     },
     "RD": {
       "ver": "2022.1.1",
@@ -71,9 +71,9 @@
       "sha256": "8c794479e8fcab8874ace823b095b893f3e149ae1abbe480c20b712e7fc2ee38"
     },
     "WS": {
-      "ver": "2022.1",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2022.1.tar.gz",
-      "sha256": "d9dd5815cc456d74f7dc47533ade3990d0f2f9ce0c4dab3d5ae9b04e01d1746c"
+      "ver": "2022.1.1",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2022.1.1.tar.gz",
+      "sha256": "9154ef0f383c5271c504791a1553c20dfc872d6625d0ea89fa241402d7365eef"
     }
   },
   "eap": {
