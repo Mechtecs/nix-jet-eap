@@ -98,9 +98,9 @@
       "sha256": "f0e45fb35885d3eed586cba63622d1914aa1c55f2e1586fb46d5e9077e1f16cd"
     },
     "IIU": {
-      "ver": "221.5787.3",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-221.5787.3.tar.gz",
-      "sha256": "46ffe596c714a3d4c1083107813bcfbd9900cc289885e855b9296253c88a0f99"
+      "ver": "222.2270.31",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-222.2270.31.tar.gz",
+      "sha256": "6c587eb0f4baa47385938c76182af714d2b79f32307ec9c226e0741e09739495"
     },
     "MPS": {
       "ver": "213.6461.785",
