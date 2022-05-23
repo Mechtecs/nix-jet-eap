@@ -25,6 +25,11 @@
       "archive": "https://download.jetbrains.com/hub/hub-2022.1.14638.zip",
       "sha256": "a7f1a9bb94ab6d77c5addaf49095cf9baf0e594a2594fb6f1a3caede270a73b1"
     },
+    "IIC": {
+      "ver": "2022.1.1",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-2022.1.1.tar.gz",
+      "sha256": "d43a290a0723336944236ef6275a2dd660db424abcce6238c53cb57469b8cb41"
+    },
     "IIE": {
       "ver": "2022.1",
       "archive": "https://download.jetbrains.com/idea/ideaIE-2022.1.tar.gz",
@@ -96,6 +101,11 @@
       "ver": "222.2270.35",
       "archive": "https://download.jetbrains.com/go/goland-222.2270.35.tar.gz",
       "sha256": "f4074d45469a02a7c9ffa2e00aa92941bed8d5e3adaf0ce96a97dde590197eb3"
+    },
+    "IIC": {
+      "ver": "222.2270.31",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-222.2270.31.tar.gz",
+      "sha256": "9214d04769c18c8e1d019cffb74ce13ba555e99d06a5f370c1a9eb68ee4e41d0"
     },
     "IIU": {
       "ver": "222.2270.31",

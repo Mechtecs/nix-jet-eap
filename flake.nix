@@ -26,6 +26,10 @@
           pkg = phpstorm;
           name = "phpstorm";
         } // PS));
+        idea-community = with IIC; (magic ({
+          pkg = idea-community;
+          name = "idea-community";
+        } // IIC));
         idea-ultimate = with IIU; (magic ({
           pkg = idea-ultimate;
           name = "idea-ultimate";
