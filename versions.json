@@ -31,9 +31,9 @@
       "sha256": "d43a290a0723336944236ef6275a2dd660db424abcce6238c53cb57469b8cb41"
     },
     "IIE": {
-      "ver": "2022.1",
-      "archive": "https://download.jetbrains.com/idea/ideaIE-2022.1.tar.gz",
-      "sha256": "7065cc26e1ba4037ecb64d3809277f82f8b083c51b48e2ff8d5f22fc7edb3765"
+      "ver": "2022.1.1",
+      "archive": "https://download.jetbrains.com/idea/ideaIE-2022.1.1.tar.gz",
+      "sha256": "58979c3f4cfd63bcf895551322a750fa0b6e49b8a538159f4b27eb3731bb875c"
     },
     "IIU": {
       "ver": "2022.1.1",
@@ -46,9 +46,9 @@
       "sha256": "b7d41c4362e71f30adeaed9f0ec30afd5ac0e6eea9650ee4a19d70a5783db3e6"
     },
     "PCE": {
-      "ver": "2022.1",
-      "archive": "https://download.jetbrains.com/python/pycharm-edu-2022.1.tar.gz",
-      "sha256": "e51bdb14950bbce6f90154d5abe5eabaefc601cf7613c31bfc09e3e21f883c1a"
+      "ver": "2022.1.1",
+      "archive": "https://download.jetbrains.com/python/pycharm-edu-2022.1.1.tar.gz",
+      "sha256": "77dbfd630c5543ca91f264d1c6cfb981d69442a9df2d73784c8ad36cf0dc526e"
     },
     "PCP": {
       "ver": "2022.1.1",
