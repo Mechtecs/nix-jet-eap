@@ -66,9 +66,9 @@
       "sha256": "da19bab2157c9e4847c114192bc834c43d6c7417bd3b06532bda7120adb0bd5c"
     },
     "RM": {
-      "ver": "2022.1.1",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2022.1.1.tar.gz",
-      "sha256": "5175abb089cde9095db3643800e2de5c7fa29156d9b6181ef53555e4815510bd"
+      "ver": "2022.1.2",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2022.1.2.tar.gz",
+      "sha256": "a3eebdcdae1fc1ba604951aa0d11532896264fe637360f9cf814e9be1860894e"
     },
     "TBA": {
       "ver": "1.24",
@@ -98,9 +98,9 @@
       "sha256": "a0e81488fb3e566ab775d03d2e4beb7859703d791e49955c819b958a01b72e50"
     },
     "GO": {
-      "ver": "222.2680.5",
-      "archive": "https://download.jetbrains.com/go/goland-222.2680.5.tar.gz",
-      "sha256": "7f4b23610df7802b6594a38752814dee96d0052d5b1af5050900fa620ce7d8c0"
+      "ver": "222.2889.12",
+      "archive": "https://download.jetbrains.com/go/goland-222.2889.12.tar.gz",
+      "sha256": "75998900107e607cc828ed0fc0759fb0bd66c36a5852a717e785ce14f2634852"
     },
     "IIC": {
       "ver": "222.2680.4",
