@@ -103,14 +103,14 @@
       "sha256": "75998900107e607cc828ed0fc0759fb0bd66c36a5852a717e785ce14f2634852"
     },
     "IIC": {
-      "ver": "222.2680.4",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-222.2680.4.tar.gz",
-      "sha256": "c09cdb047d436634abf09609b487e421c9e6f4821038132e6637c3095587abf3"
+      "ver": "222.2889.14",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-222.2889.14.tar.gz",
+      "sha256": "cec4a30cb6c4da39a1a2bf65c8b6114d9034fe4f2072ec942b23f5e8de768c59"
     },
     "IIU": {
-      "ver": "222.2680.4",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-222.2680.4.tar.gz",
-      "sha256": "d99b838faab3bde1312945af872e7031c75b86cfe975c2ac78a458d941a559ab"
+      "ver": "222.2889.14",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-222.2889.14.tar.gz",
+      "sha256": "2540bdae9dc74ac3cdd4d36b338e854817b794031ba6f43f17ead34b41347932"
     },
     "MPS": {
       "ver": "213.6461.785",
@@ -138,9 +138,9 @@
       "sha256": "ca463827a01515e76731c73cfcca358155bc4f2b5b33985bdc5c81a99a09d465"
     },
     "WS": {
-      "ver": "222.2680.4",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-222.2680.4.tar.gz",
-      "sha256": "c7d6029a4dc618590458439159f818545cbd5043deed3c4fcc1987e9c461109d"
+      "ver": "222.2889.12",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-222.2889.12.tar.gz",
+      "sha256": "f7f0a2e00716594a9fd047eaa814f96d36499e7740527e4f7238fc79335e6460"
     }
   }
 }
