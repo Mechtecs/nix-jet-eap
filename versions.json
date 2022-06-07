@@ -11,9 +11,9 @@
       "sha256": "687a8908296f051d344cbc61318fe886c85dbe8bcf1e345908a5bc219e1deae8"
     },
     "DS": {
-      "ver": "2022.1.1",
-      "archive": "https://download.jetbrains.com/python/dataspell-2022.1.1.tar.gz",
-      "sha256": "4500e1ca5d383a41cc1edaec01dc77a66d39cbc4ed816dbb5b5b4da9c5ec71d1"
+      "ver": "2022.1.2",
+      "archive": "https://download.jetbrains.com/python/dataspell-2022.1.2.tar.gz",
+      "sha256": "e891f4457a03d701ece3b2c33046442eec8777cff704c23640d6e76bb23b0d36"
     },
     "GO": {
       "ver": "2022.1.2",
