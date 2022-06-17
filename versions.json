@@ -98,19 +98,19 @@
       "sha256": "a0e81488fb3e566ab775d03d2e4beb7859703d791e49955c819b958a01b72e50"
     },
     "GO": {
-      "ver": "222.2964.16",
-      "archive": "https://download.jetbrains.com/go/goland-222.2964.16.tar.gz",
-      "sha256": "a69b34ce9a9312c0c9e67879c68f47b1eeb804af4e5511d7fc7106e74cfb4503"
+      "ver": "222.3048.6",
+      "archive": "https://download.jetbrains.com/go/goland-222.3048.6.tar.gz",
+      "sha256": "831b047c069d4f6786d25e558c51e60f07e913cda8b1cf8bacb549587d3bf939"
     },
     "IIC": {
-      "ver": "222.2964.55",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-222.2964.55.tar.gz",
-      "sha256": "98626ab5b9cd43aa6be5f2e5b2df10bac1582ce4142b11773d1f81776c31f181"
+      "ver": "222.3048.13",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-222.3048.13.tar.gz",
+      "sha256": "ed56102d21a5d2529fef42d7ad8eba2da2765064c805a50f5162fee7ee7ee29a"
     },
     "IIU": {
-      "ver": "222.2964.55",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-222.2964.55.tar.gz",
-      "sha256": "0b1403a8af0b66baba43a655f8e055a9481a98e20d8e1bfb0125167a3686746b"
+      "ver": "222.3048.13",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-222.3048.13.tar.gz",
+      "sha256": "8ec1870828a2451a8c296238d62b077bf88fd0685658f981d4db7676826d6679"
     },
     "MPS": {
       "ver": "213.6461.785",
@@ -118,9 +118,9 @@
       "sha256": "777b94b1b53d7487e8c7f71e73d30e175086ab7ae97ca264e5c2a2737f48c097"
     },
     "PCP": {
-      "ver": "222.2889.11",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-222.2889.11.tar.gz",
-      "sha256": "54680a9a01a2e3ae044a635d417f99194ff74374e5bce67c642a62298323a741"
+      "ver": "222.3048.9",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-222.3048.9.tar.gz",
+      "sha256": "77e0d20de20b59b561431aa956eecd4c6c220dd35cd51f7bc59db37e39029377"
     },
     "PS": {
       "ver": "222.2964.63",
@@ -128,9 +128,9 @@
       "sha256": "5e94fa34349bab6f40937d4b03edd9110021a17403769925abd61ff6d26f4f02"
     },
     "RD": {
-      "ver": "222.2964.37",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2022.2-EAP4-222.2964.37.Checked.tar.gz",
-      "sha256": "cb0c7fd14c7842a928b1e13f539e174d4274ebfaee24655b69fc0dfd380d7d76"
+      "ver": "222.3048.11",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2022.2-EAP5-222.3048.11.Checked.tar.gz",
+      "sha256": "7b9c2b5bda647ea285a1219927e3b8da7d0ba601e84fddc1655ebfa660b255dd"
     },
     "RM": {
       "ver": "222.3048.5",
@@ -138,9 +138,9 @@
       "sha256": "a5bdabc8ba3c6243a1008fa3b958e3c3f2477a54d0ee43be55f8523a410a1ce8"
     },
     "WS": {
-      "ver": "222.2964.53",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-222.2964.53.tar.gz",
-      "sha256": "3b487680e8dea5c833e30c464ada6dac01ca7383da93632e21f009d254dc3895"
+      "ver": "222.3048.13",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-222.3048.13.tar.gz",
+      "sha256": "d8eb23db330ed83aca220494f535dbaac9e8496b330bdb36760edae27dd2ff3c"
     }
   }
 }
