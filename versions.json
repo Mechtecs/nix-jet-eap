@@ -88,9 +88,9 @@
       "sha256": "dab6f6cd6fe7088c186c2af33b0930cbc67c11b8cc4e3a079cbba58cce829d50"
     },
     "DG": {
-      "ver": "222.2889.12",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-222.2889.12.tar.gz",
-      "sha256": "3015759f64c222d444299e4af985b7540738535e86eee31474b4a87518f7e3dc"
+      "ver": "222.3048.12",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-222.3048.12.tar.gz",
+      "sha256": "b0e3c0a5bd3dac0a87f0fed83cd688d14c5be92889fc589d26801e198891cd17"
     },
     "DS": {
       "ver": "222.2270.36",
@@ -123,9 +123,9 @@
       "sha256": "77e0d20de20b59b561431aa956eecd4c6c220dd35cd51f7bc59db37e39029377"
     },
     "PS": {
-      "ver": "222.2964.63",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-222.2964.63.tar.gz",
-      "sha256": "5e94fa34349bab6f40937d4b03edd9110021a17403769925abd61ff6d26f4f02"
+      "ver": "222.3048.13",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-222.3048.13.tar.gz",
+      "sha256": "433dcf67bd5a5a8f4e165d54c56b0995ad952921801fb2ec6ffb0fea08f25b41"
     },
     "RD": {
       "ver": "222.3048.11",
