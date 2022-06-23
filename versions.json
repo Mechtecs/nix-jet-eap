@@ -123,14 +123,14 @@
       "sha256": "77e0d20de20b59b561431aa956eecd4c6c220dd35cd51f7bc59db37e39029377"
     },
     "PS": {
-      "ver": "222.3048.13",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-222.3048.13.tar.gz",
-      "sha256": "433dcf67bd5a5a8f4e165d54c56b0995ad952921801fb2ec6ffb0fea08f25b41"
+      "ver": "222.3153.10",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-222.3153.10.tar.gz",
+      "sha256": "46f8357ea62f0272888949d75da5017bff628ce1810be36a15de6ea8efb49e41"
     },
     "RD": {
-      "ver": "222.3048.11",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2022.2-EAP5-222.3048.11.Checked.tar.gz",
-      "sha256": "7b9c2b5bda647ea285a1219927e3b8da7d0ba601e84fddc1655ebfa660b255dd"
+      "ver": "222.3153.9",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2022.2-EAP6-222.3153.9.Checked.tar.gz",
+      "sha256": "03ca2ec90b84e05729942cb020b997e2a6fe917e957f929293a505114b719510"
     },
     "RM": {
       "ver": "222.3048.5",
