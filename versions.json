@@ -76,9 +76,9 @@
       "sha256": "25c43177a02a6689b285279ed12e3bd19896990e9584659fd2389c96aa36c89d"
     },
     "WS": {
-      "ver": "2022.1.3",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2022.1.3.tar.gz",
-      "sha256": "cc32c57753f1846f2679cef27a365aebcdacfbbffaea9f33bef1d0da6032ed6c"
+      "ver": "2022.1.4",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2022.1.4.tar.gz",
+      "sha256": "e0df9f12136edd74a11313a563e8d41cb047f119fddbcfc9edb0672ade4cb7e7"
     }
   },
   "eap": {
