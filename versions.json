@@ -72,8 +72,8 @@
     },
     "TBA": {
       "ver": "1.25",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.25.12569.tar.gz",
-      "sha256": "25c43177a02a6689b285279ed12e3bd19896990e9584659fd2389c96aa36c89d"
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.25.12627.tar.gz",
+      "sha256": "3ef2e28516a81c3945b85449bc79629fe37f9c8eaa508ec81cef6ca7d7ce1ff5"
     },
     "WS": {
       "ver": "2022.2",
