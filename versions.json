@@ -103,14 +103,14 @@
       "sha256": "651c1f193cffdd4f95bfdef0ce558ca88a9758c3ac7ebac26eb0d191caabd6ac"
     },
     "IIC": {
-      "ver": "222.3345.47",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-222.3345.47.tar.gz",
-      "sha256": "c2ce693053ffe63d4a8225f5be62de83683330e288eb6bc47a20f06e428b9d5d"
+      "ver": "222.3739.24",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-222.3739.24.tar.gz",
+      "sha256": "b25d9cb15ebe2ade66a59daaea5910abc6b3714f9e4f3e4018fe1fe3586f3b0d"
     },
     "IIU": {
-      "ver": "222.3345.47",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-222.3345.47.tar.gz",
-      "sha256": "306d9c39ec55160d560ecfb25cbf98752bd0e295ccc0aa89cf8ed648aa3293b4"
+      "ver": "222.3739.24",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-222.3739.24.tar.gz",
+      "sha256": "1ab2b7f186d30314f8f744923c69eabd5d275f0a9655122aa207f79d7b46318e"
     },
     "MPS": {
       "ver": "213.6461.785",
@@ -133,9 +133,9 @@
       "sha256": "ef0b68570c5d5af2b3fb9c2ae459e051d274be4cdbb61f40f7df2ac4ff3cc8a9"
     },
     "RM": {
-      "ver": "222.3345.94",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-222.3345.94.tar.gz",
-      "sha256": "809af6f35f727f258590e712c3c26db3edb7fbdd67978d6995e673ea63eddbff"
+      "ver": "222.3739.16",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-222.3739.16.tar.gz",
+      "sha256": "f76b915b7e93933050a339ad59315c6fe343cf0a42037c50719e870e60918147"
     },
     "WS": {
       "ver": "222.3345.38",
