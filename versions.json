@@ -6,9 +6,9 @@
       "sha256": "a0d9e77ad4afbb5f7d69e23cf84ccf132eed6ead6c3a7cd442b33924e6931656"
     },
     "DG": {
-      "ver": "2022.2.1",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-2022.2.1.tar.gz",
-      "sha256": "4015bfa478f7ee33914975b530f13930bc32eff86223e9256f2610497f95825f"
+      "ver": "2022.2.2",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-2022.2.2.tar.gz",
+      "sha256": "57aea1e7f4946191b731ce8ce3be66c3dd8328ea098ac710002cad452957d178"
     },
     "DS": {
       "ver": "2022.2",
@@ -113,9 +113,9 @@
       "sha256": "1ab2b7f186d30314f8f744923c69eabd5d275f0a9655122aa207f79d7b46318e"
     },
     "MPS": {
-      "ver": "213.6461.785",
-      "archive": "https://download.jetbrains.com/mps/2021.3/MPS-2021.3-RC1.tar.gz",
-      "sha256": "777b94b1b53d7487e8c7f71e73d30e175086ab7ae97ca264e5c2a2737f48c097"
+      "ver": "222.3345.848",
+      "archive": "https://download.jetbrains.com/mps/2022.2/MPS-2022.2-EAP1.tar.gz",
+      "sha256": "638ed1d72bc17ec6f1ccd34a6dad7b7ccb6a71df9ff46d40ac3ce44b6ec65a07"
     },
     "PCP": {
       "ver": "222.3345.40",
