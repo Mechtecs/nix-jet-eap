@@ -1,9 +1,9 @@
 {
   "stable": {
     "CL": {
-      "ver": "2022.2.2",
-      "archive": "https://download.jetbrains.com/cpp/CLion-2022.2.2.tar.gz",
-      "sha256": "863f0b8d1680e73a24cd6e31754c0bdd449473fc2f8d9f5996d7af2a29c337c9"
+      "ver": "2022.2.3",
+      "archive": "https://download.jetbrains.com/cpp/CLion-2022.2.3.tar.gz",
+      "sha256": "e0338107115231c4b354870dfcf537ba6ad1741a0d310e4e50c48dfc24ff9cce"
     },
     "DG": {
       "ver": "2022.2.4",
@@ -56,9 +56,9 @@
       "sha256": "a23ffa7b617ab27d3c8abb0689b4d03b5370534193152cd4cfe4196c7d150751"
     },
     "PS": {
-      "ver": "2022.2.1",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2022.2.1.tar.gz",
-      "sha256": "dc463578e879f958cae3c5fc775170dd0a6a89347c02aa087126f03cc7a63f79"
+      "ver": "2022.2.2",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2022.2.2.tar.gz",
+      "sha256": "a1a1f21f6e0025138adb40063fe1877974b0a9545cdb1b802dbf166e362408c6"
     },
     "RD": {
       "ver": "2022.2.3",
