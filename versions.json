@@ -56,9 +56,9 @@
       "sha256": "b7bfb86026fba669bb22429ab0840afba5047680202762070cfbb1f181d53d0e"
     },
     "PS": {
-      "ver": "2022.2.2",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2022.2.2.tar.gz",
-      "sha256": "a1a1f21f6e0025138adb40063fe1877974b0a9545cdb1b802dbf166e362408c6"
+      "ver": "2022.2.3",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2022.2.3.tar.gz",
+      "sha256": "2376cd043bb941524df62db40f9125b1c693be11df80a41fd5b3dd9dcd3446e9"
     },
     "RD": {
       "ver": "2022.2.3",
