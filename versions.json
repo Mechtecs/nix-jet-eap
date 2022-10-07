@@ -66,9 +66,9 @@
       "sha256": "2fdff8616fd1574a0ef7baaed855aa39a1254ea164b74d1b4dda11241e58ab2d"
     },
     "RM": {
-      "ver": "2022.2.2",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2022.2.2.tar.gz",
-      "sha256": "b76f1c329e030bd3d29f41c68cc84f7c963980d3f52e31b8bfe2f649c4d05b53"
+      "ver": "2022.2.3",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2022.2.3.tar.gz",
+      "sha256": "a8c3412db30ab7bd8b8601b0a50c95dc48a412391f1c33df27c47cf5d2204257"
     },
     "TBA": {
       "ver": "1.26.1",
@@ -93,9 +93,9 @@
       "sha256": "4afa66df6b2ed49241b4b9d3c08c23292063a0b6bd858add51d4fa8fc8deb409"
     },
     "DS": {
-      "ver": "222.3244.15",
-      "archive": "https://download.jetbrains.com/python/dataspell-222.3244.15.tar.gz",
-      "sha256": "da8bf7965b52845407e1e1c919a95c9be2e6a9dd81c1ae19a60fa598aae7faa3"
+      "ver": "223.6160.11",
+      "archive": "https://download.jetbrains.com/python/dataspell-223.6160.11.tar.gz",
+      "sha256": "76a0ff888c49a5562835474f0bf0ae894fb233a3359c14f611bdcef410e46631"
     },
     "GO": {
       "ver": "223.4884.78",
