@@ -31,9 +31,9 @@
       "sha256": "4ba5faafad48d58db5099fae080ae2238086d3d9803080082de8efe35d8bf4ed"
     },
     "IIE": {
-      "ver": "2022.2.1",
-      "archive": "https://download.jetbrains.com/idea/ideaIE-2022.2.1.tar.gz",
-      "sha256": "69c3ff3bc06059574b8f80bfce82f379a318d8a3176336e65406079d037de77f"
+      "ver": "2022.2.2",
+      "archive": "https://download.jetbrains.com/idea/ideaIE-2022.2.2.tar.gz",
+      "sha256": "4e0aa794ea0f7a1fe6b65414d5920acf07b0ac454bb212644054ea9399736c85"
     },
     "IIU": {
       "ver": "2022.2.3",
@@ -46,9 +46,9 @@
       "sha256": "b7d41c4362e71f30adeaed9f0ec30afd5ac0e6eea9650ee4a19d70a5783db3e6"
     },
     "PCE": {
-      "ver": "2022.2.1",
-      "archive": "https://download.jetbrains.com/python/pycharm-edu-2022.2.1.tar.gz",
-      "sha256": "6e7fe76bdc7d500558375b9ae95eb9be4002efb94ee09fbaadc9cd22d0f71c41"
+      "ver": "2022.2.2",
+      "archive": "https://download.jetbrains.com/python/pycharm-edu-2022.2.2.tar.gz",
+      "sha256": "558f868040510bae1118087146df0099a3df57b376da3713ae02f09f718e9c64"
     },
     "PCP": {
       "ver": "2022.2.3",
@@ -138,9 +138,9 @@
       "sha256": "b699845aa260dd5bf94cf6f177d61785e711c5ef60a024fa128b2b284eab1e56"
     },
     "WS": {
-      "ver": "223.7126.5",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-223.7126.5.tar.gz",
-      "sha256": "d078d3387587e64aa7931fb85f6d0b068986366d441a39a68c4923f3f918bb25"
+      "ver": "223.7255.1",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-223.7255.1.tar.gz",
+      "sha256": "4dc070111259c2f1ff965806986a4b01d2e7ab3bd4735e9edd7b4021d6050b07"
     }
   }
 }
