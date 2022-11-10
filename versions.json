@@ -21,9 +21,9 @@
       "sha256": "e39aaae39e6021e87cece7622c51860d23e2a5b5ac2683fb67d369ec7d609084"
     },
     "HB": {
-      "ver": "2022.2",
-      "archive": "https://download.jetbrains.com/hub/hub-2022.2.15088.zip",
-      "sha256": "8987da44105d59d50498c5b50528d3d1d952ccf087207df53886cc632110b0d3"
+      "ver": "2022.3",
+      "archive": "https://download.jetbrains.com/hub/hub-2022.3.15160.zip",
+      "sha256": "08e49855c123be506ddd1c5c12fdd322be71d776e8c540ba738caff2d1f78125"
     },
     "IIC": {
       "ver": "2022.2.3",
@@ -83,9 +83,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "223.7401.10",
-      "archive": "https://download.jetbrains.com/cpp/CLion-223.7401.10.tar.gz",
-      "sha256": "eff546ca73c45d7a023d88582028644ceb53ae8959232841fed7072441a8f593"
+      "ver": "223.7571.12",
+      "archive": "https://download.jetbrains.com/cpp/CLion-223.7571.12.tar.gz",
+      "sha256": "5090020b8bb30f59a34479192def5a7eebb41da49e281c28f7feb6842f177c59"
     },
     "DG": {
       "ver": "223.7255.83",
