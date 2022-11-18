@@ -51,9 +51,9 @@
       "sha256": "558f868040510bae1118087146df0099a3df57b376da3713ae02f09f718e9c64"
     },
     "PCP": {
-      "ver": "2022.2.3",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-2022.2.3.tar.gz",
-      "sha256": "c73750a2e27ed2410741a739071a920cca9844608a81f07735ed2e35a024cca1"
+      "ver": "2022.2.4",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-2022.2.4.tar.gz",
+      "sha256": "cd6253f558ef0b2f3890713401cfe11eadb717c14373dfbb520bedce621e728b"
     },
     "PS": {
       "ver": "2022.2.3",
@@ -133,9 +133,9 @@
       "sha256": "9e4c462b4648a92aa7c63318e56b71ec8dd901dc5fc08d080296656247f21085"
     },
     "RM": {
-      "ver": "223.7571.1",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-223.7571.1.tar.gz",
-      "sha256": "7901892b625c9568c03cdccd53e69ae14979f6b8a21b2b94b4a98c2ecb4c8744"
+      "ver": "223.7571.47",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-223.7571.47.tar.gz",
+      "sha256": "96b046747c3dc1c02a9f1d0358c554b169e9d0d7a739f1afc765fcfa6b27a6c4"
     },
     "WS": {
       "ver": "223.7571.1",
