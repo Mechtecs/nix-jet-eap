@@ -6,9 +6,9 @@
       "sha256": "9b8870f37c16288e6bc6f654b561756271250f9e107299cd8da879c57ce5c5d9"
     },
     "DG": {
-      "ver": "2022.2.5",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-2022.2.5.tar.gz",
-      "sha256": "55b28f3b79eda126fe778e2945804d50b1145503737f1b5e25ab6ae2d2a0e3ae"
+      "ver": "2022.3",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-2022.3.tar.gz",
+      "sha256": "493a3614ba4f497f49c344c18004f7600bfbbc6c888242fecdcfcb0a2c1ebc74"
     },
     "DS": {
       "ver": "2022.2.4",
@@ -56,9 +56,9 @@
       "sha256": "cd6253f558ef0b2f3890713401cfe11eadb717c14373dfbb520bedce621e728b"
     },
     "PS": {
-      "ver": "2022.2.3",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2022.2.3.tar.gz",
-      "sha256": "2376cd043bb941524df62db40f9125b1c693be11df80a41fd5b3dd9dcd3446e9"
+      "ver": "2022.2.4",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2022.2.4.tar.gz",
+      "sha256": "62a8e684c84a970cf87ad64f991f2be67754639e293b406cc3da25592d3a483f"
     },
     "RD": {
       "ver": "2022.2.4",
