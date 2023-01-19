@@ -128,14 +128,14 @@
       "sha256": "e06a5aa068f3c5d62bc2f6c415bbc882aa51af00514b3d238efd433864611cdc"
     },
     "RD": {
-      "ver": "223.7571.128",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2022.3-EAP9-223.7571.128.Checked.tar.gz",
-      "sha256": "064683c29a8bbe03b7cb1e9dc0c2af6b64b9f5688661808b267eff5433b574bc"
+      "ver": "231.4840.377",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1-EAP1-231.4840.377.Checked.tar.gz",
+      "sha256": "b896a4e2167e07b9a84ae83ad491677b17e6ffe6e1f964864f794f8d965fac47"
     },
     "RM": {
-      "ver": "223.8617.5",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-223.8617.5.tar.gz",
-      "sha256": "5c0562371b94c630dddfc2431f342e9602d1ffec46ffbde8957e27d0c89d63c4"
+      "ver": "223.8617.25",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-223.8617.25.tar.gz",
+      "sha256": "c05cf0b065e6ee03ae6e4e01a6eec50efb1dd03494e66a15192992a59d8915da"
     },
     "WS": {
       "ver": "223.7571.1",
