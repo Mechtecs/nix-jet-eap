@@ -128,9 +128,9 @@
       "sha256": "0a0f8d854a57e5bf81b57760cedfbf5606518925a21bbfe72d4f9749a071252f"
     },
     "RD": {
-      "ver": "231.6890.15",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1-EAP4-231.6890.15.Checked.tar.gz",
-      "sha256": "c11b58d58971f8029999830056eef9884b68967f17fc1b66c3f57246e9bd74c4"
+      "ver": "231.7515.11",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1-EAP5-231.7515.11.Checked.tar.gz",
+      "sha256": "3ac4e5b936b2d0ca3de2668263992af0e9774a57276271d2f806249b7a170440"
     },
     "RM": {
       "ver": "231.6890.13",
