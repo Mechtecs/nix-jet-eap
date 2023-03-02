@@ -103,14 +103,14 @@
       "sha256": "4730c19877e13a3fff7add8f4b3ffff3e4704a4997a2336c6d76fe2f4d158e49"
     },
     "IIC": {
-      "ver": "231.7665.28",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-231.7665.28.tar.gz",
-      "sha256": "b12aa4c051faad915d07ce8cd939dc5046d4cdf760877ae673906392e5b7553a"
+      "ver": "231.7864.76",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-231.7864.76.tar.gz",
+      "sha256": "87823df1af94aa12ed6eceaf1d94e80f43dfc5c8f4313aa9750f3384a9e6deff"
     },
     "IIU": {
-      "ver": "231.7665.28",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-231.7665.28.tar.gz",
-      "sha256": "05189d84f67f368e19c2e0f80f0e5875b9d9b6668cfaa925f6246b983aee674b"
+      "ver": "231.7864.76",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-231.7864.76.tar.gz",
+      "sha256": "54667cce1bedc4f357937a5b083f41732bd7f4b38951e8d9847e4fac499f37d5"
     },
     "MPS": {
       "ver": "223.7571.953",
@@ -118,9 +118,9 @@
       "sha256": "462e41877b27db4a5b69d4706633e9c424f2c1b662a2f1beb156fbc30f0edabc"
     },
     "PCP": {
-      "ver": "231.7515.12",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-231.7515.12.tar.gz",
-      "sha256": "88eb1dc2a0f4dd20c644ee2404a3ed4d7a5b09c745486105276b2081559ac7f6"
+      "ver": "231.7864.77",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-231.7864.77.tar.gz",
+      "sha256": "7c26048937b5b2a7bc9e0b36f7e45bd3db3a546b058360a469c5958bdf0d314f"
     },
     "PS": {
       "ver": "231.7665.36",
