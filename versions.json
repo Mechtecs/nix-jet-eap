@@ -16,9 +16,9 @@
       "sha256": "87f38ced4cf8af079460c2b8dabe7f05552c01908dc14d1782c0e54b99f68514"
     },
     "GO": {
-      "ver": "2022.3.2",
-      "archive": "https://download.jetbrains.com/go/goland-2022.3.2.tar.gz",
-      "sha256": "f130d0e4c2c89dcd291e05cca33484eb08e247e9ec29c13deaf67176afbf6a36"
+      "ver": "2022.3.3",
+      "archive": "https://download.jetbrains.com/go/goland-2022.3.3.tar.gz",
+      "sha256": "8c85b56b4e226739a0e36549f5f80fed4cbf2b2798eff442499f5779396a6917"
     },
     "HB": {
       "ver": "2022.3",
@@ -28,7 +28,7 @@
     "IIC": {
       "ver": "2022.3.3",
       "archive": "https://download.jetbrains.com/idea/ideaIC-2022.3.3.tar.gz",
-      "sha256": "e5a825d0c8b09a28fdce45b43c2d2c99bf02245f28c98c4df1fc5a9d92463bd9"
+      "sha256": "60821e4d31c9a4d3e741f011379ce60c8fac674d65d96cfd378dd5a8c99d1874"
     },
     "IIE": {
       "ver": "2022.2.2",
@@ -38,7 +38,7 @@
     "IIU": {
       "ver": "2022.3.3",
       "archive": "https://download.jetbrains.com/idea/ideaIU-2022.3.3.tar.gz",
-      "sha256": "01102627a4ac17649cc83ac830366f84fe3147cdf56f3de04a22b49bfadcff3f"
+      "sha256": "47911b9d5a68d0ce32379adbfd2ec77b3bc10d0e4fd179cd7c10aff197c6c811"
     },
     "MPS": {
       "ver": "2022.2",
