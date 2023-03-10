@@ -98,9 +98,9 @@
       "sha256": "a01116d153d4d42ed42c4cff2a35d0773cbb64293e65b7510ae0a07ea902458c"
     },
     "GO": {
-      "ver": "231.7864.78",
-      "archive": "https://download.jetbrains.com/go/goland-231.7864.78.tar.gz",
-      "sha256": "7e524d7bf80b2db89c6ee2ba0c992468794d6bbaa92058a1ac52f76331d85c2a"
+      "ver": "231.8109.46",
+      "archive": "https://download.jetbrains.com/go/goland-231.8109.46.tar.gz",
+      "sha256": "c760943e8a3bf8cb87d33b99ff29b995a0da8416af0be19464c60ca1706ae422"
     },
     "IIC": {
       "ver": "231.8109.2",
@@ -128,9 +128,9 @@
       "sha256": "5ead1e65100181bcc525d2421e93be86ce28d95df3be97081d338d972b2d3eec"
     },
     "RD": {
-      "ver": "231.7864.80",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1-EAP7-231.7864.80.Checked.tar.gz",
-      "sha256": "2875448a3e3619987cf0f0ce00e23806387c0b6bae94d054ec4c1a90e8a63af7"
+      "ver": "231.8109.48",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1-EAP8-231.8109.48.Checked.tar.gz",
+      "sha256": "109942adcb1ac9cfdb724312564d2a264ea9034c88c9ddd6af921ede9052f699"
     },
     "RM": {
       "ver": "231.8109.1",
