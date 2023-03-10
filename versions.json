@@ -28,7 +28,7 @@
     "IIC": {
       "ver": "2022.3.3",
       "archive": "https://download.jetbrains.com/idea/ideaIC-2022.3.3.tar.gz",
-      "sha256": "60821e4d31c9a4d3e741f011379ce60c8fac674d65d96cfd378dd5a8c99d1874"
+      "sha256": "699492fb5a9de750250fdaadca5fc9212114ee445a50875b59bbc99f0187c2e4"
     },
     "IIE": {
       "ver": "2022.2.2",
@@ -66,9 +66,9 @@
       "sha256": "ad853b75bc1e1379593bece3a5fbecec21d1de30263d0d5fef067a352b7d27ef"
     },
     "RM": {
-      "ver": "2022.3.2",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2022.3.2.tar.gz",
-      "sha256": "8c803914c55a3c1801ff9b619870d81597fabedbfb08a7c1aecf24f5d0884aea"
+      "ver": "2022.3.3",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2022.3.3.tar.gz",
+      "sha256": "18dec5191b07a455d3c3dcb0bcc146fbe83ebb411addaf89e895d373728d932e"
     },
     "TBA": {
       "ver": "1.27.3",
