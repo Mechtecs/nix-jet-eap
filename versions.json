@@ -38,7 +38,7 @@
     "IIU": {
       "ver": "2022.3.3",
       "archive": "https://download.jetbrains.com/idea/ideaIU-2022.3.3.tar.gz",
-      "sha256": "47911b9d5a68d0ce32379adbfd2ec77b3bc10d0e4fd179cd7c10aff197c6c811"
+      "sha256": "c302bd84b48a56ef1b0f033e8e93a0da5590f80482eae172db6130da035314a6"
     },
     "MPS": {
       "ver": "2022.2",
