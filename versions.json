@@ -138,9 +138,9 @@
       "sha256": "ef0d6595a1b276693763642f1e40986e7cac5cce5bf54475c9b1d6991965c5e9"
     },
     "WS": {
-      "ver": "231.8109.51",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-231.8109.51.tar.gz",
-      "sha256": "c7a8c3f2bf9ce5896fe4c5b825aa6dc5f26fc2ca86a5054c014cb2f514a93a07"
+      "ver": "231.8770.31",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-231.8770.31.tar.gz",
+      "sha256": "ba2e98c6032fd4594deaae9830f62a621f8a7cdd521a7d5e51377357c8bf37f9"
     }
   }
 }
