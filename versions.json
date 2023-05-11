@@ -133,9 +133,9 @@
       "sha256": "11d0213f6cf1d6f6e8415057a7b32fdef86289866e1e2ee9863caa672b165a9e"
     },
     "RM": {
-      "ver": "231.9011.3",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-231.9011.3.tar.gz",
-      "sha256": "3b76327d69a6d8f4dcb0d2df0ba3ebb5fdca869f5b0893364a9c86f503dd05fd"
+      "ver": "231.9011.13",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-231.9011.13.tar.gz",
+      "sha256": "84455f85577896177bc561415fc9a770b84973a0cc3354905d21504bff4de7d3"
     },
     "WS": {
       "ver": "231.8770.45",
