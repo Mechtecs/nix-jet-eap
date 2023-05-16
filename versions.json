@@ -1,9 +1,9 @@
 {
   "stable": {
     "CL": {
-      "ver": "2023.1.2",
-      "archive": "https://download.jetbrains.com/cpp/CLion-2023.1.2.tar.gz",
-      "sha256": "e3efc51a4431dc67da6463a8a37aab8ad6a214a8338430ae61cd4add5e7e5b04"
+      "ver": "2023.1.3",
+      "archive": "https://download.jetbrains.com/cpp/CLion-2023.1.3.tar.gz",
+      "sha256": "7ea6a7d18cac5c7c89a3e1dd4d3870f74762d4c9378c31a3753fd37f50cf2832"
     },
     "DG": {
       "ver": "2023.1.1",
@@ -93,9 +93,9 @@
       "sha256": "df788f13c4825c51cc45118e8fd225dc6e1835e7d2f7f121153e244623c38e09"
     },
     "DS": {
-      "ver": "231.8109.86",
-      "archive": "https://download.jetbrains.com/python/dataspell-231.8109.86.tar.gz",
-      "sha256": "9fb97bb83cbca41d0d1d88aecea55443b10a7b3afa907e37cf011334d747bbb1"
+      "ver": "232.5150.113",
+      "archive": "https://download.jetbrains.com/python/dataspell-232.5150.113.tar.gz",
+      "sha256": "d36a416286f5b61dd821ef93e65dcd20061c0de21430aa58fc42339802048f39"
     },
     "GO": {
       "ver": "232.5150.113",
