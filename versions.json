@@ -51,14 +51,14 @@
       "sha256": "558f868040510bae1118087146df0099a3df57b376da3713ae02f09f718e9c64"
     },
     "PCP": {
-      "ver": "2023.1.1",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-2023.1.1.tar.gz",
-      "sha256": "aaa8d136e47077cfe970a5b42aa2058bb74038c5dab354c9f6ff22bfa3aa327d"
+      "ver": "2023.1.2",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-2023.1.2.tar.gz",
+      "sha256": "e57eae7a3c99983b8dc5c5aa036579d7ac73cae33aeb4c5f7f80517f2040c385"
     },
     "PS": {
-      "ver": "2023.1.1",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2023.1.1.tar.gz",
-      "sha256": "be824ba2f0a55b8d246becde235a3308106d2115cea814e4b0cc2f3b9a736253"
+      "ver": "2023.1.2",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2023.1.2.tar.gz",
+      "sha256": "889f531bbe5c6dda9fb4805dbbccd25d3aa4262a97f4ad14cf184db3eaf2d980"
     },
     "RD": {
       "ver": "2023.1.1",
