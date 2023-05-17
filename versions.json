@@ -6,14 +6,14 @@
       "sha256": "7ea6a7d18cac5c7c89a3e1dd4d3870f74762d4c9378c31a3753fd37f50cf2832"
     },
     "DG": {
-      "ver": "2023.1.1",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-2023.1.1.tar.gz",
-      "sha256": "9f1d9bd64352ade881343bd2d0cae63a4f5e9479e1bf822b4ab5f674fc0a8697"
+      "ver": "2023.1.2",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-2023.1.2.tar.gz",
+      "sha256": "57e8a79d69d9f34957fe7fa1307296396ab7c2b84bacffb6d86616cbcd596edd"
     },
     "DS": {
-      "ver": "2023.1.1",
-      "archive": "https://download.jetbrains.com/python/dataspell-2023.1.1.tar.gz",
-      "sha256": "a441c4baa6889a035376b992c2d3e2771e13133e4e77f9f73cbf96f91df8c0b6"
+      "ver": "2023.1.2",
+      "archive": "https://download.jetbrains.com/python/dataspell-2023.1.2.tar.gz",
+      "sha256": "5d53853577b2679cccdd6a409d239a4bc0c1b5c612234b40dbab78d9e3d2a446"
     },
     "GO": {
       "ver": "2023.1.2",
@@ -61,9 +61,9 @@
       "sha256": "889f531bbe5c6dda9fb4805dbbccd25d3aa4262a97f4ad14cf184db3eaf2d980"
     },
     "RD": {
-      "ver": "2023.1.1",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1.1.tar.gz",
-      "sha256": "d50a7ed977e04ae50d6a16422a0968896fc6d94b0ab84d044ad3503d904570e0"
+      "ver": "2023.1.2",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1.2.tar.gz",
+      "sha256": "50eb2deb303162dc77c802c4402c2734bdae38a47ab534921e064a107dc284ae"
     },
     "RM": {
       "ver": "2023.1.1",
