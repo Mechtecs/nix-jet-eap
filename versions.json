@@ -83,9 +83,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "232.6095.18",
-      "archive": "https://download.jetbrains.com/cpp/CLion-232.6095.18.tar.gz",
-      "sha256": "b93b2b47dea39fad0c437d25549dee276a88f9fc475230e03317ff221e7489ab"
+      "ver": "232.7295.14",
+      "archive": "https://download.jetbrains.com/cpp/CLion-232.7295.14.tar.gz",
+      "sha256": "f33616098a8f0284deec0b3ba56d7b4873c9c8d0e9c82778b3ef0f79f49ef18d"
     },
     "DG": {
       "ver": "232.7295.8",
@@ -103,14 +103,14 @@
       "sha256": "1dbf8d1e501e45909ec9e0803f2518e4ae93336abc65199f25cb5388e47fb0be"
     },
     "IIC": {
-      "ver": "232.6734.9",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-232.6734.9.tar.gz",
-      "sha256": "1782b65bbeae4c163d76ad60d6a94cd3f8619e25cbd2d98f00aa0ecabff4c79c"
+      "ver": "232.7295.16",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-232.7295.16.tar.gz",
+      "sha256": "c51e662be6e776bb69b0548a775e3de68e0c289a13488e0e6de7c1fc9a6e2367"
     },
     "IIU": {
-      "ver": "232.6734.9",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-232.6734.9.tar.gz",
-      "sha256": "43bf9e84b683d160f86f8cbbf311eef7bf25d179439cef6fb6f5f5e92f766ad3"
+      "ver": "232.7295.16",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-232.7295.16.tar.gz",
+      "sha256": "d0c2dabfcd6bfb92da8ce638f8339ab2f4b8f043b0dc07d1124f4f68b23d360c"
     },
     "MPS": {
       "ver": "223.8836.1121",
@@ -138,9 +138,9 @@
       "sha256": "cf2538ec5d486361b43447eab30617203cc0cc4e7add55d0e8b91e5ecc942a94"
     },
     "WS": {
-      "ver": "232.6734.8",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-232.6734.8.tar.gz",
-      "sha256": "a8f3825fed3be61fac718606a30a8f63c967563c0f4526afae308695a6a568ee"
+      "ver": "232.7295.14",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-232.7295.14.tar.gz",
+      "sha256": "060771c800fd768dac072bca87f3bc2d9331894d8e82be5cd1978ffe93318d67"
     }
   }
 }
