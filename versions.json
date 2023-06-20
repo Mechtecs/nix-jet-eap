@@ -137,6 +137,11 @@
       "archive": "https://download.jetbrains.com/ruby/RubyMine-232.7754.75.tar.gz",
       "sha256": "0da505f24a3ad367c1dc7e9a53da8e5e2f9dc0e59d37a237248f07c97b6b5bf4"
     },
+    "TBA": {
+      "ver": "2.0.0.15810",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.0.0.15810.tar.gz",
+      "sha256": "f76765073cd8ad0445e5c5e75ce361932afb3180ace5fe01f6dad31d2366885d"
+    },
     "WS": {
       "ver": "232.7754.72",
       "archive": "https://download.jetbrains.com/webstorm/WebStorm-232.7754.72.tar.gz",
