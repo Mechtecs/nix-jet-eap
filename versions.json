@@ -11,9 +11,9 @@
       "sha256": "57e8a79d69d9f34957fe7fa1307296396ab7c2b84bacffb6d86616cbcd596edd"
     },
     "DS": {
-      "ver": "2023.1.2",
-      "archive": "https://download.jetbrains.com/python/dataspell-2023.1.2.tar.gz",
-      "sha256": "5d53853577b2679cccdd6a409d239a4bc0c1b5c612234b40dbab78d9e3d2a446"
+      "ver": "2023.1.3",
+      "archive": "https://download.jetbrains.com/python/dataspell-2023.1.3.tar.gz",
+      "sha256": "7c0a19d740e3be8307a4487427347e2d5a7d4ab12ec44f1866e8c5f08e97d323"
     },
     "GO": {
       "ver": "2023.1.3",
@@ -51,9 +51,9 @@
       "sha256": "558f868040510bae1118087146df0099a3df57b376da3713ae02f09f718e9c64"
     },
     "PCP": {
-      "ver": "2023.1.2",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-2023.1.2.tar.gz",
-      "sha256": "e57eae7a3c99983b8dc5c5aa036579d7ac73cae33aeb4c5f7f80517f2040c385"
+      "ver": "2023.1.3",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-2023.1.3.tar.gz",
+      "sha256": "4cdf85c01854d7f74c9fa9efda67453356f1120e49cc5aed1168f0f32d8ee016"
     },
     "PS": {
       "ver": "2023.1.2",
@@ -61,9 +61,9 @@
       "sha256": "889f531bbe5c6dda9fb4805dbbccd25d3aa4262a97f4ad14cf184db3eaf2d980"
     },
     "RD": {
-      "ver": "2023.1.2",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1.2.tar.gz",
-      "sha256": "50eb2deb303162dc77c802c4402c2734bdae38a47ab534921e064a107dc284ae"
+      "ver": "2023.1.3",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1.3.tar.gz",
+      "sha256": "192be48828cb7515e8158cec8aa6ba4d320d3b65ebd09a921e85085143e9bd56"
     },
     "RM": {
       "ver": "2023.1.3",
