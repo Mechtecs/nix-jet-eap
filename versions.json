@@ -83,9 +83,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "232.8453.115",
-      "archive": "https://download.jetbrains.com/cpp/CLion-232.8453.115.tar.gz",
-      "sha256": "500415ee2f24334ffe73c48aa920dd87a069f743a0b3ae7a4204d9138cc34970"
+      "ver": "232.8660.8",
+      "archive": "https://download.jetbrains.com/cpp/CLion-232.8660.8.tar.gz",
+      "sha256": "ea25c8d1c2dcfe5f4fa88d8164df0d6d3dbc261ff0c1ef5e76fd10edfacedd88"
     },
     "DG": {
       "ver": "232.8660.5",
