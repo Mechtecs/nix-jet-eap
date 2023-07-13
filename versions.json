@@ -11,9 +11,9 @@
       "sha256": "57e8a79d69d9f34957fe7fa1307296396ab7c2b84bacffb6d86616cbcd596edd"
     },
     "DS": {
-      "ver": "2023.1.3",
-      "archive": "https://download.jetbrains.com/python/dataspell-2023.1.3.tar.gz",
-      "sha256": "7c0a19d740e3be8307a4487427347e2d5a7d4ab12ec44f1866e8c5f08e97d323"
+      "ver": "2023.1.4",
+      "archive": "https://download.jetbrains.com/python/dataspell-2023.1.4.tar.gz",
+      "sha256": "07158e00ef81c58c9b295c1777635069777f5f3f16d593b14429673b9699cfff"
     },
     "GO": {
       "ver": "2023.1.4",
@@ -83,9 +83,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "232.8660.8",
-      "archive": "https://download.jetbrains.com/cpp/CLion-232.8660.8.tar.gz",
-      "sha256": "ea25c8d1c2dcfe5f4fa88d8164df0d6d3dbc261ff0c1ef5e76fd10edfacedd88"
+      "ver": "232.8660.49",
+      "archive": "https://download.jetbrains.com/cpp/CLion-232.8660.49.tar.gz",
+      "sha256": "8eb43ef821128db8ae5f8443cff507b89dbd69bfd089eab678998dbb3326de78"
     },
     "DG": {
       "ver": "232.8660.5",
