@@ -11,14 +11,14 @@
       "sha256": "0b20f0dc61d8fd9b42962d4931c64742dd17e3f008dfec2c8863a56b1bc4be9b"
     },
     "DS": {
-      "ver": "2023.2.1",
-      "archive": "https://download.jetbrains.com/python/dataspell-2023.2.1.tar.gz",
-      "sha256": "0faf17adf9a071ef8813c1b43e8321728990ba8e4a2c284915cb3ce9451fca80"
+      "ver": "2023.2.2",
+      "archive": "https://download.jetbrains.com/python/dataspell-2023.2.2.tar.gz",
+      "sha256": "30a7b848d004c12e8a5ce668dea6939f49b2aaf0bcce443f02987b4ea38179ab"
     },
     "GO": {
-      "ver": "2023.2.1",
-      "archive": "https://download.jetbrains.com/go/goland-2023.2.1.tar.gz",
-      "sha256": "7d5c83cb43286d57b045d1d837185633be13673a5e0e443773778e0d4936647a"
+      "ver": "2023.2.2",
+      "archive": "https://download.jetbrains.com/go/goland-2023.2.2.tar.gz",
+      "sha256": "e2951dfcd80556f29378d55c8d4ebfbc6e599e14ada17a06386729221d71353b"
     },
     "HB": {
       "ver": "2023.1",
