@@ -113,9 +113,9 @@
       "sha256": "a20539ef9503775291e5aabf726bc30363a1734931a052b377153a990469a529"
     },
     "MPS": {
-      "ver": "232.8660.471",
-      "archive": "https://download.jetbrains.com/mps/2023.2/MPS-2023.2-EAP1.tar.gz",
-      "sha256": "1f4ac4a31e7b795dec3735549e434e2bd43154f8ae859bfff614ac992ebebdcc"
+      "ver": "232.8660.663",
+      "archive": "https://download.jetbrains.com/mps/2023.2/MPS-2023.2-RC1.tar.gz",
+      "sha256": "34871e75b6753a43033d5994ae17d15abe92998b8b6a839ff33dc03d5e974a9c"
     },
     "PCP": {
       "ver": "232.8660.49",
