@@ -88,9 +88,9 @@
       "sha256": "a4c9c90b27dc5b23b856061c416a82808ad0a504175d5fd1b948ae93a4f02e1c"
     },
     "DG": {
-      "ver": "232.8660.5",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-232.8660.5.tar.gz",
-      "sha256": "4f56e42ddfa9743f91ea2457e358572a6f7d0bae441149c947226b4302fcfb5c"
+      "ver": "233.9102.70",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-233.9102.70.tar.gz",
+      "sha256": "8e8ebe38c825a4e11a18a07ea5867a4e96468fadba121a9e8a34422ccfdb99f8"
     },
     "DS": {
       "ver": "233.6745.319",
@@ -103,14 +103,14 @@
       "sha256": "f472d6b42dbfe93e25b291c7ea2c4389c09421e7a6ae87b35d13d219971e1e48"
     },
     "IIC": {
-      "ver": "233.8264.8",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-233.8264.8.tar.gz",
-      "sha256": "8e1987fc25cad16c9421234433aa7ad190ba3b11681e3d06d153dce37b878086"
+      "ver": "233.9102.97",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-233.9102.97.tar.gz",
+      "sha256": "6143c7088eaee9b25565f740c75ced1a55cbb0bff9346f7d34994b0aca30eb55"
     },
     "IIU": {
-      "ver": "233.8264.8",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-233.8264.8.tar.gz",
-      "sha256": "9cadc83fd2a4cd8012af6f68b3ff134fc1471084decc0a0044a040e9fd988714"
+      "ver": "233.9102.97",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-233.9102.97.tar.gz",
+      "sha256": "cfbc6ce3802e7eca7f47b4272f7382062b86891d701029be9cff381f82886a2a"
     },
     "MPS": {
       "ver": "232.8660.663",
