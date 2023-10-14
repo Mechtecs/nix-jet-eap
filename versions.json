@@ -51,9 +51,9 @@
       "sha256": "558f868040510bae1118087146df0099a3df57b376da3713ae02f09f718e9c64"
     },
     "PCP": {
-      "ver": "2023.2.2",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-2023.2.2.tar.gz",
-      "sha256": "f7263b17e2456efcb5efab1eac53aafb6a0be1a7f9fbf25a419c9d7b447f6ded"
+      "ver": "2023.2.3",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-2023.2.3.tar.gz",
+      "sha256": "e625fea80b72c9e12f986a8eb918425c6ef1d3f7b31117b40d122e3ce76046b1"
     },
     "PS": {
       "ver": "2023.2.2",
