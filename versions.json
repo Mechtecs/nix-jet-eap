@@ -123,9 +123,9 @@
       "sha256": "1e780c7c010a3d28d100eda000f3c5ad7ca540c9579d11a791a064320f30d147"
     },
     "PS": {
-      "ver": "233.10527.23",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-233.10527.23.tar.gz",
-      "sha256": "9f8927a7ff01f6bb94e7e6c14fcf3fa289231523b95f9bb5e5aa9827291510fc"
+      "ver": "233.11361.11",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-233.11361.11.tar.gz",
+      "sha256": "1489c4d921bb54dba315550c7b67ca7761d35d8e14f4b21d80b44ddcb1ece2bb"
     },
     "RD": {
       "ver": "233.10527.19",
@@ -138,9 +138,9 @@
       "sha256": "c63499b5ec7169e61d8a9019f39ef60d051b235b3dd6792dad4055153e66edc5"
     },
     "TBA": {
-      "ver": "2.0.0.16329",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.0.0.16329.tar.gz",
-      "sha256": "74e2432c5c13520df844948dce821ade280a0bf88f1704d55a2040e8e683ede1"
+      "ver": "2.1.0.17976",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.1.0.17976.tar.gz",
+      "sha256": "6782e7eca15cc551b2dd75ae7fd26179695af2fc0589fa567e0804745a07d195"
     },
     "WS": {
       "ver": "233.11361.11",
