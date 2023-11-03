@@ -88,9 +88,9 @@
       "sha256": "f8598a934bf90b2e4e8303508cf2632a73be097f51ac8ed2fafebdda57c64107"
     },
     "DG": {
-      "ver": "233.10527.14",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-233.10527.14.tar.gz",
-      "sha256": "f2615f67bcc26101858c859739dffbde908cee375e46ac2ce0c416c87572f017"
+      "ver": "233.11555.17",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-233.11555.17.tar.gz",
+      "sha256": "f0463d9ac2c48d00fdac4113aa2561a95e6ca57cdcfebc6465944532f40aa5bf"
     },
     "DS": {
       "ver": "233.11361.11",
@@ -133,9 +133,9 @@
       "sha256": "c562fef518c879da0a12efb6e52ac75cb97ec72f221fc21e66387af13bd58b96"
     },
     "RM": {
-      "ver": "233.10527.23",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-233.10527.23.tar.gz",
-      "sha256": "c63499b5ec7169e61d8a9019f39ef60d051b235b3dd6792dad4055153e66edc5"
+      "ver": "233.11555.8",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-233.11555.8.tar.gz",
+      "sha256": "c5277cba36cbfe835918498c8f8072deebac6338f21751828fcb0ee853fa3ad4"
     },
     "TBA": {
       "ver": "2.1.0.17976",
