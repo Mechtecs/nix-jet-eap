@@ -26,9 +26,9 @@
       "sha256": "4d75c404cca72e8c5add9b5f615d2083953c6a8d23e674aacec22db5a3d4470f"
     },
     "IIC": {
-      "ver": "2023.2.4",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-2023.2.4.tar.gz",
-      "sha256": "6c05b527a5c762e7247e302541f712d005e1f8bd9ca8b03d52475dc9aef6afe2"
+      "ver": "2023.2.5",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-2023.2.5.tar.gz",
+      "sha256": "4fc5817f8bfd86bdb3af924d3ca32e349517710ac5f986ae20f765f79285e00b"
     },
     "IIE": {
       "ver": "2022.2.2",
@@ -36,9 +36,9 @@
       "sha256": "4e0aa794ea0f7a1fe6b65414d5920acf07b0ac454bb212644054ea9399736c85"
     },
     "IIU": {
-      "ver": "2023.2.4",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-2023.2.4.tar.gz",
-      "sha256": "26fea1a8597e8124dcc24e8ed1dd6f5268e0cd1ba736bbe0e22df3f635ad280b"
+      "ver": "2023.2.5",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-2023.2.5.tar.gz",
+      "sha256": "1fcffaa924f60d2d74a2494ee3a69e904ae0e91b491ad373639fab61f2568624"
     },
     "MPS": {
       "ver": "2023.2",
@@ -71,9 +71,9 @@
       "sha256": "121c18c56935d6b442d0dd8e0d609cacde2f0efd8e1079612ce6e87d515d9203"
     },
     "TBA": {
-      "ver": "2.0.5",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.0.5.17700.tar.gz",
-      "sha256": "b8d5f8ee2f8873e711abaa50bdcd36e26611b7ec868202989ab57bf6cad1cd0a"
+      "ver": "2.1",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.1.0.18144.tar.gz",
+      "sha256": "533294d2b018458a1a1b8047cea29b4a809cef134fe50528841d029f0cafa438"
     },
     "WS": {
       "ver": "2023.2.4",
