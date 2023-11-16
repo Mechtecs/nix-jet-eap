@@ -93,14 +93,14 @@
       "sha256": "45e7af91c4b56cad2fe76fff6368f7549f6a7a279afe64a0fb2ee78f976893e9"
     },
     "DS": {
-      "ver": "233.11361.11",
-      "archive": "https://download.jetbrains.com/python/dataspell-233.11361.11.tar.gz",
-      "sha256": "f4b7444f4929419274cd48445052a375f3f8608f4c0275d3d8eb979ab45507a2"
+      "ver": "233.11799.29",
+      "archive": "https://download.jetbrains.com/python/dataspell-233.11799.29.tar.gz",
+      "sha256": "5e4b354b9ff2bb0526346cbe00733dc49eb0086d1cd8ce5c07c62899777e652e"
     },
     "GO": {
-      "ver": "233.11799.10",
-      "archive": "https://download.jetbrains.com/go/goland-233.11799.10.tar.gz",
-      "sha256": "4ec8bab0512661438dd1623033d128c2094403115a7f1c6e15a841154feffe1a"
+      "ver": "233.11799.38",
+      "archive": "https://download.jetbrains.com/go/goland-233.11799.38.tar.gz",
+      "sha256": "9b1dfa050f1c3d15eed871671d00e76b6348e154aea918f093e0de0d15aaa851"
     },
     "IIC": {
       "ver": "233.11799.30",
