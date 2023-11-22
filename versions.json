@@ -123,9 +123,9 @@
       "sha256": "8b334f1adeeacac070783603db962ae7347e84a15373b3038b78d0fb10d90a1c"
     },
     "PS": {
-      "ver": "233.11799.21",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-233.11799.21.tar.gz",
-      "sha256": "506da131739dab5fe1b8714ede9ee752ad7129c152b0d3398ca3871ff3b75ddd"
+      "ver": "233.11799.55",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-233.11799.55.tar.gz",
+      "sha256": "a71e2daafc6286c0a5bf1415c033e0a87a97d7752514abded0d983856aec903c"
     },
     "RD": {
       "ver": "233.11799.49",
