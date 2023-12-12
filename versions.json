@@ -11,9 +11,9 @@
       "sha256": "4177882deb0380fba9b426c2580baea7dc4297bddefdd7bfb094433ff4cbb7b8"
     },
     "DS": {
-      "ver": "2023.3",
-      "archive": "https://download.jetbrains.com/python/dataspell-2023.3.tar.gz",
-      "sha256": "90e73da5236d3f60d6c7d45662981a4893243b3170866127e0ab8b5457ba52eb"
+      "ver": "2023.3.1",
+      "archive": "https://download.jetbrains.com/python/dataspell-2023.3.1.tar.gz",
+      "sha256": "0b5196dcc146cb163b1c9797986c46c651ad8132d3ee78dca92f9f9081f9f7e9"
     },
     "GO": {
       "ver": "2023.3.1",
@@ -61,14 +61,14 @@
       "sha256": "c8b034014e17c58def72aa351e44a441ca516403f795acef5325e964d5179983"
     },
     "RD": {
-      "ver": "2023.3",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.tar.gz",
-      "sha256": "5c769632ba4d022e66d9e3f55a8561cb345d17f84752673703c072d3e34c05d7"
+      "ver": "2023.3.1",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.3.1.tar.gz",
+      "sha256": "07dfbdc277d2befdb2700f515167b9bcb6464dd6d9fe59f98147c03233b6aa75"
     },
     "RM": {
-      "ver": "2023.3",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2023.3.tar.gz",
-      "sha256": "d4b061430c743cd5956b0ee3959b1f30d28c4ae18a38bb3ed691cb9d8ac80f72"
+      "ver": "2023.3.1",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2023.3.1.tar.gz",
+      "sha256": "35cd23c7a0f73add6ba05f246707e2f2550185033172f5d42a6b02e750253115"
     },
     "TBA": {
       "ver": "2.1.1",
