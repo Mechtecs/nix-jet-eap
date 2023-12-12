@@ -56,9 +56,9 @@
       "sha256": "cc4752cc185fc114121d2bab13eb8066e825cb6f0c1cf8027927355e9add8e53"
     },
     "PS": {
-      "ver": "2023.3",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2023.3.tar.gz",
-      "sha256": "71ea19a11c1b62e83b4719160b2808f0de412910e3faf20690bfe53778785e2b"
+      "ver": "2023.3.1",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2023.3.1.tar.gz",
+      "sha256": "c8b034014e17c58def72aa351e44a441ca516403f795acef5325e964d5179983"
     },
     "RD": {
       "ver": "2023.3",
@@ -76,9 +76,9 @@
       "sha256": "67229be0f8d0b1a8b8a36e66ef54b4f7a4a5932eceb285b90003a428e346f529"
     },
     "WS": {
-      "ver": "2023.3",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2023.3.tar.gz",
-      "sha256": "f9f1356cf2a49516013a4a3ead18e0bf018973e0de8e6c8da5f6e29adb2c754b"
+      "ver": "2023.3.1",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2023.3.1.tar.gz",
+      "sha256": "26a3acc9864c2c7715d377059d3b52b1085b90b708b254ec2d52b80f625eb442"
     }
   },
   "eap": {
