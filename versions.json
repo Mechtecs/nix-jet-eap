@@ -71,9 +71,9 @@
       "sha256": "35cd23c7a0f73add6ba05f246707e2f2550185033172f5d42a6b02e750253115"
     },
     "TBA": {
-      "ver": "2.1.2",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.1.2.18853.tar.gz",
-      "sha256": "3024466b6ffa6e00999320dab7658c5992375027d4b03682948e12c9792e1faa"
+      "ver": "2.1.3",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.1.3.18901.tar.gz",
+      "sha256": "d6334bad157907f2f749fdb70e0fc9eeff902ae75962ab2f28546f996441bf49"
     },
     "WS": {
       "ver": "2023.3.1",
