@@ -1,9 +1,9 @@
 {
   "stable": {
     "CL": {
-      "ver": "2023.3.1",
-      "archive": "https://download.jetbrains.com/cpp/CLion-2023.3.1.tar.gz",
-      "sha256": "3cde2fc25c759d4e114c5a768547e1d3083710e0fbe2591084a4ad4934490fc9"
+      "ver": "2023.3.2",
+      "archive": "https://download.jetbrains.com/cpp/CLion-2023.3.2.tar.gz",
+      "sha256": "f342d0f62454cea04b89db67dc1a720e6d2b767bbd93bafa270d9c92367086c2"
     },
     "DG": {
       "ver": "2023.3.2",
@@ -16,9 +16,9 @@
       "sha256": "0b5196dcc146cb163b1c9797986c46c651ad8132d3ee78dca92f9f9081f9f7e9"
     },
     "GO": {
-      "ver": "2023.3.1",
-      "archive": "https://download.jetbrains.com/go/goland-2023.3.1.tar.gz",
-      "sha256": "2fafd8f76979b174c598e58b6e39d2d796eef8e69d28da28abcb7a5c260992d6"
+      "ver": "2023.3.2",
+      "archive": "https://download.jetbrains.com/go/goland-2023.3.2.tar.gz",
+      "sha256": "d11c9ff18323f121eeb643bd093cd4cc9b3ca5f64e1e1dbe4b9b8139217032d1"
     },
     "HB": {
       "ver": "2023.3",
