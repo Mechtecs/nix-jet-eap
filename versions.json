@@ -56,9 +56,9 @@
       "sha256": "add6cb45aed969a49b21322fbd2e34c896f2a618d2a9eb8c865a05602365ef6c"
     },
     "PS": {
-      "ver": "2023.3.1",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2023.3.1.tar.gz",
-      "sha256": "c8b034014e17c58def72aa351e44a441ca516403f795acef5325e964d5179983"
+      "ver": "2023.3.2",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2023.3.2.tar.gz",
+      "sha256": "b8e2cb8938f148f8cf4f5fe80c3173365b1a20b834f49b50187654750b7e2f5d"
     },
     "RD": {
       "ver": "2023.3.2",
