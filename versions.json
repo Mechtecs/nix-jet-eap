@@ -22,8 +22,8 @@
     },
     "HB": {
       "ver": "2023.3",
-      "archive": "https://download.jetbrains.com/hub/hub-2023.3.22912.zip",
-      "sha256": "46f5cf6ae7172481cd539265bbed827cabaee03d8df4c89105067cbd769270ec"
+      "archive": "https://download.jetbrains.com/hub/hub-2023.3.23062.zip",
+      "sha256": "804f29a07fd21747251fb18354bb83f88feae2803d1df9153ad19920ee71ed5e"
     },
     "IIC": {
       "ver": "2023.3.2",
@@ -123,9 +123,9 @@
       "sha256": "8b334f1adeeacac070783603db962ae7347e84a15373b3038b78d0fb10d90a1c"
     },
     "PS": {
-      "ver": "233.11799.55",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-233.11799.55.tar.gz",
-      "sha256": "a71e2daafc6286c0a5bf1415c033e0a87a97d7752514abded0d983856aec903c"
+      "ver": "241.8102.119",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-241.8102.119.tar.gz",
+      "sha256": "fc0e045dd0d66fc2583a2ef2ac9f3d472ef40b8922297e2ecb891a9385d692d1"
     },
     "RD": {
       "ver": "233.11799.49",
