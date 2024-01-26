@@ -51,9 +51,9 @@
       "sha256": "558f868040510bae1118087146df0099a3df57b376da3713ae02f09f718e9c64"
     },
     "PCP": {
-      "ver": "2023.3.2",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-2023.3.2.tar.gz",
-      "sha256": "add6cb45aed969a49b21322fbd2e34c896f2a618d2a9eb8c865a05602365ef6c"
+      "ver": "2023.3.3",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-2023.3.3.tar.gz",
+      "sha256": "29c4955410b2ea26f0cd0f44e02c8fe2b1b7dad075f0739652051faa6f84797b"
     },
     "PS": {
       "ver": "2023.3.3",
@@ -128,9 +128,9 @@
       "sha256": "fc0e045dd0d66fc2583a2ef2ac9f3d472ef40b8922297e2ecb891a9385d692d1"
     },
     "RD": {
-      "ver": "241.8102.132",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1-EAP1-241.8102.132.Checked.tar.gz",
-      "sha256": "a27e11f5c567c840383014c4b47d9d2e12661d29502660026ee34b6a1a3adf24"
+      "ver": "241.9959.26",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1-EAP2-241.9959.26.Checked.tar.gz",
+      "sha256": "b4e22917be206b645a7267de625f7221cc24dc0eccb2727ce8b55b8163b7bc62"
     },
     "RM": {
       "ver": "241.8102.116",
