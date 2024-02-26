@@ -51,9 +51,9 @@
       "sha256": "558f868040510bae1118087146df0099a3df57b376da3713ae02f09f718e9c64"
     },
     "PCP": {
-      "ver": "2023.3.3",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-2023.3.3.tar.gz",
-      "sha256": "29c4955410b2ea26f0cd0f44e02c8fe2b1b7dad075f0739652051faa6f84797b"
+      "ver": "2023.3.4",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-2023.3.4.tar.gz",
+      "sha256": "41367c6d92f69d33c0f375e4a058fef799be00d14437402371dc8ca3e5f1161e"
     },
     "PS": {
       "ver": "2023.3.4",
@@ -83,9 +83,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "241.12662.59",
-      "archive": "https://download.jetbrains.com/cpp/CLion-241.12662.59.tar.gz",
-      "sha256": "91bc7d7c5716e612f79ec86d83e36403095bca77dfeafc87e1a3a4b2185f195f"
+      "ver": "241.13688.39",
+      "archive": "https://download.jetbrains.com/cpp/CLion-241.13688.39.tar.gz",
+      "sha256": "bc6e674280dceb9387e4290debd8dda054a7d34a7b9f4f199443d822d30ccf89"
     },
     "DG": {
       "ver": "241.11761.8",
