@@ -16,9 +16,9 @@
       "sha256": "53e4efdf3388207d91f3e3767490172389cb92db449b951768af865b400ca7fe"
     },
     "GO": {
-      "ver": "2023.3.5",
-      "archive": "https://download.jetbrains.com/go/goland-2023.3.5.tar.gz",
-      "sha256": "bf4cacb8b9f2cc2bf5661d19f1e240debd978a6e043d7e3c2a26f0ba3b409487"
+      "ver": "2023.3.6",
+      "archive": "https://download.jetbrains.com/go/goland-2023.3.6.tar.gz",
+      "sha256": "96fb4117d4aedd32ace976f48b6618fe30480b3fbfa81adfef963eb720a442e1"
     },
     "HB": {
       "ver": "2024.1",
