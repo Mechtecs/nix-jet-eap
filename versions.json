@@ -11,9 +11,9 @@
       "sha256": "7b653e07c6d2008fbc85955041490b77551e277ef20f8518f6e6a8cbd326339c"
     },
     "DS": {
-      "ver": "2023.3.4",
-      "archive": "https://download.jetbrains.com/python/dataspell-2023.3.4.tar.gz",
-      "sha256": "53e4efdf3388207d91f3e3767490172389cb92db449b951768af865b400ca7fe"
+      "ver": "2023.3.5",
+      "archive": "https://download.jetbrains.com/python/dataspell-2023.3.5.tar.gz",
+      "sha256": "ae964f1cc71072629baae84fb32e0d822c6cb9405fe4f724078b0decefe88e41"
     },
     "GO": {
       "ver": "2023.3.6",
@@ -51,9 +51,9 @@
       "sha256": "558f868040510bae1118087146df0099a3df57b376da3713ae02f09f718e9c64"
     },
     "PCP": {
-      "ver": "2023.3.4",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-2023.3.4.tar.gz",
-      "sha256": "41367c6d92f69d33c0f375e4a058fef799be00d14437402371dc8ca3e5f1161e"
+      "ver": "2023.3.5",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-2023.3.5.tar.gz",
+      "sha256": "7e77390d7bba42843e950b1544da718913e6bae8543ce499c01484550df39004"
     },
     "PS": {
       "ver": "2023.3.6",
