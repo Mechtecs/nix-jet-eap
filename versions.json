@@ -11,14 +11,14 @@
       "sha256": "cc77892adcbf28b1a2205908466cca9c80217162cdac020d25d258a84cbb88d3"
     },
     "DS": {
-      "ver": "2023.3.5",
-      "archive": "https://download.jetbrains.com/python/dataspell-2023.3.5.tar.gz",
-      "sha256": "ae964f1cc71072629baae84fb32e0d822c6cb9405fe4f724078b0decefe88e41"
+      "ver": "2024.1",
+      "archive": "https://download.jetbrains.com/python/dataspell-2024.1.tar.gz",
+      "sha256": "4f73d514dcbf5dce769e7ee4e0a81a1d8dc970f6553c246e3016963b9f077dca"
     },
     "GO": {
-      "ver": "2023.3.6",
-      "archive": "https://download.jetbrains.com/go/goland-2023.3.6.tar.gz",
-      "sha256": "96fb4117d4aedd32ace976f48b6618fe30480b3fbfa81adfef963eb720a442e1"
+      "ver": "2024.1",
+      "archive": "https://download.jetbrains.com/go/goland-2024.1.tar.gz",
+      "sha256": "783539f254e4d62f4fae153a9e737f1d69db1e44676c4d1513775571a68950e4"
     },
     "HB": {
       "ver": "2024.1",
@@ -26,9 +26,9 @@
       "sha256": "537822004c81384fad7b47aa3e6eac67c7d456562aa57cb61c50ee5aa87d8b9f"
     },
     "IIC": {
-      "ver": "2023.3.6",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-2023.3.6.tar.gz",
-      "sha256": "5e376677d4b9810f4171700ce9d9d3ece58f245ce8d9f2011b05966df5dd7ddd"
+      "ver": "2024.1",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-2024.1.tar.gz",
+      "sha256": "01d1b224c5e88592f954b17796a76fa8391cdcafef27264e703c7ffe47bb4065"
     },
     "IIE": {
       "ver": "2022.2.2",
@@ -36,9 +36,9 @@
       "sha256": "4e0aa794ea0f7a1fe6b65414d5920acf07b0ac454bb212644054ea9399736c85"
     },
     "IIU": {
-      "ver": "2023.3.6",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-2023.3.6.tar.gz",
-      "sha256": "2bf74ab0eeb8d8d998e7b59581b576786f72c6b70821eb50a2c96dcc0aa44954"
+      "ver": "2024.1",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-2024.1.tar.gz",
+      "sha256": "b9083da939eacbcdf24b84cb9c45a1291bb33715f05fc7e10f2cff065d7c3fea"
     },
     "MPS": {
       "ver": "2023.3",
@@ -51,14 +51,14 @@
       "sha256": "558f868040510bae1118087146df0099a3df57b376da3713ae02f09f718e9c64"
     },
     "PCP": {
-      "ver": "2023.3.5",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-2023.3.5.tar.gz",
-      "sha256": "7e77390d7bba42843e950b1544da718913e6bae8543ce499c01484550df39004"
+      "ver": "2024.1",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-2024.1.tar.gz",
+      "sha256": "2451d3ef7642151306354418c5237b326271e2653a09b869e5883a262a2916ad"
     },
     "PS": {
-      "ver": "2023.3.6",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2023.3.6.tar.gz",
-      "sha256": "abf03a945460a92cfed41cc1f5cbaab0eb80799cdfbadaac15594a8ddeec1b7e"
+      "ver": "2024.1",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2024.1.tar.gz",
+      "sha256": "11c6862954f87b89d081cc0382e54b105d8b0c933dae78fd952cd2a3604889b2"
     },
     "RD": {
       "ver": "2023.3.4",
@@ -66,9 +66,9 @@
       "sha256": "fb137ea346d957f151cb0d7755661293ae5e33e36f306b6dc90fb42895443309"
     },
     "RM": {
-      "ver": "2023.3.6",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2023.3.6.tar.gz",
-      "sha256": "d431626f1207d872e708e144056bebd001e25da198e785904b0cc08112daebe8"
+      "ver": "2024.1",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2024.1.tar.gz",
+      "sha256": "4fd9dcf83a1d1f6b7513c18383938bd65b2479fdb39c0421e2237a1e340c3912"
     },
     "TBA": {
       "ver": "2.2.3",
@@ -76,9 +76,9 @@
       "sha256": "7a77feb3b2351d39eb6ebef82dcdbfddd2210075f7afd042045a62d550420763"
     },
     "WS": {
-      "ver": "2023.3.6",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2023.3.6.tar.gz",
-      "sha256": "deb38fe0f83a616cd07a2ec1243945ec15539c3d3a2e2f27294c5922737f0b5f"
+      "ver": "2024.1",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2024.1.tar.gz",
+      "sha256": "d4c7cb7f1462c2b2bd9042b4714ab9de66c455ab9752c87698dc3902f0d49a2a"
     }
   },
   "eap": {
