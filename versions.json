@@ -103,14 +103,14 @@
       "sha256": "204892f727d9eebf06ff546da8df7bc70819713a25752e64e60fdf71c51f1e27"
     },
     "IIC": {
-      "ver": "242.10180.25",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-242.10180.25.tar.gz",
-      "sha256": "a4b3a62786bc9730de3c3fb534097ef191976b73c141cddd5f10f9983bcc1123"
+      "ver": "242.12881.66",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-242.12881.66.tar.gz",
+      "sha256": "b10d1bf000a9ac3e0bac829969f033afa29515611bb26a71822a2e6eee3565b8"
     },
     "IIU": {
-      "ver": "242.10180.25",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-242.10180.25.tar.gz",
-      "sha256": "debcdd0640222182aa61dccf0913eabb3d73a540765047c3330370ac3e4dcc9c"
+      "ver": "242.12881.66",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-242.12881.66.tar.gz",
+      "sha256": "6c9147dced1c7209cd22ca7ca973cf1e16599e0bc22ac849944a8489db39b3ed"
     },
     "MPS": {
       "ver": "241.17011.705",
