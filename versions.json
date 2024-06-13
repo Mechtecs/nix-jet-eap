@@ -103,14 +103,14 @@
       "sha256": "107b71fbe510aed9d52d5beb0121a4f7e0305eedf9aed32d8341e0b76db1b7fa"
     },
     "IIC": {
-      "ver": "242.15523.18",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-242.15523.18.tar.gz",
-      "sha256": "02253ef3d015e8ec87a9b64c5058f64bb2b3a85676b665391bce2bbd3a655ce7"
+      "ver": "242.16677.21",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-242.16677.21.tar.gz",
+      "sha256": "4def04c0c3538d6cfd1f94b2bb4275501a6c33bab138479a1b47001d0d616069"
     },
     "IIU": {
-      "ver": "242.15523.18",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-242.15523.18.tar.gz",
-      "sha256": "7da42043f00f446ac2c58d619d4b0f58969f5f322f30ff1c01b20491a8ffaef7"
+      "ver": "242.16677.21",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-242.16677.21.tar.gz",
+      "sha256": "91e79fe8077d997a4bf28f88e753bceac674010b50e9154444b15c0802045f9c"
     },
     "MPS": {
       "ver": "241.17011.787",
@@ -123,9 +123,9 @@
       "sha256": "06437d2ab89a979d3d26e537221ab2c71551ac605bd3d05023014a2e34815746"
     },
     "PS": {
-      "ver": "242.15523.20",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-242.15523.20.tar.gz",
-      "sha256": "8659e6b3edd575cf7635c28f87c9493f8cf8454c1d47e5ba78a80d05740ccd60"
+      "ver": "242.16677.23",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-242.16677.23.tar.gz",
+      "sha256": "e47e613e1fd29535f4a4e76c1e352a99331c382d4051b485ca20ee36e5ba3535"
     },
     "RD": {
       "ver": "242.15523.27",
