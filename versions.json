@@ -22,8 +22,8 @@
     },
     "HB": {
       "ver": "2024.2",
-      "archive": "https://download.jetbrains.com/hub/hub-2024.2.35237.zip",
-      "sha256": "bd1c330dedd992ff8a38badfd9a19bd7c2bcf474b53add699e89f21618e861d4"
+      "archive": "https://download.jetbrains.com/hub/hub-2024.2.35661.zip",
+      "sha256": "df8f62ce27e11c62e5fd258ac3fbbb0d62a332753a186fb046c68a5ffbbe79c1"
     },
     "IIC": {
       "ver": "2024.1.4",
@@ -128,9 +128,9 @@
       "sha256": "16792ad8bec0e114acecf71c2bbc4e873a65ce081075e97b63fc9c62bda47d8d"
     },
     "RD": {
-      "ver": "242.16677.30",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.2-EAP3-242.16677.30.Checked.tar.gz",
-      "sha256": "6317946faff73ecfda07c2482c537d85518cc38a551906ac155f3182d5adf8fe"
+      "ver": "242.18071.30",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.2-EAP4-242.18071.30.Checked.tar.gz",
+      "sha256": "175c2b105b041384a80ec05b1795f1fa6f54a45304a1bc58ba3c029e6dae37e7"
     },
     "RM": {
       "ver": "242.18071.25",
