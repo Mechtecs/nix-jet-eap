@@ -98,9 +98,9 @@
       "sha256": "fd999cb52b67f599a91570b2bd2e18366c80e17ea4830e42b52d0803b58cb14a"
     },
     "GO": {
-      "ver": "242.18071.26",
-      "archive": "https://download.jetbrains.com/go/goland-242.18071.26.tar.gz",
-      "sha256": "299a1415da5cc64664c47b50ac584f7f94f11b06ae864866f1e715f6cbf32674"
+      "ver": "242.19533.55",
+      "archive": "https://download.jetbrains.com/go/goland-242.19533.55.tar.gz",
+      "sha256": "ebc5514b539e5c31ac704a9ccca3927549936d1081407369d6891485919dc73c"
     },
     "IIC": {
       "ver": "242.19533.56",
