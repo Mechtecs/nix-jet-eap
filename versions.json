@@ -118,9 +118,9 @@
       "sha256": "62bf86d27631e1ca95728d1d6ec4205dca8509c08fb56ab173baa3125759d897"
     },
     "PCP": {
-      "ver": "242.18071.12",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-242.18071.12.tar.gz",
-      "sha256": "6a018cf637ba74b0ccee745c7b3b57de570c68c4fec01efc15759d30668d8587"
+      "ver": "242.19890.32",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-242.19890.32.tar.gz",
+      "sha256": "ab387a7d202da7f48f9d85eb40336f2cf5be69f87e98dc480e5a495b898bb646"
     },
     "PS": {
       "ver": "242.19890.20",
