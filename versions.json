@@ -88,9 +88,9 @@
       "sha256": "b64d21307919a7be7b4e038b3056c9d87fd200e171c6e0b5c108329d47b32d86"
     },
     "DG": {
-      "ver": "242.18071.23",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-242.18071.23.tar.gz",
-      "sha256": "b3d38753747040b5c0e5459f4f8c47d39cf830dd4e06f38218d4b0b89997e8d7"
+      "ver": "242.20224.99",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-242.20224.99.tar.gz",
+      "sha256": "fe5941d620521e23853630a31efb5f88a05a22c20ad31d4da041861a795df8e2"
     },
     "DS": {
       "ver": "242.15523.21",
@@ -128,9 +128,9 @@
       "sha256": "0f36375053c7c0e40cc94d34ba43c00f6e13755049da97d122c1de4cd5447d6d"
     },
     "RD": {
-      "ver": "242.20224.26",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.2-EAP7-242.20224.26.Checked.tar.gz",
-      "sha256": "412a53e3052752aa8dcaa29d2481b14d0c6cd182b5a087b4e9cb0e826a5488f6"
+      "ver": "242.20224.88",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.2-EAP8-242.20224.88.Checked.tar.gz",
+      "sha256": "979068f0457d11bd811033334ed058d9be56808bf610ca7f2aa422456de18c6e"
     },
     "RM": {
       "ver": "242.20224.35",
