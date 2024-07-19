@@ -71,9 +71,9 @@
       "sha256": "84b96e1f6cdbb5497fcce1a036044e5c51002006ac8926be72d37ec48b1ceb52"
     },
     "TBA": {
-      "ver": "2.4",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.4.0.32175.tar.gz",
-      "sha256": "a4e682f75d8747c82910da4e25de2fc2693f74a1fc3b38367041592e36a690a4"
+      "ver": "2.4.1",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.4.1.32573.tar.gz",
+      "sha256": "4d82a4291e23e20594f0ff1edfb76dec080102cbb0a127a689f20a4a5ec459b7"
     },
     "WS": {
       "ver": "2024.1.5",
@@ -98,9 +98,9 @@
       "sha256": "fd999cb52b67f599a91570b2bd2e18366c80e17ea4830e42b52d0803b58cb14a"
     },
     "GO": {
-      "ver": "242.20224.39",
-      "archive": "https://download.jetbrains.com/go/goland-242.20224.39.tar.gz",
-      "sha256": "800ec34a55253f49a94b8bba1308ad50663ece9fa82e22aabc51554295e4bd12"
+      "ver": "242.20224.106",
+      "archive": "https://download.jetbrains.com/go/goland-242.20224.106.tar.gz",
+      "sha256": "576a81d92b08af309d5b0fae304784b9ea753fa61bd477ffb0b6f338b5e77b5f"
     },
     "IIC": {
       "ver": "242.20224.91",
@@ -133,9 +133,9 @@
       "sha256": "979068f0457d11bd811033334ed058d9be56808bf610ca7f2aa422456de18c6e"
     },
     "RM": {
-      "ver": "242.20224.35",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-242.20224.35.tar.gz",
-      "sha256": "70cbd132f96f433129bb8dcf895036f78f1646530394587a66c88d9fb1d7d6cc"
+      "ver": "242.20224.102",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-242.20224.102.tar.gz",
+      "sha256": "1c8b13c8dc949da513ced971ec693ecd4d2d433ab7bc520c3e756ce19e091d2e"
     },
     "TBA": {
       "ver": "2.4.0.31994",
