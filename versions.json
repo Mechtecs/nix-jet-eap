@@ -6,14 +6,14 @@
       "sha256": "9843300b426cb88c5a658fea0a33fee4344fa541c52c805149666d1d385bcb58"
     },
     "DG": {
-      "ver": "2024.1.5",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-2024.1.5.tar.gz",
-      "sha256": "b7735ff82224b136be3284686e0d4308bf5f02c2aebb34004c990b5a38c66e50"
+      "ver": "2024.2",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-2024.2.tar.gz",
+      "sha256": "7d55714f8e3afe3b3f6c7d34fd94ca6436917dcce771ac97e951f6c5eeb6a3f5"
     },
     "DS": {
-      "ver": "2024.1.4",
-      "archive": "https://download.jetbrains.com/python/dataspell-2024.1.4.tar.gz",
-      "sha256": "ac6b713223e9ad468949bc74ff538d8d3271e0283af3c1dd9073d9c48d3459cf"
+      "ver": "2024.2",
+      "archive": "https://download.jetbrains.com/python/dataspell-2024.2.tar.gz",
+      "sha256": "fcf6d8269ef1e652da003b3cdb212b4bd06a66d6432c574b0b99f47c27eea950"
     },
     "GO": {
       "ver": "2024.2",
@@ -76,9 +76,9 @@
       "sha256": "4d82a4291e23e20594f0ff1edfb76dec080102cbb0a127a689f20a4a5ec459b7"
     },
     "WS": {
-      "ver": "2024.1.5",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2024.1.5.tar.gz",
-      "sha256": "339ac8fc3ecc20afdef05b1782cb861d52eb09336d6a20cc4aa487c1bd108522"
+      "ver": "2024.2",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2024.2.tar.gz",
+      "sha256": "7d03fecf51d270129fefc846eed627c7121b51153284edae99c84ce506151a02"
     }
   },
   "eap": {
