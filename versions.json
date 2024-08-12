@@ -51,14 +51,14 @@
       "sha256": "558f868040510bae1118087146df0099a3df57b376da3713ae02f09f718e9c64"
     },
     "PCP": {
-      "ver": "2024.1.6",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-2024.1.6.tar.gz",
-      "sha256": "9e4f17baa766234d1c47859c2828a20eaf1c098d87aa23eb97dacb4f319193a9"
+      "ver": "2024.2",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-2024.2.tar.gz",
+      "sha256": "433614ddf391fa208f65684ff511ade2d79a87de995699b6a3c6837c27b03b27"
     },
     "PS": {
-      "ver": "2024.1.6",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2024.1.6.tar.gz",
-      "sha256": "9aef0793d1a949fa8beec24cae30cff735eb7e1a84676b8b4df2d1ee03658f16"
+      "ver": "2024.2",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2024.2.tar.gz",
+      "sha256": "2c59d6d41aa0600705d8caedf5aed45f179e47ac85761f9dcd7dcad61e63d839"
     },
     "RD": {
       "ver": "2024.1.5",
@@ -66,9 +66,9 @@
       "sha256": "22347912b46be29c3e585e47774fedaae9a8b4ef5cdab9f9794ff0cc98b30793"
     },
     "RM": {
-      "ver": "2024.1.6",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2024.1.6.tar.gz",
-      "sha256": "0ac330c95b79ed8c8dc0e03e7bffcdc6691be8c792b66161489492dbd0a529a0"
+      "ver": "2024.2",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2024.2.tar.gz",
+      "sha256": "0871a2e0d1249c4e80b1b8cadf35c82d23ea97e8e817be6dffac02d848e33a34"
     },
     "TBA": {
       "ver": "2.4.1",
