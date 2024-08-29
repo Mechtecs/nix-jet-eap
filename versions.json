@@ -11,9 +11,9 @@
       "sha256": "dc6bae6c5ca4daa6d3eefd131d48f20810540f75ac635ed56eea7d00de9c0ee1"
     },
     "DS": {
-      "ver": "2024.2",
-      "archive": "https://download.jetbrains.com/python/dataspell-2024.2.tar.gz",
-      "sha256": "fcf6d8269ef1e652da003b3cdb212b4bd06a66d6432c574b0b99f47c27eea950"
+      "ver": "2024.2.1",
+      "archive": "https://download.jetbrains.com/python/dataspell-2024.2.1.tar.gz",
+      "sha256": "7854a303ad5f3bb9300f515baaed34e4362c59c631b117ea49eaa81f75ef485d"
     },
     "GO": {
       "ver": "2024.2.0.1",
@@ -26,9 +26,9 @@
       "sha256": "4b59ee10bc424ae9071ea385fa0809f5aba5854bd1a52fe7444f8e4d24688e7e"
     },
     "IIC": {
-      "ver": "2024.2.0.2",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-2024.2.0.2.tar.gz",
-      "sha256": "acca1c3dde049895a11069f1c3245f69cfe64fdfc520ab0a0ea8b684b53b50cd"
+      "ver": "2024.2.1",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-2024.2.1.tar.gz",
+      "sha256": "781cc03526d5811061c6ffd211942698b3d18ed2f055a04f384956686a7aa0a6"
     },
     "IIE": {
       "ver": "2022.2.2",
@@ -36,9 +36,9 @@
       "sha256": "4e0aa794ea0f7a1fe6b65414d5920acf07b0ac454bb212644054ea9399736c85"
     },
     "IIU": {
-      "ver": "2024.2.0.2",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-2024.2.0.2.tar.gz",
-      "sha256": "cf2159b9ea61ea910d27ad0e661cdd93575f65cdb443f99bd15600f5960b7f4b"
+      "ver": "2024.2.1",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-2024.2.1.tar.gz",
+      "sha256": "aa817431cfad5b814d356211e4826358c647a8a550938829aef9fb9eec61366d"
     },
     "MPS": {
       "ver": "2024.1",
@@ -76,9 +76,9 @@
       "sha256": "84c3512040971d69eb3f249f1f2e058fefb3111970f4189dc84157d0434b2018"
     },
     "WS": {
-      "ver": "2024.2.0.1",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2024.2.0.1.tar.gz",
-      "sha256": "52a196f8f144b1445e3345285762acb1d2f87c29cb7f4a9005bcde4289443258"
+      "ver": "2024.2.1",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2024.2.1.tar.gz",
+      "sha256": "a598c2686a6c8e4d6b19e1a0a54c78c2c77a772c35ef041244fece64940d8b93"
     }
   },
   "eap": {
