@@ -11,9 +11,9 @@
       "sha256": "989599d5f2c900219d3cac75557655927f0b2f95224c9cf3b1ec9ba3167bfc07"
     },
     "DS": {
-      "ver": "2024.2.1",
-      "archive": "https://download.jetbrains.com/python/dataspell-2024.2.1.tar.gz",
-      "sha256": "7854a303ad5f3bb9300f515baaed34e4362c59c631b117ea49eaa81f75ef485d"
+      "ver": "2024.2.2",
+      "archive": "https://download.jetbrains.com/python/dataspell-2024.2.2.tar.gz",
+      "sha256": "9b3dd8185f805d8d968f5a515dbe74d3672e0cd1b2cb052cf81382bd63ddb3b8"
     },
     "GO": {
       "ver": "2024.2.2",
@@ -66,9 +66,9 @@
       "sha256": "b6462b294e23b46cc946f46c01759c709ca7a41c367fa87206f7992d45142602"
     },
     "RM": {
-      "ver": "2024.2.1",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2024.2.1.tar.gz",
-      "sha256": "246640c171b9e89c135360ae52b6720f1d18e591f9c16023b14b6597131833be"
+      "ver": "2024.2.2",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2024.2.2.tar.gz",
+      "sha256": "649031bb8d51576a9bf082db466025e59871c7f87c001eefea520db3a875ba67"
     },
     "TBA": {
       "ver": "2.4.2",
@@ -76,9 +76,9 @@
       "sha256": "84c3512040971d69eb3f249f1f2e058fefb3111970f4189dc84157d0434b2018"
     },
     "WS": {
-      "ver": "2024.2.1",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2024.2.1.tar.gz",
-      "sha256": "a598c2686a6c8e4d6b19e1a0a54c78c2c77a772c35ef041244fece64940d8b93"
+      "ver": "2024.2.2",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2024.2.2.tar.gz",
+      "sha256": "c7bb12ff65a27dc76b81293e0e61b846b2ce9328bfeb8d75fe50ccf564e81078"
     }
   },
   "eap": {
@@ -103,14 +103,14 @@
       "sha256": "33ed87ff69d5e8806291151623a48436dc96bbef4b5661f4ba73e51a27c40755"
     },
     "IIC": {
-      "ver": "243.12818.47",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-243.12818.47.tar.gz",
-      "sha256": "45e3146cbdc55ae56db5b27c38f4668cde217781062ea27f6ba9d817facdda09"
+      "ver": "243.15521.24",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-243.15521.24.tar.gz",
+      "sha256": "55178e0cb4787ac0f0e12cb6577d67340526d2da8ab762c3f74bb6397da530e1"
     },
     "IIU": {
-      "ver": "243.12818.47",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-243.12818.47.tar.gz",
-      "sha256": "f9c22aa7208af77581fb87e8c3ac0f9825f5a233e1f31b9ce1a6c8ecb59786ec"
+      "ver": "243.15521.24",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-243.15521.24.tar.gz",
+      "sha256": "55541cf82c9611a83d8dbe9acb7549812c0dbe78d8f24466a683326fb62e8302"
     },
     "MPS": {
       "ver": "241.18034.990",
