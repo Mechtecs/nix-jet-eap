@@ -51,9 +51,9 @@
       "sha256": "558f868040510bae1118087146df0099a3df57b376da3713ae02f09f718e9c64"
     },
     "PCP": {
-      "ver": "2024.2.2",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-2024.2.2.tar.gz",
-      "sha256": "06b2da14816eff2d3c090f6177ee300e5149ff537f2f0f5ff12b3f762aa191cf"
+      "ver": "2024.2.3",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-2024.2.3.tar.gz",
+      "sha256": "837876f0d4db2d6fc0c319e88fa6e24fbe81b80809d529d600ef86a524aa8312"
     },
     "PS": {
       "ver": "2024.2.3",
@@ -98,9 +98,9 @@
       "sha256": "43d3a0fda37b6ac0b4bf49732414c975f525ba6dd7f507b835b744ded3dee16c"
     },
     "GO": {
-      "ver": "243.15521.25",
-      "archive": "https://download.jetbrains.com/go/goland-243.15521.25.tar.gz",
-      "sha256": "3fce6697e32fd4457e31273abc4ade4cb4ed6535211b5e88eacd8d6f97dfcd13"
+      "ver": "243.16718.35",
+      "archive": "https://download.jetbrains.com/go/goland-243.16718.35.tar.gz",
+      "sha256": "238ef7ff27983ac71ecb2cbff1dceb2d08a11b8e70ab8f756323aace7ae30cfb"
     },
     "IIC": {
       "ver": "243.16718.32",
@@ -118,9 +118,9 @@
       "sha256": "62bf86d27631e1ca95728d1d6ec4205dca8509c08fb56ab173baa3125759d897"
     },
     "PCP": {
-      "ver": "243.15521.16",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-243.15521.16.tar.gz",
-      "sha256": "ce089e15f05d198b5603ae02cb894e3ebe4cae851dd4b2364bc8912a06efaaad"
+      "ver": "243.16718.36",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-243.16718.36.tar.gz",
+      "sha256": "c62204654a0b1849b683482e5393e1ddca9b2084d88602c94933e835a65b270c"
     },
     "PS": {
       "ver": "243.16718.38",
