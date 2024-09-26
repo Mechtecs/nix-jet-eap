@@ -66,9 +66,9 @@
       "sha256": "7c8b3fc459f0a6314ebf2b7da0a202cb0cbbc7df432fa047673f34fbad9f9dfe"
     },
     "RM": {
-      "ver": "2024.2.2",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2024.2.2.tar.gz",
-      "sha256": "649031bb8d51576a9bf082db466025e59871c7f87c001eefea520db3a875ba67"
+      "ver": "2024.2.3",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2024.2.3.tar.gz",
+      "sha256": "54991cb37fd6495ad52a1b2b6bc1d6d7ab4fff20a1bd393cab72ac57ca4e31a5"
     },
     "TBA": {
       "ver": "2.4.2",
@@ -76,16 +76,16 @@
       "sha256": "84c3512040971d69eb3f249f1f2e058fefb3111970f4189dc84157d0434b2018"
     },
     "WS": {
-      "ver": "2024.2.2",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2024.2.2.tar.gz",
-      "sha256": "c7bb12ff65a27dc76b81293e0e61b846b2ce9328bfeb8d75fe50ccf564e81078"
+      "ver": "2024.2.3",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2024.2.3.tar.gz",
+      "sha256": "b3c861e440a6747b87e329009910858a2a21661dd09e53b1b2b5d835b3bb76b6"
     }
   },
   "eap": {
     "CL": {
-      "ver": "243.12818.61",
-      "archive": "https://download.jetbrains.com/cpp/CLion-243.12818.61.tar.gz",
-      "sha256": "d33695519bc3b2c617e848320c0a14db55c0501f938b1638743bf6cbd9cd2ef4"
+      "ver": "243.16718.30",
+      "archive": "https://download.jetbrains.com/cpp/CLion-243.16718.30.tar.gz",
+      "sha256": "ebd5b63e69efee4e70d82d468c94d03a70e744936f14783d9f4cb153af2520f7"
     },
     "DG": {
       "ver": "242.20224.99",
