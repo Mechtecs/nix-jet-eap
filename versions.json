@@ -98,19 +98,19 @@
       "sha256": "25a49f1ae84769c9ac8d02ecf5eb91a8bacd8a64f03e84edbacc264baa8ec5d8"
     },
     "GO": {
-      "ver": "243.19420.29",
-      "archive": "https://download.jetbrains.com/go/goland-243.19420.29.tar.gz",
-      "sha256": "090efd745e3bf169a4c196072d6892fee7d7a2936bb6ada83a9903b2516194cc"
+      "ver": "243.21155.26",
+      "archive": "https://download.jetbrains.com/go/goland-243.21155.26.tar.gz",
+      "sha256": "d5452f48371b890977b64e58f4aa61e18d53024ef2370b2e863e751fcd01ff52"
     },
     "IIC": {
-      "ver": "243.20847.40",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-243.20847.40.tar.gz",
-      "sha256": "132ae2e747c0df1f224c030900f65871dd9ae0e9ce42e2b93d510314a2d76a05"
+      "ver": "243.21155.17",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-243.21155.17.tar.gz",
+      "sha256": "db366e63a64ad9ca623510208b5a67dedc67600c02c45efe0bd216a44c0fef44"
     },
     "IIU": {
-      "ver": "243.20847.40",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-243.20847.40.tar.gz",
-      "sha256": "7a89506574142f9023e80beb87593c6c1e839ffc91fe836273dba8a176161bf4"
+      "ver": "243.21155.17",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-243.21155.17.tar.gz",
+      "sha256": "6bf0359932e2b78444a566d61f8463d07c6fbd51eed1b8f59762e0934ab2612d"
     },
     "MPS": {
       "ver": "241.18034.990",
@@ -118,9 +118,9 @@
       "sha256": "62bf86d27631e1ca95728d1d6ec4205dca8509c08fb56ab173baa3125759d897"
     },
     "PCP": {
-      "ver": "243.20847.48",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-243.20847.48.tar.gz",
-      "sha256": "6a979b7a5d22e6b7473253aecc6ac44b4856f1da43e932b13383614a8a1bcaf9"
+      "ver": "243.21155.22",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-243.21155.22.tar.gz",
+      "sha256": "b495a707589b74b3d0f2f40305bdbf2ca65ff64a994a23ba2af7cc6c2f87cc3c"
     },
     "PS": {
       "ver": "243.20847.47",
