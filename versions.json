@@ -61,9 +61,9 @@
       "sha256": "1a1809500d05d5e947f148d34b23394fcdd023be26d2b15f7f43a87cf564f8bc"
     },
     "RD": {
-      "ver": "2024.2.6",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.6.tar.gz",
-      "sha256": "0f322e17fd0d2692ffd19c91c5d9c368c0846742406c413e1cfb14375f3faf4b"
+      "ver": "2024.2.7",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.7.tar.gz",
+      "sha256": "71dda49ff9b2eeb982c0d9ea8ff70fde3f45ddc98e2be95c260bdc9cfbba7e42"
     },
     "RM": {
       "ver": "2024.2.3",
@@ -76,9 +76,9 @@
       "sha256": "a082bb0a0f3d51240ad7cb64c9fe6492cfd17dc22c7cc17695a66f8beaaef6d6"
     },
     "WS": {
-      "ver": "2024.2.3",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2024.2.3.tar.gz",
-      "sha256": "b3c861e440a6747b87e329009910858a2a21661dd09e53b1b2b5d835b3bb76b6"
+      "ver": "2024.2.4",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2024.2.4.tar.gz",
+      "sha256": "c7cd4f9c5affc7f2d24e50130d5565165cc88ac3a4f7fbefd9986a03727f753e"
     }
   },
   "eap": {
