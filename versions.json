@@ -118,9 +118,9 @@
       "sha256": "62bf86d27631e1ca95728d1d6ec4205dca8509c08fb56ab173baa3125759d897"
     },
     "PCP": {
-      "ver": "243.21155.22",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-243.21155.22.tar.gz",
-      "sha256": "b495a707589b74b3d0f2f40305bdbf2ca65ff64a994a23ba2af7cc6c2f87cc3c"
+      "ver": "243.21565.33",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-243.21565.33.tar.gz",
+      "sha256": "c01202a6bf9148d76b38e3429fb4cd89f9c351174f68c9fa3c66c7ed95095618"
     },
     "PS": {
       "ver": "243.21565.34",
@@ -143,9 +143,9 @@
       "sha256": "004a6d2067432c7f653cda63ab3ed06c37457bafed0a7b08bd62fbe944dee41e"
     },
     "WS": {
-      "ver": "243.21155.21",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-243.21155.21.tar.gz",
-      "sha256": "0019c3e75765df6a471447b4ee7b9d48ff5ea7b1ea1f69a0507c2cbeb142ccc6"
+      "ver": "243.21565.35",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-243.21565.35.tar.gz",
+      "sha256": "40d8ea133be6878610f27971c8978264d913764cc8cd14e82f2ad5c103a5ebad"
     }
   }
 }
