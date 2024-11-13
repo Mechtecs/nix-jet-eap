@@ -26,9 +26,9 @@
       "sha256": "bdd79204ee401d2a21aa124698826c7c06ccb09e0a9969908832fba94b7d2e13"
     },
     "IIC": {
-      "ver": "2024.2.4",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-2024.2.4.tar.gz",
-      "sha256": "0142d03ecd3b65bfa6c0d9944e3ac52438046d51277878362279e6358b1aebfa"
+      "ver": "2024.3",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-2024.3.tar.gz",
+      "sha256": "16d4f411b62ddc7747fe11e8fff004bf8d144df4052b8111306fd4cbba8f748c"
     },
     "IIE": {
       "ver": "2022.2.2",
@@ -36,9 +36,9 @@
       "sha256": "4e0aa794ea0f7a1fe6b65414d5920acf07b0ac454bb212644054ea9399736c85"
     },
     "IIU": {
-      "ver": "2024.2.4",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-2024.2.4.tar.gz",
-      "sha256": "8411fda793a20356a4982e4f18f6691839d8a471e2081ab6d8cc78b3f8b02532"
+      "ver": "2024.3",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-2024.3.tar.gz",
+      "sha256": "c0627c42510bdd25b82127db62997fe6b7b98cc7e30987a83fa0b419692a15c1"
     },
     "MPS": {
       "ver": "2024.1.1",
@@ -61,14 +61,14 @@
       "sha256": "1a1809500d05d5e947f148d34b23394fcdd023be26d2b15f7f43a87cf564f8bc"
     },
     "RD": {
-      "ver": "2024.2.7",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.7.tar.gz",
-      "sha256": "71dda49ff9b2eeb982c0d9ea8ff70fde3f45ddc98e2be95c260bdc9cfbba7e42"
+      "ver": "2024.3",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.tar.gz",
+      "sha256": "ef9b61c18851b6f3ef2bfa3fe147b34ac191622f65a41f2b53b3a609f9bff360"
     },
     "RM": {
-      "ver": "2024.2.4",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2024.2.4.tar.gz",
-      "sha256": "20638d9ac06d840b3bbd5782de4230735380a3b42844ca8fc22af6b2f33f3c58"
+      "ver": "2024.3",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2024.3.tar.gz",
+      "sha256": "391ed7fa3f46d672f9d2a9706f21c33f974472cb81ebb172931c6b16c8aa9836"
     },
     "TBA": {
       "ver": "2.5",
