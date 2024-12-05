@@ -6,9 +6,9 @@
       "sha256": "e66ee52c365552fe40d035f5b205ab8c28a9a02ed4af5f787b78a0048bcf7f81"
     },
     "DG": {
-      "ver": "2024.3.1",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-2024.3.1.tar.gz",
-      "sha256": "92cc86f8ed8e6dda5ad06aaf6e1f06a918ff83adc486929091db09693b65d6c7"
+      "ver": "2024.3.2",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-2024.3.2.tar.gz",
+      "sha256": "8375752c0b24a363b982862af91d65b573aebabc36b55b16fbeff2c208176f61"
     },
     "DS": {
       "ver": "2024.3",
@@ -76,9 +76,9 @@
       "sha256": "18f03ce755dabc574b30d269162281ad7a472c139688bb101740933b59da0fd3"
     },
     "WS": {
-      "ver": "2024.3",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2024.3.tar.gz",
-      "sha256": "23858c20f84a10f3be6ac05cdb03a47e6862fabbf4a748ecef7902f882a9e935"
+      "ver": "2024.3.1",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2024.3.1.tar.gz",
+      "sha256": "f9122a02312bee9d06c77774cad37b32ac0dcbc460af4ac8b8059a1780d16018"
     }
   },
   "eap": {
