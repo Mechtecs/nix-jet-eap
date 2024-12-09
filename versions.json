@@ -26,9 +26,9 @@
       "sha256": "21b9e4afe844a54925984cf07d8de12cf9d01f10cb0051835fb12abd6264ba43"
     },
     "IIC": {
-      "ver": "2024.3",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-2024.3.tar.gz",
-      "sha256": "16d4f411b62ddc7747fe11e8fff004bf8d144df4052b8111306fd4cbba8f748c"
+      "ver": "2024.3.1",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-2024.3.1.tar.gz",
+      "sha256": "b3fbdba793ba9e7800ac1ee4ceedf4726f86d5320c7c0d4e155b5bd10a296777"
     },
     "IIE": {
       "ver": "2022.2.2",
@@ -36,9 +36,9 @@
       "sha256": "4e0aa794ea0f7a1fe6b65414d5920acf07b0ac454bb212644054ea9399736c85"
     },
     "IIU": {
-      "ver": "2024.3",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-2024.3.tar.gz",
-      "sha256": "c0627c42510bdd25b82127db62997fe6b7b98cc7e30987a83fa0b419692a15c1"
+      "ver": "2024.3.1",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-2024.3.1.tar.gz",
+      "sha256": "f427f4eea252d574f6135c020113f02c6d880e428265b943be26ee6110876610"
     },
     "MPS": {
       "ver": "2024.1.1",
