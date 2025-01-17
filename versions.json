@@ -66,9 +66,9 @@
       "sha256": "3185826c0d85c06bf18c5ece3f5f9698acef006932b7a92b6cb190fd4d8e2807"
     },
     "RM": {
-      "ver": "2024.3.1.1",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2024.3.1.1.tar.gz",
-      "sha256": "fe849fd90725f12c6dabb20973f1d5eb6fc9baddd692961197527326639d7def"
+      "ver": "2024.3.2",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2024.3.2.tar.gz",
+      "sha256": "8c064b6119062ae568df795c45054cbdf608951e9c59957d95879fed7c30714e"
     },
     "TBA": {
       "ver": "2.5.2",
@@ -76,9 +76,9 @@
       "sha256": "18f03ce755dabc574b30d269162281ad7a472c139688bb101740933b59da0fd3"
     },
     "WS": {
-      "ver": "2024.3.1.1",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2024.3.1.1.tar.gz",
-      "sha256": "275999ca069658257d6f06875f283abf9c0b102bdf812cf7eefe86a1dda90c1b"
+      "ver": "2024.3.2",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2024.3.2.tar.gz",
+      "sha256": "2e9054ae506e578cf89e4cea017d953c416281470a4a5728b157e43ac4888d4e"
     }
   },
   "eap": {
@@ -128,9 +128,9 @@
       "sha256": "b7591118926361b8c5f0bd55b54fa39781c4f29382fabbda6c2724aa0505e39f"
     },
     "RD": {
-      "ver": "243.21155.31",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3-EAP5-243.21155.31.Checked.tar.gz",
-      "sha256": "825e2ca772efa46bfc43e83c8ed9a6ce5d2a05042e1d49df8f530270ab8911b1"
+      "ver": "251.14649.64",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.1-EAP1-251.14649.64.Checked.tar.gz",
+      "sha256": "2998709d27f032766ae0d5a99db77a95b0c5aad9f5fa35b78d9a615d2e4b0b92"
     },
     "RM": {
       "ver": "251.14649.51",
