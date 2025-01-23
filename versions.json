@@ -118,14 +118,14 @@
       "sha256": "2f308d33cb4a7d5fd45c8fa3a2728377d6520c860c18a91e1d67eb048b8170bc"
     },
     "PCP": {
-      "ver": "243.21565.33",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-243.21565.33.tar.gz",
-      "sha256": "c01202a6bf9148d76b38e3429fb4cd89f9c351174f68c9fa3c66c7ed95095618"
+      "ver": "251.17181.23",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-251.17181.23.tar.gz",
+      "sha256": "012be7eee9082c2726cd66120002416df40d631bc41839dc8e9ca08fd9e4707a"
     },
     "PS": {
-      "ver": "251.14649.45",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-251.14649.45.tar.gz",
-      "sha256": "b7591118926361b8c5f0bd55b54fa39781c4f29382fabbda6c2724aa0505e39f"
+      "ver": "251.17181.10",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-251.17181.10.tar.gz",
+      "sha256": "94866dfec41f2dd22375d13f97bac9461b3f2f56d94d0fcbd126c4141287dc01"
     },
     "RD": {
       "ver": "251.14649.64",
