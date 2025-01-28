@@ -51,9 +51,9 @@
       "sha256": "558f868040510bae1118087146df0099a3df57b376da3713ae02f09f718e9c64"
     },
     "PCP": {
-      "ver": "2024.3.1.1",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-2024.3.1.1.tar.gz",
-      "sha256": "5698131d93d00a261c720a31ec54ef1c850581c274be6938dd923e8c0383da25"
+      "ver": "2024.3.2",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-2024.3.2.tar.gz",
+      "sha256": "520ffc8c2d4ebd2d75663c74567882af28c3a5d595d165a494394842330b2b5a"
     },
     "PS": {
       "ver": "2024.3.2.1",
