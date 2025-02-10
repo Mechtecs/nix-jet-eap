@@ -73,9 +73,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "251.18673.49",
-      "archive": "https://download.jetbrains.com/cpp/CLion-251.18673.49.tar.gz",
-      "sha256": "57489cbfb5b6428d51ed45eece7e1c3a6dbdcd0439401d8c25b62a088a6e563a"
+      "ver": "251.20015.45",
+      "archive": "https://download.jetbrains.com/cpp/CLion-251.20015.45.tar.gz",
+      "sha256": "f5f80c866a9a427ee6c42795640f6f43b2b2577cb1511e79416ccb0a5a18680b"
     },
     "DG": {
       "ver": "243.21565.48",
@@ -123,9 +123,9 @@
       "sha256": "7dc90ba703bc493f066151c777fc312a3326fbc5e0a909c89e9100252180391c"
     },
     "RM": {
-      "ver": "251.18673.29",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-251.18673.29.tar.gz",
-      "sha256": "7cfb1ad4a831d62c8f12f2fc4395beb4092fed720677e7b1b12afa1032dae29f"
+      "ver": "251.20015.43",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-251.20015.43.tar.gz",
+      "sha256": "24232f5eee73d1e43200e29f61750c2d7f5d0d4c8a9513b84f07614997c1ab23"
     },
     "TBA": {
       "ver": "2.5.0.34323",
