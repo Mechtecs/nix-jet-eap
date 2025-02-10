@@ -30,11 +30,6 @@
       "archive": "https://download.jetbrains.com/idea/ideaIC-2024.3.2.2.tar.gz",
       "sha256": "d73fd631943c300d55729bd33e06e193751478a83477153807cfa941e4bf12e5"
     },
-    "IIE": {
-      "ver": "2022.2.2",
-      "archive": "https://download.jetbrains.com/idea/ideaIE-2022.2.2.tar.gz",
-      "sha256": "4e0aa794ea0f7a1fe6b65414d5920acf07b0ac454bb212644054ea9399736c85"
-    },
     "IIU": {
       "ver": "2024.3.2.2",
       "archive": "https://download.jetbrains.com/idea/ideaIU-2024.3.2.2.tar.gz",
@@ -44,11 +39,6 @@
       "ver": "2024.3",
       "archive": "https://download.jetbrains.com/mps/2024.3/MPS-2024.3.tar.gz",
       "sha256": "449048a9cdb944d4c3addf8156545c363be237ceb2b6f8516d72cb53eb00a37c"
-    },
-    "PCE": {
-      "ver": "2022.2.2",
-      "archive": "https://download.jetbrains.com/python/pycharm-edu-2022.2.2.tar.gz",
-      "sha256": "558f868040510bae1118087146df0099a3df57b376da3713ae02f09f718e9c64"
     },
     "PCP": {
       "ver": "2024.3.2",
