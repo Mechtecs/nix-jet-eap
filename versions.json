@@ -21,9 +21,9 @@
       "sha256": "fb0908ce2b4e43222758cc5c9b7498677f924271ca5d9a790e794e8ade28177d"
     },
     "HB": {
-      "ver": "2024.3",
-      "archive": "https://download.jetbrains.com/hub/hub-2024.3.57595.zip",
-      "sha256": "6b612e231bb1f470b4f1f205966363605a9f3b4b442d5f25434e6ba7b058fe66"
+      "ver": "2025.1",
+      "archive": "https://download.jetbrains.com/hub/hub-2025.1.62455.zip",
+      "sha256": "d575d73533811182a35cce26824e2e03053a3fbc472cecf1c846259386ff6df9"
     },
     "IIC": {
       "ver": "2024.3.3",
