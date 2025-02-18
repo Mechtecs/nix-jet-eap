@@ -93,14 +93,14 @@
       "sha256": "c1a10e538e57a2fa7a3dd76fd4758bba2977f598c766e3eceec00bbd0cf49c3a"
     },
     "IIC": {
-      "ver": "251.20015.29",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-251.20015.29.tar.gz",
-      "sha256": "71938e5c7512662b83a854b3b8c18c80cfb12e218b7d320a698c7bae98897c5c"
+      "ver": "251.21418.62",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-251.21418.62.tar.gz",
+      "sha256": "28ecd3a690b16bcf9a5b908edac0fb846de69bce689952254297075b2f748270"
     },
     "IIU": {
-      "ver": "251.20015.29",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-251.20015.29.tar.gz",
-      "sha256": "ae19b9b15c02031f593257fe768ebe0219c0a64468f208f85a8df0b0ac06647c"
+      "ver": "251.21418.62",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-251.21418.62.tar.gz",
+      "sha256": "03e685d3875c21d2db20ae861ac350502ec9dd28a7a21cf70c0bfffe01445b59"
     },
     "MPS": {
       "ver": "243.21565.368",
@@ -118,9 +118,9 @@
       "sha256": "f36fcb47cec43711d7c8f618570738f209537b6ea6e90d155936978a1d43fc67"
     },
     "RD": {
-      "ver": "251.20015.32",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.1-EAP3-251.20015.32.Checked.tar.gz",
-      "sha256": "7dc90ba703bc493f066151c777fc312a3326fbc5e0a909c89e9100252180391c"
+      "ver": "251.21418.63",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.1-EAP4-251.21418.63.Checked.tar.gz",
+      "sha256": "23cc0a5c8335f5edf43afb828e076693b291fa2e4c4c6aca1d59baaf96bfaaa3"
     },
     "RM": {
       "ver": "251.20015.43",
