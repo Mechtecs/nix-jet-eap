@@ -73,9 +73,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "251.20015.45",
-      "archive": "https://download.jetbrains.com/cpp/CLion-251.20015.45.tar.gz",
-      "sha256": "f5f80c866a9a427ee6c42795640f6f43b2b2577cb1511e79416ccb0a5a18680b"
+      "ver": "251.22821.84",
+      "archive": "https://download.jetbrains.com/cpp/CLion-251.22821.84.tar.gz",
+      "sha256": "00f9f0775866f27456b7429b2194c9db16b2ad319ea5f07abe9d3dd94cbb17db"
     },
     "DG": {
       "ver": "251.20015.44",
@@ -118,9 +118,9 @@
       "sha256": "2cdf8d4964261b4056ba970903e3604af5e2b4aefa2a9bae641112c8db0e294d"
     },
     "RD": {
-      "ver": "251.21418.63",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.1-EAP4-251.21418.63.Checked.tar.gz",
-      "sha256": "23cc0a5c8335f5edf43afb828e076693b291fa2e4c4c6aca1d59baaf96bfaaa3"
+      "ver": "251.22821.85",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.1-EAP5-251.22821.85.Checked.tar.gz",
+      "sha256": "2a0ca1b248379f81f16da582a5277849f8035fb7f7ce25fc052f63d35b1bf633"
     },
     "RM": {
       "ver": "251.21418.43",
