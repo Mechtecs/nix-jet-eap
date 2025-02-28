@@ -88,9 +88,9 @@
       "sha256": "9e741d8223985777c72bf07bd82a1cd9e43b8f0371c7e8a81f70ff02a2a290a3"
     },
     "GO": {
-      "ver": "251.22821.73",
-      "archive": "https://download.jetbrains.com/go/goland-251.22821.73.tar.gz",
-      "sha256": "7c6ee28754548b63cf82ce708d10088a131c8e668c349869820c21f10999b7ce"
+      "ver": "251.23536.46",
+      "archive": "https://download.jetbrains.com/go/goland-251.23536.46.tar.gz",
+      "sha256": "7fe3ece0c9fc07c59f6b7e68878b615206a23f0ba43fbf414d4b2e7ad90ed4bc"
     },
     "IIC": {
       "ver": "251.23536.34",
@@ -113,9 +113,9 @@
       "sha256": "39f2be84bf4e1a9586d9453723936fa3a4ee8f0f3932e9539976ecbe7af7cf74"
     },
     "PS": {
-      "ver": "251.22821.56",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-251.22821.56.tar.gz",
-      "sha256": "2cdf8d4964261b4056ba970903e3604af5e2b4aefa2a9bae641112c8db0e294d"
+      "ver": "251.23536.39",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-251.23536.39.tar.gz",
+      "sha256": "27d8a294499399ab49db554993a582734908b6fe30d3344a2b1898fac86c2bad"
     },
     "RD": {
       "ver": "251.23536.35",
