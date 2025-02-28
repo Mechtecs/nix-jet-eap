@@ -108,9 +108,9 @@
       "sha256": "2f308d33cb4a7d5fd45c8fa3a2728377d6520c860c18a91e1d67eb048b8170bc"
     },
     "PCP": {
-      "ver": "251.22821.82",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-251.22821.82.tar.gz",
-      "sha256": "e039a3b02ebaea391c0b28dc6a9d25f8e299a0d05eef7b4519f552982ba244ee"
+      "ver": "251.23536.40",
+      "archive": "https://download.jetbrains.com/python/pycharm-professional-251.23536.40.tar.gz",
+      "sha256": "39f2be84bf4e1a9586d9453723936fa3a4ee8f0f3932e9539976ecbe7af7cf74"
     },
     "PS": {
       "ver": "251.22821.56",
@@ -123,9 +123,9 @@
       "sha256": "f61058b3444b1242a54aca02274b246be17f9cb9c36d5f95c7a8820381d7339e"
     },
     "RM": {
-      "ver": "251.22821.74",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-251.22821.74.tar.gz",
-      "sha256": "21168427b164e1c4f8500ccba00ee31de2c403b69ee8b13660ee1d9002da956d"
+      "ver": "251.23536.37",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-251.23536.37.tar.gz",
+      "sha256": "380169348eb8e58db587a96c25b715f4c6b7777315dc8903d9cbb5b437cbaa7c"
     },
     "TBA": {
       "ver": "2.5.0.34323",
