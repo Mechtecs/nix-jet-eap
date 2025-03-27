@@ -78,9 +78,9 @@
       "sha256": "0c9665b0f8360fa53d9fcf74d78a35aac74645fe2d38249737cf6aa7ccd50ab4"
     },
     "DG": {
-      "ver": "251.23536.38",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-251.23536.38.tar.gz",
-      "sha256": "4d85b416946eb774d9ea713741cc38fc70b3800f68d8cdb57cef8da43d6ff955"
+      "ver": "251.23774.199",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-251.23774.199.tar.gz",
+      "sha256": "2c5893bd7a76d4d4d2f1fdc6f47981561369d3c30be4bc7741b211564f47745b"
     },
     "DS": {
       "ver": "251.23774.146",
@@ -133,9 +133,9 @@
       "sha256": "03e3d2c6c71e07d234315bd7f1b2174accdaa8aa57f7528a6ac816d3c9f82fe3"
     },
     "WS": {
-      "ver": "251.23774.114",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-251.23774.114.tar.gz",
-      "sha256": "f8f978c5aab207b4e2a62e483578d68553d6ee73ab46a31ae624c2f408b83550"
+      "ver": "251.23774.210",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-251.23774.210.tar.gz",
+      "sha256": "1a09196e5c8e6b54dde0acdc05e40d2e784b249e081d6ca2acf26f59894ed0bb"
     }
   }
 }
