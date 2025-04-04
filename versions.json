@@ -22,8 +22,8 @@
     },
     "HB": {
       "ver": "2025.1",
-      "archive": "https://download.jetbrains.com/hub/hub-2025.1.68116.zip",
-      "sha256": "6d309e04c3c003b00b24bb478d615bc6716b85dc8b29a7efc401d367b417921a"
+      "archive": "https://download.jetbrains.com/hub/hub-2025.1.69895.zip",
+      "sha256": "d076491067d0749a128997cd832bfc4d4aaa165fc1e2dc6a685972e67a22e98a"
     },
     "IIC": {
       "ver": "2024.3.5",
