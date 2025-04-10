@@ -36,9 +36,9 @@
       "sha256": "f8e8e864f4fedddf1d366a7db23fc4132192c3a6029c614a382186ff564a78a1"
     },
     "MPS": {
-      "ver": "2024.3.1",
-      "archive": "https://download.jetbrains.com/mps/2024.3/MPS-2024.3.1.tar.gz",
-      "sha256": "b0e1f7bbc56ddf706510a420783418bc61e80bc4ea3c23ae60fb09cee846f01b"
+      "ver": "2024.3.2",
+      "archive": "https://download.jetbrains.com/mps/2024.3/MPS-2024.3.2.tar.gz",
+      "sha256": "54896e4c0a22c2ca27815da40be80f70b40b0d45e86d9bce957e47316f2ad342"
     },
     "PCP": {
       "ver": "2024.3.5",
