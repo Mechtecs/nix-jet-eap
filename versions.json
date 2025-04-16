@@ -42,7 +42,7 @@
     },
     "PCP": {
       "ver": "2025.1",
-      "archive": "https://download.jetbrains.com/python/pycharm-professional-2025.1.tar.gz",
+      "archive": "https://download.jetbrains.com/python/pycharm-2025.1.tar.gz",
       "sha256": "1282907f134a726e17bb7fe8cb7088e406aa4fbf9d910def03633572f3a62f8c"
     },
     "PS": {
