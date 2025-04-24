@@ -46,9 +46,9 @@
       "sha256": "1282907f134a726e17bb7fe8cb7088e406aa4fbf9d910def03633572f3a62f8c"
     },
     "PS": {
-      "ver": "2025.1",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2025.1.tar.gz",
-      "sha256": "2ead794b5bc6d31be4ad886788110e9d8e5c708e2e542b20d17a2407b9e58998"
+      "ver": "2025.1.0.1",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2025.1.0.1.tar.gz",
+      "sha256": "53e2611f1283725f97183229afbbb1497a0573943140b2af42e0d9d226392e1c"
     },
     "RD": {
       "ver": "2025.1",
