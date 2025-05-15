@@ -73,9 +73,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "251.23774.202",
-      "archive": "https://download.jetbrains.com/cpp/CLion-251.23774.202.tar.gz",
-      "sha256": "0c9665b0f8360fa53d9fcf74d78a35aac74645fe2d38249737cf6aa7ccd50ab4"
+      "ver": "252.13776.55",
+      "archive": "https://download.jetbrains.com/cpp/CLion-252.13776.55.tar.gz",
+      "sha256": "23c2391ee1a761d0af312d85d8781ff5a8f8e53693b9a6215c1dff06deb1a397"
     },
     "DG": {
       "ver": "251.23774.199",
@@ -88,19 +88,19 @@
       "sha256": "e72331ec4ce8bcba7b7f0936050bbdb0445340f9f52168b17e2937f02e28afeb"
     },
     "GO": {
-      "ver": "251.23774.216",
-      "archive": "https://download.jetbrains.com/go/goland-251.23774.216.tar.gz",
-      "sha256": "9c74be72b091a866d35b3561f697c4161750dee8350e7b2f3563b6012c9333d0"
+      "ver": "252.13776.68",
+      "archive": "https://download.jetbrains.com/go/goland-252.13776.68.tar.gz",
+      "sha256": "8c8d2653020b36ebb115799c92915b4a1f69c6529f0ccf5078e0f9074a0215d6"
     },
     "IIC": {
-      "ver": "251.25410.28",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-251.25410.28.tar.gz",
-      "sha256": "d4d9de4e259f4b5c36a7f896892eb5897d8de9b207e77b52632b79df4d7b7b3e"
+      "ver": "252.13776.59",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-252.13776.59.tar.gz",
+      "sha256": "a13e51a02ecf643e20259e15fcc99afa7bacd59901f521e20cf18ed3298c6926"
     },
     "IIU": {
-      "ver": "251.25410.28",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-251.25410.28.tar.gz",
-      "sha256": "afff1af1ec223251351f0490cadb2c34712c468a527573dda502bb8f4203d8bc"
+      "ver": "252.13776.59",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-252.13776.59.tar.gz",
+      "sha256": "862e7d15b0f8cbd752f969684885a47ffb1e32a2c495089176af92d12164ecad"
     },
     "MPS": {
       "ver": "251.23774.284",
@@ -123,9 +123,9 @@
       "sha256": "60db3a6cf5e4bd2e6cbaabcf3d53ebad81c6e4e16ced89414cabf5468fef6b6e"
     },
     "RM": {
-      "ver": "251.25410.31",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-251.25410.31.tar.gz",
-      "sha256": "b4fb38885e494827b2fe9f483c0237625319f119273d55db9c296a2e32e788ac"
+      "ver": "252.13776.53",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-252.13776.53.tar.gz",
+      "sha256": "94f5067beeaca1f9d699beef37b29bfa189586a57156e25b4aa868e4cf6a62c8"
     },
     "TBA": {
       "ver": "2.6.0.39771",
