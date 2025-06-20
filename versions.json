@@ -73,9 +73,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "252.21735.27",
-      "archive": "https://download.jetbrains.com/cpp/CLion-252.21735.27.tar.gz",
-      "sha256": "45a48a3dae60d7754da78fa799714ccb8c7052bef234c5a26bf0080640bf7301"
+      "ver": "252.23309.24",
+      "archive": "https://download.jetbrains.com/cpp/CLion-252.23309.24.tar.gz",
+      "sha256": "8febaba4f1a41d328b85b00955d4a865f49b6515d10458b291a766a455fea140"
     },
     "DG": {
       "ver": "252.23309.5",
@@ -88,9 +88,9 @@
       "sha256": "e72331ec4ce8bcba7b7f0936050bbdb0445340f9f52168b17e2937f02e28afeb"
     },
     "GO": {
-      "ver": "252.21735.40",
-      "archive": "https://download.jetbrains.com/go/goland-252.21735.40.tar.gz",
-      "sha256": "930b0dcc6eb19f8b595b2ad522bf8123d8d834608710a2996acef20aa2737bad"
+      "ver": "252.23309.35",
+      "archive": "https://download.jetbrains.com/go/goland-252.23309.35.tar.gz",
+      "sha256": "6fe4246d6c237261c78c8b543acb4008872da54ee20f9a8a5cb0b8f5854bc774"
     },
     "IIC": {
       "ver": "252.23309.22",
