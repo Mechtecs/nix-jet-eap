@@ -108,9 +108,9 @@
       "sha256": "89a4e594be2ef1df33c45dee7b0d9f16d1a07cebf01f3b03549bdb155ee928ed"
     },
     "PCP": {
-      "ver": "252.21735.39",
-      "archive": "https://download.jetbrains.com/python/pycharm-252.21735.39.tar.gz",
-      "sha256": "e4dff9fcd668472b245fe182f622360713afaeda510e7eb68bd5de8158712942"
+      "ver": "252.23309.36",
+      "archive": "https://download.jetbrains.com/python/pycharm-252.23309.36.tar.gz",
+      "sha256": "11db3dd9ab01fd0046dd58c6c4d63d2246ee73edbb06537d67ac4c03e15cc48c"
     },
     "PS": {
       "ver": "252.23309.25",
@@ -118,9 +118,9 @@
       "sha256": "e73ac1c76c961cc197b95b2c043167f4b36e2bd4dfef13634f7681b2e875b148"
     },
     "RD": {
-      "ver": "252.21735.43",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.2-EAP5-252.21735.43.Checked.tar.gz",
-      "sha256": "4a0fe0888999fcb2ae7c279a248a79cd860245ac8643f9d92849d75ee3b5dfde"
+      "ver": "252.23309.42",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.2-EAP6-252.23309.42.Checked.tar.gz",
+      "sha256": "57ac681274a6046d271aa2f1ac5b9ec398d9675c31443665bec7277ce96046e7"
     },
     "RM": {
       "ver": "252.21735.26",
