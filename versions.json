@@ -16,9 +16,9 @@
       "sha256": "e0711b629ad45d6d051fd9796bf81689d46212fdd8f21306128a8522097ca3e9"
     },
     "GO": {
-      "ver": "2025.1.2",
-      "archive": "https://download.jetbrains.com/go/goland-2025.1.2.tar.gz",
-      "sha256": "18d4465e8c50911d8f4ecd7ba75ee1aa14cf3d05eb4df39790729cf67bf2a638"
+      "ver": "2025.1.3",
+      "archive": "https://download.jetbrains.com/go/goland-2025.1.3.tar.gz",
+      "sha256": "9dec99e036251696ded89abcb11a67a9f3869fc2bdad4ba0cc1297ca9ae4ebea"
     },
     "HB": {
       "ver": "2025.1",
@@ -83,9 +83,9 @@
       "sha256": "d7d3b5a19773c2a269e3c72da75eec58623004a389403f686c21932f99387874"
     },
     "DS": {
-      "ver": "251.23774.146",
-      "archive": "https://download.jetbrains.com/python/dataspell-251.23774.146.tar.gz",
-      "sha256": "e72331ec4ce8bcba7b7f0936050bbdb0445340f9f52168b17e2937f02e28afeb"
+      "ver": "252.23309.49",
+      "archive": "https://download.jetbrains.com/python/dataspell-252.23309.49.tar.gz",
+      "sha256": "1bbfa6900a1db20d650335d35b5fb7935d554c73c495766866aff23546792fc8"
     },
     "GO": {
       "ver": "252.23309.35",
