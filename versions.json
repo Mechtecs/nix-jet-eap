@@ -113,9 +113,9 @@
       "sha256": "11db3dd9ab01fd0046dd58c6c4d63d2246ee73edbb06537d67ac4c03e15cc48c"
     },
     "PS": {
-      "ver": "252.23309.25",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-252.23309.25.tar.gz",
-      "sha256": "e73ac1c76c961cc197b95b2c043167f4b36e2bd4dfef13634f7681b2e875b148"
+      "ver": "252.23591.32",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-252.23591.32.tar.gz",
+      "sha256": "aac20485edefb8fc4f1e0cf3c236891ff51fad8f68ea5fccfe67bd7bb175788a"
     },
     "RD": {
       "ver": "252.23591.27",
@@ -133,9 +133,9 @@
       "sha256": "ebf7622891747e200e3746e56ce6fcfb0c43ca5865f569857c992d5abeb18d17"
     },
     "WS": {
-      "ver": "252.23309.26",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-252.23309.26.tar.gz",
-      "sha256": "22d94fda5d8e2ef58e0f55366876bb905400512921d0c4b06be6e633a28f8372"
+      "ver": "252.23591.33",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-252.23591.33.tar.gz",
+      "sha256": "5872993e972e55193b470f4410d0f3d6670bd181fb84fab2ee6539c05fa8abaf"
     }
   }
 }
