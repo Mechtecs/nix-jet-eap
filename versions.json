@@ -36,9 +36,9 @@
       "sha256": "0b6d8c0964dc18785437c14bd2ac7e000e07e39865680227d201cd9cad0ff8a8"
     },
     "PCP": {
-      "ver": "2025.1.3",
-      "archive": "https://download.jetbrains.com/python/pycharm-2025.1.3.tar.gz",
-      "sha256": "3423a6d09a5756d99b954db3625689928fcd761ce27462bbdc90421d29dab734"
+      "ver": "2025.1.3.1",
+      "archive": "https://download.jetbrains.com/python/pycharm-2025.1.3.1.tar.gz",
+      "sha256": "c8f5b42843ef21673dd94f0d565cda2d09dae595736e39cf510de9a0a8a07239"
     },
     "PS": {
       "ver": "2025.1.3",
@@ -73,9 +73,9 @@
       "sha256": "8febaba4f1a41d328b85b00955d4a865f49b6515d10458b291a766a455fea140"
     },
     "DG": {
-      "ver": "252.23892.52",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-252.23892.52.tar.gz",
-      "sha256": "d452f6bd08c9bab10741377216af398574f1960ea3fb740e3cb9166f6f5d96cc"
+      "ver": "252.23892.150",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-252.23892.150.tar.gz",
+      "sha256": "b60f78b42b4041eb1351d08f310e7dfab72ae332327a0ff18e2087892abd297b"
     },
     "DS": {
       "ver": "252.23309.49",
