@@ -1,9 +1,9 @@
 {
   "stable": {
     "CL": {
-      "ver": "2025.1.4",
-      "archive": "https://download.jetbrains.com/cpp/CLion-2025.1.4.tar.gz",
-      "sha256": "8d90be9d11c0f47b380f4a9f705058215817edf043bdcea2223d788d25193f78"
+      "ver": "2025.2",
+      "archive": "https://download.jetbrains.com/cpp/CLion-2025.2.tar.gz",
+      "sha256": "a12d094544f0b5222d34e2cd8b36b1ea834e7c7acdea7b65aae5cb3522ca108e"
     },
     "DG": {
       "ver": "2025.2",
@@ -16,9 +16,9 @@
       "sha256": "1759516154a989ad1bcbc0e0cc29eb7b50c5c96b910c1a8926ae87ea5aa07ea6"
     },
     "GO": {
-      "ver": "2025.1.4",
-      "archive": "https://download.jetbrains.com/go/goland-2025.1.4.tar.gz",
-      "sha256": "42efe9cc97248403e868180339f403ab390e9a335a658bd7aa905b64c03c7a31"
+      "ver": "2025.2",
+      "archive": "https://download.jetbrains.com/go/goland-2025.2.tar.gz",
+      "sha256": "d285c10055af9002db8c913557535ba46e3158c5733b236add3d71f93873e85a"
     },
     "IIC": {
       "ver": "2025.2",
