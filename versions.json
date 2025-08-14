@@ -46,9 +46,9 @@
       "sha256": "d0d3e61aaed7c4765b4947a8410a885cf7e1123c488340585ed72151f8c05350"
     },
     "RD": {
-      "ver": "2025.1.5",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.5.tar.gz",
-      "sha256": "b10e21b764e504e33468ee93885fee1102c0b96bd628d1d7c0a19ce6e83910d6"
+      "ver": "2025.2",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.tar.gz",
+      "sha256": "661d5e8fc12e6373e7a84ee197aa755d77c2e3fe0246284c79bc20682d39d309"
     },
     "RM": {
       "ver": "2025.2",
@@ -128,9 +128,9 @@
       "sha256": "190b986942e38e71526478430c5aedec07b0bbbc076242816773827c5d59fe37"
     },
     "WS": {
-      "ver": "252.23892.218",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-252.23892.218.tar.gz",
-      "sha256": "bdea2632bf513e5e5c47d2d1e5eacfb37eccb595b2e5db5d7d6b063d5e1a7030"
+      "ver": "252.25557.32",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-252.25557.32.tar.gz",
+      "sha256": "76e76f30a0cf074a1cc560825b1c62144d28bbcda33b72d084e8a6db81aa110c"
     }
   }
 }
