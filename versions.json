@@ -1,9 +1,9 @@
 {
   "stable": {
     "CL": {
-      "ver": "2025.2",
-      "archive": "https://download.jetbrains.com/cpp/CLion-2025.2.tar.gz",
-      "sha256": "a12d094544f0b5222d34e2cd8b36b1ea834e7c7acdea7b65aae5cb3522ca108e"
+      "ver": "2025.2.1",
+      "archive": "https://download.jetbrains.com/cpp/CLion-2025.2.1.tar.gz",
+      "sha256": "f50e1a1e5172f652efdb7d72dc8c2a6222564671983b0c8b03caa68c56630648"
     },
     "DG": {
       "ver": "2025.2.2",
