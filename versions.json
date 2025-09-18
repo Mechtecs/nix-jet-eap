@@ -16,9 +16,9 @@
       "sha256": "ea3d1a3539b93850326b0126e32b5d6d02b9530ee86dc0b079877967464316f6"
     },
     "GO": {
-      "ver": "2025.2.1.2",
-      "archive": "https://download.jetbrains.com/go/goland-2025.2.1.2.tar.gz",
-      "sha256": "66cb93202b9c4bc34688838a8c39e0d0ed876d01ca651d9f2b0d455139b27169"
+      "ver": "2025.2.2",
+      "archive": "https://download.jetbrains.com/go/goland-2025.2.2.tar.gz",
+      "sha256": "e5816136312a419b67cdfab203bd30e305cb2f8952eea76445e908c01f3113c0"
     },
     "IIC": {
       "ver": "2025.2.1",
@@ -61,9 +61,9 @@
       "sha256": "927ccdbe1791d36311250a76721bd05849f996f52068f9eb3c7436f0018ab6c0"
     },
     "WS": {
-      "ver": "2025.2.1",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2025.2.1.tar.gz",
-      "sha256": "8d03ae22e4bac309edbf58310b4fc758fedaee5dc065467eeda005fac5217d2b"
+      "ver": "2025.2.2",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2025.2.2.tar.gz",
+      "sha256": "8bb3bed5c670514ced8614b29848c5d3b7ff4f4e86056cf5cdc5930951c87ff6"
     }
   },
   "eap": {
