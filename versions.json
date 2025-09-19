@@ -21,14 +21,14 @@
       "sha256": "e5816136312a419b67cdfab203bd30e305cb2f8952eea76445e908c01f3113c0"
     },
     "IIC": {
-      "ver": "2025.2.1",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-2025.2.1.tar.gz",
-      "sha256": "fc76fe8b6693b18d5d7385bb005f415287dbd5897b313287b9ef56dd0df9d5bd"
+      "ver": "2025.2.2",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-2025.2.2.tar.gz",
+      "sha256": "3f1adc095bf78f0949e3f62f6cf02be0c5c9e6528271f16caa3baa041e637664"
     },
     "IIU": {
-      "ver": "2025.2.1",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-2025.2.1.tar.gz",
-      "sha256": "ac36d03153894f393fb65c05f57be4722c2a2374d03b7374b37baf856705d5fd"
+      "ver": "2025.2.2",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-2025.2.2.tar.gz",
+      "sha256": "7150ece389a4bc8649f68b103018edeeb09205559671549410ded11de523da62"
     },
     "MPS": {
       "ver": "2025.2",
@@ -51,9 +51,9 @@
       "sha256": "1ebffac91d70f8ce64567955de35738bb52d5e81b45d8c67dd494ff3fa0301df"
     },
     "RM": {
-      "ver": "2025.2.1",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2025.2.1.tar.gz",
-      "sha256": "fbed517b4c60623c04b045dd6cfff08105783a56dd1b831b164a72aa2ead6a38"
+      "ver": "2025.2.2",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2025.2.2.tar.gz",
+      "sha256": "f103c2c5ab074aace1ce4678d32fa80d8521a25bb6497130d1185662244cf46d"
     },
     "TBA": {
       "ver": "2.9",
