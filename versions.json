@@ -83,9 +83,9 @@
       "sha256": "1bbfa6900a1db20d650335d35b5fb7935d554c73c495766866aff23546792fc8"
     },
     "GO": {
-      "ver": "253.17525.101",
-      "archive": "https://download.jetbrains.com/go/goland-253.17525.101.tar.gz",
-      "sha256": "6b3c3ea09a1b4a516af0bc9ac47d1ddce4f595dfdb22809778a2de27220bd432"
+      "ver": "253.20558.37",
+      "archive": "https://download.jetbrains.com/go/goland-253.20558.37.tar.gz",
+      "sha256": "81bcca611ec2e042bb789c8e7b468c51c146ddb503a07a13d0b155f86ca4ba4e"
     },
     "IIC": {
       "ver": "252.26199.7",
@@ -93,9 +93,9 @@
       "sha256": "55d7f7a35514e1b1b1703625ad2ec9190ad29ddcfb53f98fb438b965f5f4c3e7"
     },
     "IIU": {
-      "ver": "253.17525.95",
-      "archive": "https://download.jetbrains.com/idea/idea-253.17525.95.tar.gz",
-      "sha256": "05c0a5dca0656063d6e08165be382822128fd8001615aa06573275272a972a52"
+      "ver": "253.20558.43",
+      "archive": "https://download.jetbrains.com/idea/idea-253.20558.43.tar.gz",
+      "sha256": "36210645a41d5ee2860fcb03db47ff37648dc39ea22759e26ba54635bb49bba3"
     },
     "MPS": {
       "ver": "252.23892.426",
@@ -128,9 +128,9 @@
       "sha256": "a26ef1514445bc377114422df4ad9184bc14b7226a250e0d507173c53d71884c"
     },
     "WS": {
-      "ver": "253.17525.64",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-253.17525.64.tar.gz",
-      "sha256": "cd51063dac1b28aab9d7ee77cdfc8ed96243c21cc109943c6bd1c11b7d913c76"
+      "ver": "253.20558.45",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-253.20558.45.tar.gz",
+      "sha256": "d0433474f85825979b38c5d75044b44e5d99a46b0d88c2149b8de255d14f7f69"
     }
   }
 }
