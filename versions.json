@@ -21,14 +21,14 @@
       "sha256": "e5816136312a419b67cdfab203bd30e305cb2f8952eea76445e908c01f3113c0"
     },
     "IIC": {
-      "ver": "2025.2.2",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-2025.2.2.tar.gz",
-      "sha256": "3f1adc095bf78f0949e3f62f6cf02be0c5c9e6528271f16caa3baa041e637664"
+      "ver": "2025.2.3",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-2025.2.3.tar.gz",
+      "sha256": "6b7c671e97b1419ca22ff4c4a32e7ca51577e4177589bfd321bd9a26df16c9ba"
     },
     "IIU": {
-      "ver": "2025.2.2",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-2025.2.2.tar.gz",
-      "sha256": "7150ece389a4bc8649f68b103018edeeb09205559671549410ded11de523da62"
+      "ver": "2025.2.3",
+      "archive": "https://download.jetbrains.com/idea/ideaIU-2025.2.3.tar.gz",
+      "sha256": "4a54ae8a17d6427f07d2450324132f59391279c6b1094de02f73e408deb5a23c"
     },
     "MPS": {
       "ver": "2025.2",
@@ -61,9 +61,9 @@
       "sha256": "927ccdbe1791d36311250a76721bd05849f996f52068f9eb3c7436f0018ab6c0"
     },
     "WS": {
-      "ver": "2025.2.2",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2025.2.2.tar.gz",
-      "sha256": "8bb3bed5c670514ced8614b29848c5d3b7ff4f4e86056cf5cdc5930951c87ff6"
+      "ver": "2025.2.3",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2025.2.3.tar.gz",
+      "sha256": "00c82eded289fbd6fdb170314b4402d508175dffcbe1d7ffcc8370da6b400e71"
     }
   },
   "eap": {
