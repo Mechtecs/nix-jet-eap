@@ -93,9 +93,9 @@
       "sha256": "55d7f7a35514e1b1b1703625ad2ec9190ad29ddcfb53f98fb438b965f5f4c3e7"
     },
     "IIU": {
-      "ver": "253.22441.33",
-      "archive": "https://download.jetbrains.com/idea/idea-253.22441.33.tar.gz",
-      "sha256": "dc599405f1a318cd1596a09ed75cfe20fe525f2314126706633b570eb6d6a306"
+      "ver": "253.24325.38",
+      "archive": "https://download.jetbrains.com/idea/idea-253.24325.38.tar.gz",
+      "sha256": "09b82d49cfba9348fdf3ffee4fe267ddfe3a25d237efbbcec1c8e3a47836bc5d"
     },
     "MPS": {
       "ver": "252.23892.426",
@@ -103,14 +103,14 @@
       "sha256": "7262ab9c91d0cfa754a43ea4fd6c6ece00d33d35e2bb8931a43ee125aaedd4ca"
     },
     "PCP": {
-      "ver": "253.20558.58",
-      "archive": "https://download.jetbrains.com/python/pycharm-253.20558.58.tar.gz",
-      "sha256": "13326232eddcc5a91e5cb810ea68179e10cba79e72861c375a67c2932fec1fdc"
+      "ver": "253.24325.40",
+      "archive": "https://download.jetbrains.com/python/pycharm-253.24325.40.tar.gz",
+      "sha256": "c510a01993efcedd59d2c627b1caa9558ad446b357f5b8d7b12d86edc28f9974"
     },
     "PS": {
-      "ver": "253.22441.24",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-253.22441.24.tar.gz",
-      "sha256": "273a646419287bb1a7a102b302e4d589296670e66ed969261ece48e67b6f8752"
+      "ver": "253.24325.33",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-253.24325.33.tar.gz",
+      "sha256": "872791efeb71a9cdd0daf47af8150109ac9cd8cabb564a3daaf9c7426e029ed5"
     },
     "RD": {
       "ver": "253.22441.41",
