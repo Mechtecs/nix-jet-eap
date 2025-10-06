@@ -46,9 +46,9 @@
       "sha256": "b34ddb64cc84b9ca29b7d171c71296aab8bd87d7a6d7eb11c410e0e59a81a51d"
     },
     "RD": {
-      "ver": "2025.2.2.1",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.2.1.tar.gz",
-      "sha256": "3b2550f438cc82ad31df42aa639d9c763d7f530942f85571438061c808dfefbb"
+      "ver": "2025.2.3",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.2.3.tar.gz",
+      "sha256": "1cfc4e756007c5a8b749c0848e4c050303aeeaabc0917f19732d908201b69446"
     },
     "RM": {
       "ver": "2025.2.3",
