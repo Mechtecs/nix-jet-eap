@@ -113,14 +113,14 @@
       "sha256": "872791efeb71a9cdd0daf47af8150109ac9cd8cabb564a3daaf9c7426e029ed5"
     },
     "RD": {
-      "ver": "253.22441.41",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.3-EAP3-253.22441.41.Checked.tar.gz",
-      "sha256": "654720675eb43aaa1ba2e7b934746bb51df0c0d45f6e8f98cc91e92eea4c331c"
+      "ver": "253.24325.45",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.3-EAP4-253.24325.45.Checked.tar.gz",
+      "sha256": "bd36be56f880281e74a43381b695481624ad326c7982b046f4de031ef68be240"
     },
     "RM": {
-      "ver": "253.22441.1",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-253.22441.1.tar.gz",
-      "sha256": "015a880ea9bd3e5c6d6b3da1f17039cd0c5d216933049e680fb1ef879daf658d"
+      "ver": "253.24325.44",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-253.24325.44.tar.gz",
+      "sha256": "ce94efce006b62232d10014a676e2e74ead1e6777d9ac7ce8ff433c096e35e80"
     },
     "TBA": {
       "ver": "2.9.0.55503",
