@@ -83,9 +83,9 @@
       "sha256": "1bbfa6900a1db20d650335d35b5fb7935d554c73c495766866aff23546792fc8"
     },
     "GO": {
-      "ver": "253.25908.26",
-      "archive": "https://download.jetbrains.com/go/goland-253.25908.26.tar.gz",
-      "sha256": "333b0ed297c9d9e6966964ed68c50fd2e8f60838f995950bdc57e6614a62af5e"
+      "ver": "253.27642.32",
+      "archive": "https://download.jetbrains.com/go/goland-253.27642.32.tar.gz",
+      "sha256": "db031162127c2f302c41b8d8f4f1ee73407ec43427cb2f467bdf8b9bb718db98"
     },
     "IIC": {
       "ver": "252.26199.7",
@@ -103,9 +103,9 @@
       "sha256": "7262ab9c91d0cfa754a43ea4fd6c6ece00d33d35e2bb8931a43ee125aaedd4ca"
     },
     "PCP": {
-      "ver": "253.24325.40",
-      "archive": "https://download.jetbrains.com/python/pycharm-253.24325.40.tar.gz",
-      "sha256": "c510a01993efcedd59d2c627b1caa9558ad446b357f5b8d7b12d86edc28f9974"
+      "ver": "253.27642.35",
+      "archive": "https://download.jetbrains.com/python/pycharm-253.27642.35.tar.gz",
+      "sha256": "54d2eb5a52a54d662d3fe178b57d2830a5117383e37975ebfcb734b2718de458"
     },
     "PS": {
       "ver": "253.25908.29",
