@@ -78,9 +78,9 @@
       "sha256": "68eacc193d67fe0fab94e000f7f6f3ef5c8c675ec63569ecb2e838c422daa0d2"
     },
     "DS": {
-      "ver": "252.23309.49",
-      "archive": "https://download.jetbrains.com/python/dataspell-252.23309.49.tar.gz",
-      "sha256": "1bbfa6900a1db20d650335d35b5fb7935d554c73c495766866aff23546792fc8"
+      "ver": "253.27642.21",
+      "archive": "https://download.jetbrains.com/python/dataspell-253.27642.21.tar.gz",
+      "sha256": "2bb494a08dd5bd5276ae4dcf11a200f3b395e59c447ff3be6783e42ab7c6126f"
     },
     "GO": {
       "ver": "253.27642.32",
@@ -108,9 +108,9 @@
       "sha256": "54d2eb5a52a54d662d3fe178b57d2830a5117383e37975ebfcb734b2718de458"
     },
     "PS": {
-      "ver": "253.25908.29",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-253.25908.29.tar.gz",
-      "sha256": "95ebaae6b016406e2ebd82a82b781b83bae93cd0b9d810cffdc6698d2af4ed08"
+      "ver": "253.27642.37",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-253.27642.37.tar.gz",
+      "sha256": "5fa2fcda8e32ec8058bcd034926374b14d67c28782e754bce7a6d62b679a01b8"
     },
     "RD": {
       "ver": "253.25908.23",
