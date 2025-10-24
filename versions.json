@@ -36,9 +36,9 @@
       "sha256": "cfbe530d0385cf3e9ccc2f18f43db25525e0024abdbcd3203bd66fb77fc6f3b4"
     },
     "PCP": {
-      "ver": "2025.2.3",
-      "archive": "https://download.jetbrains.com/python/pycharm-2025.2.3.tar.gz",
-      "sha256": "58f6165ea8ace65e708c607bec49d20d46b8d5908045ae31703353a184e59a05"
+      "ver": "2025.2.4",
+      "archive": "https://download.jetbrains.com/python/pycharm-2025.2.4.tar.gz",
+      "sha256": "f1613a171ab07ba0e7ccd13cb537af4da8920c89cf4a13c64a3f7ae72e803701"
     },
     "PS": {
       "ver": "2025.2.3",
@@ -61,9 +61,9 @@
       "sha256": "73e087b98da1fd8a1b26602b7bcb69e2dca08411d1f70d959cfbdd1e2c8ecd85"
     },
     "WS": {
-      "ver": "2025.2.3",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2025.2.3.tar.gz",
-      "sha256": "00c82eded289fbd6fdb170314b4402d508175dffcbe1d7ffcc8370da6b400e71"
+      "ver": "2025.2.4",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2025.2.4.tar.gz",
+      "sha256": "218d0cb6acd1f63c9b2877738af808279796d3d7e13318b54b021c8526d49b86"
     }
   },
   "eap": {
