@@ -56,9 +56,9 @@
       "sha256": "9249ee0e99e24b3898065c5328f56814fb1a8b53afc192e81e7b70e0982eb116"
     },
     "TBA": {
-      "ver": "3.0.1",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.0.1.59888.tar.gz",
-      "sha256": "cb5c24c4ee54df9e5634de61eba4168b245952a0e459b9ac530d198385604bcb"
+      "ver": "3.1",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.1.0.62320.tar.gz",
+      "sha256": "ccd77e18c7d98ffed8ba310c91b0b5872829b68da5a55ca0af990194ccd4d930"
     },
     "WS": {
       "ver": "2025.2.4",
@@ -108,9 +108,9 @@
       "sha256": "32df557617b2e5d4462303a49f977f529341fbb7e08b99f32121b281db1cb846"
     },
     "PS": {
-      "ver": "253.28086.57",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-253.28086.57.tar.gz",
-      "sha256": "844d93d4dab6c1b16035a0c0428d2c137b1f20cfbd94c3ef6825a238eb291ec1"
+      "ver": "253.28294.163",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-253.28294.163.tar.gz",
+      "sha256": "317240c90aaf1f1748b5acd7755bbdeb7f431174e5f92bd4b2b6f04423333feb"
     },
     "RD": {
       "ver": "253.28086.30",
@@ -118,9 +118,9 @@
       "sha256": "613def95c031b4d5499d9e810a9d5e069807ffd3f8b2915d10378df7ad438017"
     },
     "RM": {
-      "ver": "253.28086.34",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-253.28086.34.tar.gz",
-      "sha256": "75e53a6c6b257d623a40c1a8a36f702bf69396d5c41eb7f19e0c4b7f82550a55"
+      "ver": "253.28294.170",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-253.28294.170.tar.gz",
+      "sha256": "8efeec42b05e44a57058a848589bbcf4c53b6023ed8c60a098f869106331a4a7"
     },
     "TBA": {
       "ver": "3.1.0.61894",
