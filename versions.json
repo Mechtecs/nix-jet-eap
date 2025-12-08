@@ -1,9 +1,9 @@
 {
   "stable": {
     "CL": {
-      "ver": "2025.2.5",
-      "archive": "https://download.jetbrains.com/cpp/CLion-2025.2.5.tar.gz",
-      "sha256": "91474a3c35a9b3d50f43f0549098317b65aa881f2f80c3345f8dee7587d31f9e"
+      "ver": "2025.3",
+      "archive": "https://download.jetbrains.com/cpp/CLion-2025.3.tar.gz",
+      "sha256": "b9daed1c33f2e4a93bf503e227cda5a9fbaa3129e064bb97d7c2bd1304a4a2a7"
     },
     "DG": {
       "ver": "2025.3",
@@ -16,9 +16,9 @@
       "sha256": "1e4bc499da1ce8c63e8a4526159c20ef8a797315dc6d3ab4c8eb109f323faba6"
     },
     "GO": {
-      "ver": "2025.2.5",
-      "archive": "https://download.jetbrains.com/go/goland-2025.2.5.tar.gz",
-      "sha256": "7b748b7f5af267e8bd4d90d44bbeea8cb58b262115d884d2cd567af8d9d753c1"
+      "ver": "2025.3",
+      "archive": "https://download.jetbrains.com/go/goland-2025.3.tar.gz",
+      "sha256": "6151856286ea546eb8af9aeb025772cee6bd57134f45494a818e8da20a8691c6"
     },
     "IIC": {
       "ver": "2025.2.5",
@@ -26,9 +26,9 @@
       "sha256": "995c334cc3e143f13467abafef07a1ccf7d06275512bb6f4c91123948786ab7c"
     },
     "IIU": {
-      "ver": "2025.2.5",
-      "archive": "https://download.jetbrains.com/idea/ideaIU-2025.2.5.tar.gz",
-      "sha256": "dc92cd3850ba256d2cb1c9d884f9579f613f6fa747f628361458d21f66687393"
+      "ver": "2025.3",
+      "archive": "https://download.jetbrains.com/idea/idea-2025.3.tar.gz",
+      "sha256": "13f4174ba16c1cef04871cb261433536d002586c269a809392c20ee3f94959f5"
     },
     "MPS": {
       "ver": "2025.2.1",
@@ -51,9 +51,9 @@
       "sha256": "f09d5e060df110316e8abdedc397e6475e5d46d3f99b422d06de69f6e7025dbc"
     },
     "RM": {
-      "ver": "2025.2.5",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2025.2.5.tar.gz",
-      "sha256": "9d42262fa938e072a83828bd643c6d702b07e4a45c095315500a2a60d7bb805c"
+      "ver": "2025.3",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2025.3.tar.gz",
+      "sha256": "05c2164665df4d81088243328193fb43c09b98f761d221e5f2da7666ac8b5243"
     },
     "TBA": {
       "ver": "3.1.2",
@@ -123,9 +123,9 @@
       "sha256": "8efeec42b05e44a57058a848589bbcf4c53b6023ed8c60a098f869106331a4a7"
     },
     "TBA": {
-      "ver": "3.1.0.61894",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.1.0.61894.tar.gz",
-      "sha256": "61fc2879208fbb201033f09223f84f901ee99aa09fb20175a68c67269c79704e"
+      "ver": "3.2.0.64641",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.2.0.64641.tar.gz",
+      "sha256": "2e36f342b2495b822ccf522a1e08e85406f38a36e8c881f0ce7fdf667faf8c1d"
     },
     "WS": {
       "ver": "253.28294.86",
