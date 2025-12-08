@@ -36,14 +36,14 @@
       "sha256": "cfbe530d0385cf3e9ccc2f18f43db25525e0024abdbcd3203bd66fb77fc6f3b4"
     },
     "PCP": {
-      "ver": "2025.2.5",
-      "archive": "https://download.jetbrains.com/python/pycharm-2025.2.5.tar.gz",
-      "sha256": "b1e47419e5844c38e7a7a9be9e5260c75cea6aa8423f2584dc1727f792d5feb4"
+      "ver": "2025.3",
+      "archive": "https://download.jetbrains.com/python/pycharm-2025.3.tar.gz",
+      "sha256": "a410c9c5834ede16373325ea21b850e309557db5d9dcca3674caf92ea7c5bf05"
     },
     "PS": {
-      "ver": "2025.2.5",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2025.2.5.tar.gz",
-      "sha256": "4f102bb85add2527e46695f3b866c0e315423e19bc45e0adb0de0fe577a1efe6"
+      "ver": "2025.3",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2025.3.tar.gz",
+      "sha256": "eba685d65ac062f157288c7c70839647c482163df90e85930f217a0836927dd2"
     },
     "RD": {
       "ver": "2025.3.0.3",
