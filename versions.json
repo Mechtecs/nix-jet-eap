@@ -1,9 +1,9 @@
 {
   "stable": {
     "CL": {
-      "ver": "2025.3",
-      "archive": "https://download.jetbrains.com/cpp/CLion-2025.3.tar.gz",
-      "sha256": "b9daed1c33f2e4a93bf503e227cda5a9fbaa3129e064bb97d7c2bd1304a4a2a7"
+      "ver": "2025.3.1",
+      "archive": "https://download.jetbrains.com/cpp/CLion-2025.3.1.tar.gz",
+      "sha256": "44ae3da5358ba010a62d55ab412b72f364c5dcd2c2dcd2004ae34b7463807bbd"
     },
     "DG": {
       "ver": "2025.3.1",
@@ -51,9 +51,9 @@
       "sha256": "ff9a6064aef78ab35f6c1e3544d70d6ab38b6f9af919fdeae9be98942dae8f8f"
     },
     "RM": {
-      "ver": "2025.3",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2025.3.tar.gz",
-      "sha256": "05c2164665df4d81088243328193fb43c09b98f761d221e5f2da7666ac8b5243"
+      "ver": "2025.3.1",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2025.3.1.tar.gz",
+      "sha256": "e9eb2011ca2d5694c58c011690bf544d026e3a7c1c0c8de9bb37a18fa0cf8118"
     },
     "TBA": {
       "ver": "3.2",
