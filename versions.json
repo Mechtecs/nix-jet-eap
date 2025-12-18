@@ -26,9 +26,9 @@
       "sha256": "452ab15b120357830b3617222d4a7742ba5f0727c9354351f711658102621086"
     },
     "IIU": {
-      "ver": "2025.3",
-      "archive": "https://download.jetbrains.com/idea/idea-2025.3.tar.gz",
-      "sha256": "13f4174ba16c1cef04871cb261433536d002586c269a809392c20ee3f94959f5"
+      "ver": "2025.3.1",
+      "archive": "https://download.jetbrains.com/idea/idea-2025.3.1.tar.gz",
+      "sha256": "21e1b90b5ec684767a03498ba424ef3f9acc5dbf759cceefd5edd474f043ad6c"
     },
     "MPS": {
       "ver": "2025.3",
@@ -61,9 +61,9 @@
       "sha256": "65a01f13773c1f235e568d0f33fbeb6f415b583aabedd32f83dec781f0303eba"
     },
     "WS": {
-      "ver": "2025.3",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2025.3.tar.gz",
-      "sha256": "c95584e810059c15d8e42f6e0aa09a9c19fa7386bdc2fe50dd6ff27d4274d7ef"
+      "ver": "2025.3.1",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2025.3.1.tar.gz",
+      "sha256": "08a851d216b741c49ebb6846e178fb823d329fe7b9824a2134b68c8fd25ba2ae"
     }
   },
   "eap": {
