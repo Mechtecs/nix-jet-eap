@@ -21,9 +21,9 @@
       "sha256": "1618471e629b8a5e186764dd1cf401a2bd9aad3ba2ff78fdd896f51a7727f94a"
     },
     "IIC": {
-      "ver": "2025.2.6",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-2025.2.6.tar.gz",
-      "sha256": "452ab15b120357830b3617222d4a7742ba5f0727c9354351f711658102621086"
+      "ver": "2025.2.6.1",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-2025.2.6.1.tar.gz",
+      "sha256": "44924f79863b36864e7ab58c1f6d5b2995abe9fe62e18154b6cb844d46085e41"
     },
     "IIU": {
       "ver": "2025.3.1.1",
@@ -36,9 +36,9 @@
       "sha256": "c4023e52b4e17824d61d2768238619be14e5ae5735db533e3951647f377b6b79"
     },
     "PCP": {
-      "ver": "2025.3.1",
-      "archive": "https://download.jetbrains.com/python/pycharm-2025.3.1.tar.gz",
-      "sha256": "933fd42d7cc2a76ad4ba23f9112294e4df013fa4c3362435a1e3368051c07391"
+      "ver": "2025.3.1.1",
+      "archive": "https://download.jetbrains.com/python/pycharm-2025.3.1.1.tar.gz",
+      "sha256": "de54121e9a8d7ffc9a3b22167ae8588ad23ffe606e246fec7efad631d26fb44b"
     },
     "PS": {
       "ver": "2025.3.1.1",
