@@ -68,9 +68,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "253.28294.125",
-      "archive": "https://download.jetbrains.com/cpp/CLion-253.28294.125.tar.gz",
-      "sha256": "4519969bdedab477aaaa694f0c0f64c3b722b1c2a94dd8f32030f852377da497"
+      "ver": "261.17801.36",
+      "archive": "https://download.jetbrains.com/cpp/CLion-261.17801.36.tar.gz",
+      "sha256": "c1e8d6fc18a9da39038b15521d0a293f2080a4950e834d598da04baabe4bb89d"
     },
     "DG": {
       "ver": "253.28294.90",
@@ -93,9 +93,9 @@
       "sha256": "55d7f7a35514e1b1b1703625ad2ec9190ad29ddcfb53f98fb438b965f5f4c3e7"
     },
     "IIU": {
-      "ver": "253.30387.20",
-      "archive": "https://download.jetbrains.com/idea/idea-253.30387.20.tar.gz",
-      "sha256": "9610876786f1373c1ae195dcac08033e989b645b9b52a8b1a2b1b6278bb135a0"
+      "ver": "261.17801.55",
+      "archive": "https://download.jetbrains.com/idea/idea-261.17801.55.tar.gz",
+      "sha256": "b96594de9fd37fe34eaf8268922cb6685d9e436f26c994a5b0552ee500ba7c5b"
     },
     "MPS": {
       "ver": "253.28294.372",
