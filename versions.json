@@ -6,9 +6,9 @@
       "sha256": "bed4d3aaf1bddf61b42c138449a52f4ce845d6f422caf64a3ee02efd07107736"
     },
     "DG": {
-      "ver": "2025.3.3",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-2025.3.3.tar.gz",
-      "sha256": "715d2c859c5ece9be596c33869424f2f0f8fcef4b1ab2e38179584d74540efae"
+      "ver": "2025.3.4",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-2025.3.4.tar.gz",
+      "sha256": "f2c4780be6b516c9e06134678e01cacd9a66190636babcb6627a77cd0dd4f679"
     },
     "DS": {
       "ver": "2025.3.1",
@@ -83,9 +83,9 @@
       "sha256": "2bb494a08dd5bd5276ae4dcf11a200f3b395e59c447ff3be6783e42ab7c6126f"
     },
     "GO": {
-      "ver": "253.28294.175",
-      "archive": "https://download.jetbrains.com/go/goland-253.28294.175.tar.gz",
-      "sha256": "3875456ab5a06ced787af18b7caa23feb5e6009cfd10238d7b3b148f958ed8a2"
+      "ver": "261.17801.73",
+      "archive": "https://download.jetbrains.com/go/goland-261.17801.73.tar.gz",
+      "sha256": "f47449dafe88773143a0213ca7a1bf9479fbdf8d58ae719b78d0dd5b25725322"
     },
     "IIC": {
       "ver": "252.26199.7",
