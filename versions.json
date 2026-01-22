@@ -26,9 +26,9 @@
       "sha256": "44924f79863b36864e7ab58c1f6d5b2995abe9fe62e18154b6cb844d46085e41"
     },
     "IIU": {
-      "ver": "2025.3.1.1",
-      "archive": "https://download.jetbrains.com/idea/idea-2025.3.1.1.tar.gz",
-      "sha256": "3a064b22961f3f39b866b64b628558e0d0f708d423a3f9565d43f0e81196997b"
+      "ver": "2025.3.2",
+      "archive": "https://download.jetbrains.com/idea/idea-2025.3.2.tar.gz",
+      "sha256": "a3442c9f1953c66dcb0825e9b788c7e74efb586edbf1d30ef8b0df553fe136e4"
     },
     "MPS": {
       "ver": "2025.3",
@@ -51,9 +51,9 @@
       "sha256": "ba840f7c48da7f118cf57aa8c22df30120d16f175fbce3bec6a65590ed87f2e8"
     },
     "RM": {
-      "ver": "2025.3.1.1",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2025.3.1.1.tar.gz",
-      "sha256": "75577fe0b06cb04b2ecc407e457e38442ae55df34ec989113dedd2bce0fe376d"
+      "ver": "2025.3.2",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2025.3.2.tar.gz",
+      "sha256": "094889fd34453a97174a9d4986aa45410be8d1b68e2e6cb6191696943c75b905"
     },
     "TBA": {
       "ver": "3.2",
@@ -61,9 +61,9 @@
       "sha256": "65a01f13773c1f235e568d0f33fbeb6f415b583aabedd32f83dec781f0303eba"
     },
     "WS": {
-      "ver": "2025.3.1.1",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2025.3.1.1.tar.gz",
-      "sha256": "d551411a3a4a829b1e14c874e9176961b60b35e84cd6c2c99676ab8594a19953"
+      "ver": "2025.3.2",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2025.3.2.tar.gz",
+      "sha256": "aa40eeb8ff1053e3ed71a7f0d762c50f69f8b3ab42960e34b8756a671dbe8482"
     }
   },
   "eap": {
