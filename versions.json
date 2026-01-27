@@ -78,9 +78,9 @@
       "sha256": "f8b7a9d4c32a575e13c07b2858dbb5704d27550d35d6aa542d8a2bd2bcc84533"
     },
     "DS": {
-      "ver": "253.27642.21",
-      "archive": "https://download.jetbrains.com/python/dataspell-253.27642.21.tar.gz",
-      "sha256": "2bb494a08dd5bd5276ae4dcf11a200f3b395e59c447ff3be6783e42ab7c6126f"
+      "ver": "261.17801.86",
+      "archive": "https://download.jetbrains.com/python/dataspell-261.17801.86.tar.gz",
+      "sha256": "c2b5b3687273395ee2a3e6e38fb1610f4294c714efd074bbeefa6d2551656b47"
     },
     "GO": {
       "ver": "261.17801.73",
