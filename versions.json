@@ -46,9 +46,9 @@
       "sha256": "5bd3b60d8cc9004b6015befdc5818c50dbe2f323261fea1184d7a82b21ed60ef"
     },
     "RD": {
-      "ver": "2025.3.1",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.1.tar.gz",
-      "sha256": "ba840f7c48da7f118cf57aa8c22df30120d16f175fbce3bec6a65590ed87f2e8"
+      "ver": "2025.3.2",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.2.tar.gz",
+      "sha256": "704ea1cd7edcb04f87e65350a0d637b8c7a5eea20cde14b00377e5c936e9a7d0"
     },
     "RM": {
       "ver": "2025.3.2",
@@ -83,9 +83,9 @@
       "sha256": "c2b5b3687273395ee2a3e6e38fb1610f4294c714efd074bbeefa6d2551656b47"
     },
     "GO": {
-      "ver": "261.17801.73",
-      "archive": "https://download.jetbrains.com/go/goland-261.17801.73.tar.gz",
-      "sha256": "f47449dafe88773143a0213ca7a1bf9479fbdf8d58ae719b78d0dd5b25725322"
+      "ver": "261.19799.18",
+      "archive": "https://download.jetbrains.com/go/goland-261.19799.18.tar.gz",
+      "sha256": "66b4973243bfab7de6cb05f3a8e53b2be0da2d2a94844e02094a84e76a218c4a"
     },
     "IIC": {
       "ver": "252.26199.7",
@@ -93,9 +93,9 @@
       "sha256": "55d7f7a35514e1b1b1703625ad2ec9190ad29ddcfb53f98fb438b965f5f4c3e7"
     },
     "IIU": {
-      "ver": "261.17801.55",
-      "archive": "https://download.jetbrains.com/idea/idea-261.17801.55.tar.gz",
-      "sha256": "b96594de9fd37fe34eaf8268922cb6685d9e436f26c994a5b0552ee500ba7c5b"
+      "ver": "261.19799.20",
+      "archive": "https://download.jetbrains.com/idea/idea-261.19799.20.tar.gz",
+      "sha256": "5c9642fac8e632a35fe477a61e43cc9b107eaf72116b9dfe42d108c2606128e2"
     },
     "MPS": {
       "ver": "253.28294.372",
