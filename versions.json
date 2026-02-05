@@ -118,9 +118,9 @@
       "sha256": "f1b61a6a76d20dff8e2c0d851b52a57b67408607554a0ee233e8b0ab98676038"
     },
     "RM": {
-      "ver": "261.19799.25",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-261.19799.25.tar.gz",
-      "sha256": "f56e2bfb9dd076b4fa5a3fc0c7af748054752548df7153203e6b5bd89fa2b552"
+      "ver": "261.20362.2",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-261.20362.2.tar.gz",
+      "sha256": "57d5aa3a54e74d78d977b0ed3e5eb87231cd5e6c57efa82134013e740a1ddcb7"
     },
     "TBA": {
       "ver": "3.2.0.64641",
@@ -128,9 +128,9 @@
       "sha256": "2e36f342b2495b822ccf522a1e08e85406f38a36e8c881f0ce7fdf667faf8c1d"
     },
     "WS": {
-      "ver": "261.19799.23",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-261.19799.23.tar.gz",
-      "sha256": "00f9827dc6fbae995affa462fceb3e839ee31a10d9b1ef30ea527de9fd86577f"
+      "ver": "261.20362.32",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-261.20362.32.tar.gz",
+      "sha256": "1a739d545a095d31d6110d21610a74b174b0caa289716da2fcbe42a2afe861fd"
     }
   }
 }
