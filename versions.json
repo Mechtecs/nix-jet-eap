@@ -1,9 +1,9 @@
 {
   "stable": {
     "CL": {
-      "ver": "2025.3.2",
-      "archive": "https://download.jetbrains.com/cpp/CLion-2025.3.2.tar.gz",
-      "sha256": "73a0c57c19cc8a12abfd9ccc572d729a7004ddcee24b8e61dc639ce72647f04b"
+      "ver": "2025.3.3",
+      "archive": "https://download.jetbrains.com/cpp/CLion-2025.3.3.tar.gz",
+      "sha256": "d091faaede323477bb7e2afa10ddeebbe546055ca1b1d64a4b6ad02701a1f15f"
     },
     "DG": {
       "ver": "2025.3.5",
@@ -68,9 +68,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "261.20869.37",
-      "archive": "https://download.jetbrains.com/cpp/CLion-261.20869.37.tar.gz",
-      "sha256": "056d914874f9801892c7c359c64102c90172a39539ba7343e996dbb2ee9d473d"
+      "ver": "261.21525.25",
+      "archive": "https://download.jetbrains.com/cpp/CLion-261.21525.25.tar.gz",
+      "sha256": "8bb61f70ae69a0e0203810e3a3bcef95d96d15cdeb376d996e9990ae26e5997a"
     },
     "DG": {
       "ver": "261.20869.40",
