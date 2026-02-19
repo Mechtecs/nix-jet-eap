@@ -118,14 +118,14 @@
       "sha256": "84f48fad4dfa75eb004d0456b7010f6e44a73c99fc3355a2de067eb4a8d29158"
     },
     "RM": {
-      "ver": "261.20869.43",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-261.20869.43.tar.gz",
-      "sha256": "bc87a13ba0e1f19c581b67c51e3d91665146facc29aaa842c84fdfda2dda29de"
+      "ver": "261.21525.31",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-261.21525.31.tar.gz",
+      "sha256": "a8719a06304fb973d0cdb6208157dc406508fb4bc9ec1ed02276d3d30f965918"
     },
     "TBA": {
-      "ver": "3.2.0.64641",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.2.0.64641.tar.gz",
-      "sha256": "2e36f342b2495b822ccf522a1e08e85406f38a36e8c881f0ce7fdf667faf8c1d"
+      "ver": "3.3.0.73124",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.3.0.73124.tar.gz",
+      "sha256": "67e823cd702c6d0294d007feca3d1e3841edda82d5ea6300a1bc1e78d44f04e1"
     },
     "WS": {
       "ver": "261.20869.44",
