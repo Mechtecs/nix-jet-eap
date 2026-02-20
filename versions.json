@@ -93,9 +93,9 @@
       "sha256": "55d7f7a35514e1b1b1703625ad2ec9190ad29ddcfb53f98fb438b965f5f4c3e7"
     },
     "IIU": {
-      "ver": "261.20869.38",
-      "archive": "https://download.jetbrains.com/idea/idea-261.20869.38.tar.gz",
-      "sha256": "6eecd48334d5ff7d5ce8fb763195f4cf48f999e1746be4dd4d88f26ef69f3fca"
+      "ver": "261.21525.39",
+      "archive": "https://download.jetbrains.com/idea/idea-261.21525.39.tar.gz",
+      "sha256": "515ca0d339b7c64109de553578e4fa1edc85a80d28c1f366912fe394a440f8ee"
     },
     "MPS": {
       "ver": "253.28294.372",
@@ -108,9 +108,9 @@
       "sha256": "a1c147c976feacf20b06bc910afd4e0dc52881069ec9ec8c37e0a5b70c4b1b4d"
     },
     "PS": {
-      "ver": "261.20869.47",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-261.20869.47.tar.gz",
-      "sha256": "5d00ebdb1b3a2f4e5c62cd8ddad76a03f1cd5b1a61dc7c66de6e8809931347ee"
+      "ver": "261.21525.38",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-261.21525.38.tar.gz",
+      "sha256": "95c6c1fc0316d604b3edbd236db0296ae4765f78b0bacdb1512f28d6d516de8c"
     },
     "RD": {
       "ver": "261.21525.32",
