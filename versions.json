@@ -68,9 +68,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "261.21849.6",
-      "archive": "https://download.jetbrains.com/cpp/CLion-261.21849.6.tar.gz",
-      "sha256": "87ab677a6567575604b2f227770aeadac32c45962ebd358c539a2a8ff8648dd6"
+      "ver": "261.22158.47",
+      "archive": "https://download.jetbrains.com/cpp/CLion-261.22158.47.tar.gz",
+      "sha256": "1541cd462a09be3c0e58df8591712bdfe35647e415c5a6543a42747a04247024"
     },
     "DG": {
       "ver": "261.21849.37",
@@ -108,14 +108,14 @@
       "sha256": "3d6f4395b8e7dd682895fa7bf0425798945cd4065b60ee9c7172e15530d4f2b9"
     },
     "PS": {
-      "ver": "261.21849.25",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-261.21849.25.tar.gz",
-      "sha256": "3320200efa04c43758a2867a0214b83886902c2c12473c3f040adddcc8be36d0"
+      "ver": "261.22158.45",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-261.22158.45.tar.gz",
+      "sha256": "1079e053661059981379d8f847408a77cc5a93b65e5e3a13375fcb49004a6f19"
     },
     "RD": {
-      "ver": "261.21849.29",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.1-EAP6-261.21849.29.Checked.tar.gz",
-      "sha256": "cad8e0cccd390f9cd29688e49770e0f7f4a0387c6f5a5276d6c85ad68b46c920"
+      "ver": "261.22158.48",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.1-EAP7-261.22158.48.Checked.tar.gz",
+      "sha256": "652dfc8b99535c7d866e66eaa272ecfeee5dd2452c6c276e5ed12e326243a3f7"
     },
     "RM": {
       "ver": "261.22158.44",
