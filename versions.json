@@ -26,9 +26,9 @@
       "sha256": "44924f79863b36864e7ab58c1f6d5b2995abe9fe62e18154b6cb844d46085e41"
     },
     "IIU": {
-      "ver": "2025.3.3",
-      "archive": "https://download.jetbrains.com/idea/idea-2025.3.3.tar.gz",
-      "sha256": "19fdadc1dca1f76624920903c445da4ab23267c81119353ceba899736de2f118"
+      "ver": "2025.3.4",
+      "archive": "https://download.jetbrains.com/idea/idea-2025.3.4.tar.gz",
+      "sha256": "b86ddae3a3fd6c2afbaca160a3b7d54f4b4fa6d1361ac2616bdb7a6416632ea1"
     },
     "MPS": {
       "ver": "2025.3",
