@@ -36,9 +36,9 @@
       "sha256": "c4023e52b4e17824d61d2768238619be14e5ae5735db533e3951647f377b6b79"
     },
     "PCP": {
-      "ver": "2025.3.3",
-      "archive": "https://download.jetbrains.com/python/pycharm-2025.3.3.tar.gz",
-      "sha256": "347752040eb83eb79f5eb0458a556d2cb306ac0e1d973c3e73743f9cdb8a4a0a"
+      "ver": "2025.3.4",
+      "archive": "https://download.jetbrains.com/python/pycharm-2025.3.4.tar.gz",
+      "sha256": "0760876c322c9d7269e61c257bc8ce401ff834e48923fba67d559851b5ce4a52"
     },
     "PS": {
       "ver": "2025.3.4",
