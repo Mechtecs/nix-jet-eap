@@ -46,9 +46,9 @@
       "sha256": "3a949cfd78389d687d5d1a5537c14b695d46c33f246ccf92f56564dbb8c9ee06"
     },
     "RD": {
-      "ver": "2026.1",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.1.tar.gz",
-      "sha256": "b2b611f3e7cb13dd46ef7158e21aaab13cc6d4b25ba600cda219497d1d4a0e51"
+      "ver": "2026.1.0.1",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.1.0.1.tar.gz",
+      "sha256": "9a8232b134ecabb69ba507cd87505ce4f93a550809213e9eadbc87b145dfd796"
     },
     "RM": {
       "ver": "2026.1",
@@ -118,9 +118,9 @@
       "sha256": "37872374fc772f6ae215c7513e47a606853738404263c68c0dea3ab63f9b0b9a"
     },
     "RM": {
-      "ver": "261.22158.124",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-261.22158.124.tar.gz",
-      "sha256": "b8724340eb28ce22361e903d7022d56c005bb1a9cb89b7baf578c4d75392d268"
+      "ver": "261.23567.30",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-261.23567.30.tar.gz",
+      "sha256": "af78f41af612207d430959e44fd6272c4e51050343eb03c542621e6dfa189deb"
     },
     "TBA": {
       "ver": "3.4.0.76256",
@@ -128,9 +128,9 @@
       "sha256": "5a66715c1dc3890f592bb276d9bb29125900735ab307635a11190ff4cc66c937"
     },
     "WS": {
-      "ver": "261.22158.132",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-261.22158.132.tar.gz",
-      "sha256": "792585c2fd85bd425d6612794d942244af6caddbb856be57cbe98c8b48f5e58b"
+      "ver": "261.23567.31",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-261.23567.31.tar.gz",
+      "sha256": "0a410f7a58af76f5e4426230233e1e99088a682f3eec5c9adb25aad095378924"
     }
   }
 }
