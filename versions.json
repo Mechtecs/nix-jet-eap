@@ -1,9 +1,9 @@
 {
   "stable": {
     "CL": {
-      "ver": "2026.1",
-      "archive": "https://download.jetbrains.com/cpp/CLion-2026.1.tar.gz",
-      "sha256": "af97e5636bba682908f2aed97065982cbc717165a9de0b5391d05d2a869c201d"
+      "ver": "2026.1.1",
+      "archive": "https://download.jetbrains.com/cpp/CLion-2026.1.1.tar.gz",
+      "sha256": "e92d3e012585eddbb4b47c9f2eeffa666c7298fefd9b76f0c4ec504c57eca09b"
     },
     "DG": {
       "ver": "2026.1.2",
@@ -26,9 +26,9 @@
       "sha256": "44924f79863b36864e7ab58c1f6d5b2995abe9fe62e18154b6cb844d46085e41"
     },
     "IIU": {
-      "ver": "2026.1",
-      "archive": "https://download.jetbrains.com/idea/idea-2026.1.tar.gz",
-      "sha256": "f57d3dba9970c774cf377583629aea540418e677ec6365570e76dea9cb2f3f9b"
+      "ver": "2026.1.1",
+      "archive": "https://download.jetbrains.com/idea/idea-2026.1.1.tar.gz",
+      "sha256": "7a58d386f2a2e5a8cd7e4591657b4fe599aeac22d960c7accf5f927846507bfb"
     },
     "MPS": {
       "ver": "2025.3",
