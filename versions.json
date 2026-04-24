@@ -61,9 +61,9 @@
       "sha256": "3873b1d438caa0dd58854d70633e7248de7a39bcf7bb8ae0154c7f175eba8349"
     },
     "WS": {
-      "ver": "2026.1",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2026.1.tar.gz",
-      "sha256": "964ca21a07a120c91e234f5d7b6762369696c1a6654378624c15103b87215fec"
+      "ver": "2026.1.1",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2026.1.1.tar.gz",
+      "sha256": "afd5deb63ade141eaa53b5506c7b052e7edba0a859ca57f21ac7cf36e985419c"
     }
   },
   "eap": {
