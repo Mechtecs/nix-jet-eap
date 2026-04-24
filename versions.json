@@ -41,9 +41,9 @@
       "sha256": "6405985fe82bc6a419005388930cbe318b7419b82cb09c8494035a2be8511b0f"
     },
     "PS": {
-      "ver": "2026.1",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2026.1.tar.gz",
-      "sha256": "3a949cfd78389d687d5d1a5537c14b695d46c33f246ccf92f56564dbb8c9ee06"
+      "ver": "2026.1.1",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2026.1.1.tar.gz",
+      "sha256": "4ce4a2140a6157f258ad483db41fc102d0068e7e8fd03a5a6073b65b715c0864"
     },
     "RD": {
       "ver": "2026.1.0.1",
