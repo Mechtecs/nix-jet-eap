@@ -21,9 +21,9 @@
       "sha256": "012ceac3cc6e45a480c33a2206c2fee8f472b92bc1878ded9c5e2612692eafdb"
     },
     "IIC": {
-      "ver": "2025.2.6.1",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-2025.2.6.1.tar.gz",
-      "sha256": "44924f79863b36864e7ab58c1f6d5b2995abe9fe62e18154b6cb844d46085e41"
+      "ver": "2025.2.6.2",
+      "archive": "https://download.jetbrains.com/idea/ideaIC-2025.2.6.2.tar.gz",
+      "sha256": "f584a81c910ec1085e341d5b9901541ec652a04529564bcdd7d007e1e9eea400"
     },
     "IIU": {
       "ver": "2026.1.1",
