@@ -21,9 +21,9 @@
       "sha256": "012ceac3cc6e45a480c33a2206c2fee8f472b92bc1878ded9c5e2612692eafdb"
     },
     "IIC": {
-      "ver": "2025.2.6.2",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-2025.2.6.2.tar.gz",
-      "sha256": "f584a81c910ec1085e341d5b9901541ec652a04529564bcdd7d007e1e9eea400"
+      "ver": "2025.3",
+      "archive": "https://download.jetbrains.com/idea/idea-2025.3.tar.gz",
+      "sha256": "13f4174ba16c1cef04871cb261433536d002586c269a809392c20ee3f94959f5"
     },
     "IIU": {
       "ver": "2026.1.1",
@@ -88,9 +88,9 @@
       "sha256": "418d6891aff0330f34d27f550882caf5db3a92e22aed29b052d710d9b919705a"
     },
     "IIC": {
-      "ver": "252.26199.7",
-      "archive": "https://download.jetbrains.com/idea/ideaIC-252.26199.7.tar.gz",
-      "sha256": "55d7f7a35514e1b1b1703625ad2ec9190ad29ddcfb53f98fb438b965f5f4c3e7"
+      "ver": "253.28294.169",
+      "archive": "https://download.jetbrains.com/idea/idea-253.28294.169.tar.gz",
+      "sha256": "713ebeb0b2ada110ed19a79cb2fb03bc790a0ec02fe6c4ba1fcfce4d4f0a4d18"
     },
     "IIU": {
       "ver": "261.24374.34",
