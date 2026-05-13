@@ -73,9 +73,9 @@
       "sha256": "9feca30a2639520417aeefb87d9c96681ec90e259fc1b00daf07202e4a4e9be8"
     },
     "DG": {
-      "ver": "261.21849.37",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-261.21849.37.tar.gz",
-      "sha256": "0bf6dba77b322a99947ef5dcd9508d167fb71819df60f374b19bba26d20384e9"
+      "ver": "262.5752.1",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-262.5752.1.tar.gz",
+      "sha256": "382d3abbc3831451d341051fb061635ee683ee540a5bc4154403a6cb4490d74a"
     },
     "DS": {
       "ver": "261.21849.35",
