@@ -16,9 +16,9 @@
       "sha256": "d73edf6923b65206ff70dfc8854bce693f671728e2d8bef7dd8eaf2a9c1198e8"
     },
     "GO": {
-      "ver": "2026.1.1",
-      "archive": "https://download.jetbrains.com/go/goland-2026.1.1.tar.gz",
-      "sha256": "012ceac3cc6e45a480c33a2206c2fee8f472b92bc1878ded9c5e2612692eafdb"
+      "ver": "2026.1.2",
+      "archive": "https://download.jetbrains.com/go/goland-2026.1.2.tar.gz",
+      "sha256": "d4590311a6a9c836d33dee2ca0e7720872e4a7f513deb67ab221b21b28e6189a"
     },
     "IIC": {
       "ver": "2025.3",
@@ -26,9 +26,9 @@
       "sha256": "13f4174ba16c1cef04871cb261433536d002586c269a809392c20ee3f94959f5"
     },
     "IIU": {
-      "ver": "2026.1.1",
-      "archive": "https://download.jetbrains.com/idea/idea-2026.1.1.tar.gz",
-      "sha256": "7a58d386f2a2e5a8cd7e4591657b4fe599aeac22d960c7accf5f927846507bfb"
+      "ver": "2026.1.2",
+      "archive": "https://download.jetbrains.com/idea/idea-2026.1.2.tar.gz",
+      "sha256": "e820175d1a7d0ee2492e7b38f6b7f046a132bfe4b082086d9b035edb03c777b1"
     },
     "MPS": {
       "ver": "2025.3",
@@ -36,9 +36,9 @@
       "sha256": "c4023e52b4e17824d61d2768238619be14e5ae5735db533e3951647f377b6b79"
     },
     "PCP": {
-      "ver": "2026.1.1",
-      "archive": "https://download.jetbrains.com/python/pycharm-2026.1.1.tar.gz",
-      "sha256": "6f81c5874438965f2566001ad265e727c02e4db7d0b57287d86f3479fd647891"
+      "ver": "2026.1.2",
+      "archive": "https://download.jetbrains.com/python/pycharm-2026.1.2.tar.gz",
+      "sha256": "91c775be16fb0859f9b18ebd456d88e131cadf337b0ce9f9d8ed187886561966"
     },
     "PS": {
       "ver": "2026.1.1",
@@ -113,9 +113,9 @@
       "sha256": "f8e0e77dd50ba5fdaba63d8be6f76b8ef7def602235bf92d229e9b338622b698"
     },
     "RD": {
-      "ver": "262.4852.69",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2-EAP1-262.4852.69.Checked.tar.gz",
-      "sha256": "b259cd1a38ec5777c27990c522f82308e9f2a451bf9e57e27b2d4aefd613af18"
+      "ver": "262.5752.33",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2-EAP2-262.5752.33.Checked.tar.gz",
+      "sha256": "a0759111e43ff620299022bf587313ed2e998925c612e89c198164f876f933c8"
     },
     "RM": {
       "ver": "262.5752.24",
