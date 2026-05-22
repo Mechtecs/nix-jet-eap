@@ -11,9 +11,9 @@
       "sha256": "5f1c2f5e269601f2b7d7c0636f328f2d50de30194eaf9045b83d9ba94f3ed76a"
     },
     "DS": {
-      "ver": "2026.1.1",
-      "archive": "https://download.jetbrains.com/python/dataspell-2026.1.1.tar.gz",
-      "sha256": "d73edf6923b65206ff70dfc8854bce693f671728e2d8bef7dd8eaf2a9c1198e8"
+      "ver": "2026.1.2",
+      "archive": "https://download.jetbrains.com/python/dataspell-2026.1.2.tar.gz",
+      "sha256": "0f978e36b3bee442f572eb24514e1c4582e071b1bb442be5b9c9e6c3db7608e3"
     },
     "GO": {
       "ver": "2026.1.2",
@@ -103,9 +103,9 @@
       "sha256": "627960d59d5afa614ad4b8488ce28ba2b4a83f649fa56f322870d920fc22a279"
     },
     "PCP": {
-      "ver": "262.5752.27",
-      "archive": "https://download.jetbrains.com/python/pycharm-262.5752.27.tar.gz",
-      "sha256": "711c12b9b62c4cd3618c5cbad3b43b9cf55563711da6c6f82ef414a5ba5ea038"
+      "ver": "262.6228.39",
+      "archive": "https://download.jetbrains.com/python/pycharm-262.6228.39.tar.gz",
+      "sha256": "60387223190295bbfa4601a2367d106a33e034adf0d91eb72cdc3438dfa527e0"
     },
     "PS": {
       "ver": "262.6228.31",
