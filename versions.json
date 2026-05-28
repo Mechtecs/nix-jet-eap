@@ -68,9 +68,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "262.6228.24",
-      "archive": "https://download.jetbrains.com/cpp/CLion-262.6228.24.tar.gz",
-      "sha256": "aeee6152ace490276101f2aa9e7f52e472b5c306fc04e741171065428faf640d"
+      "ver": "262.6653.16",
+      "archive": "https://download.jetbrains.com/cpp/CLion-262.6653.16.tar.gz",
+      "sha256": "0f086b978881e15e531387fe7a5cda486b4042d3178743188eda044c7aa66a7e"
     },
     "DG": {
       "ver": "262.5752.1",
@@ -93,9 +93,9 @@
       "sha256": "713ebeb0b2ada110ed19a79cb2fb03bc790a0ec02fe6c4ba1fcfce4d4f0a4d18"
     },
     "IIU": {
-      "ver": "262.6228.19",
-      "archive": "https://download.jetbrains.com/idea/idea-262.6228.19.tar.gz",
-      "sha256": "1d60d7743382f07ae8e0b201ba16647596da757be6105072f11704c3b9ad8fb8"
+      "ver": "262.6653.22",
+      "archive": "https://download.jetbrains.com/idea/idea-262.6653.22.tar.gz",
+      "sha256": "27c3fb40ee2d1744ae4e4157f37982402228b1a4cd91c0c52e44eda0e6d603c4"
     },
     "MPS": {
       "ver": "261.23567.257",
@@ -128,9 +128,9 @@
       "sha256": "40bbf8e9073f700c841d7915c843c3bc0e754d3477781f0941fc2ac145f7af87"
     },
     "WS": {
-      "ver": "262.6228.38",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-262.6228.38.tar.gz",
-      "sha256": "62d6b6cf6625bf916795943bb5c1b7d947c696af4312d1b19d085f7c06f43b5e"
+      "ver": "262.6653.15",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-262.6653.15.tar.gz",
+      "sha256": "766e316d525f2d6153f41539a9844d4327f8623d38e19a6ba3a0f990059ea72f"
     }
   }
 }
