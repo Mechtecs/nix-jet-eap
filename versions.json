@@ -68,9 +68,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "262.6653.16",
-      "archive": "https://download.jetbrains.com/cpp/CLion-262.6653.16.tar.gz",
-      "sha256": "0f086b978881e15e531387fe7a5cda486b4042d3178743188eda044c7aa66a7e"
+      "ver": "262.7132.28",
+      "archive": "https://download.jetbrains.com/cpp/CLion-262.7132.28.tar.gz",
+      "sha256": "20395f9b37b6743e9845ed82ecddfe58d897e2b2c4a208183e860aa103c574c3"
     },
     "DG": {
       "ver": "262.6653.38",
@@ -108,9 +108,9 @@
       "sha256": "9492f7119f0810ba9ffb13fda9b0d1f8c4096c18cee1a35a80f24fc65803ccc9"
     },
     "PS": {
-      "ver": "262.6653.37",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-262.6653.37.tar.gz",
-      "sha256": "4ad113626b13f0a455c54c6376e644d343c7551fd21291960c650747eb5c177c"
+      "ver": "262.7132.34",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-262.7132.34.tar.gz",
+      "sha256": "28ae70697142d0f98958cfdd3696cf9f6278ae71050e47feea79887b04eb3b5e"
     },
     "RD": {
       "ver": "262.6653.32",
