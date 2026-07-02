@@ -56,9 +56,9 @@
       "sha256": "d0486d5385ca588f62ee28fe9b9bafc474989db41a609cbc49ae92d4e5b80855"
     },
     "TBA": {
-      "ver": "3.5",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.5.0.84344.tar.gz",
-      "sha256": "1bbc5baa8ab664a83153424eb4831786e86628bfc024c4f5a675f45a534678ef"
+      "ver": "3.6",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.6.0.85549.tar.gz",
+      "sha256": "c83282a5367b7ffe80a6f38539d2958913854a850b23b3a132d4c0b05670f9f6"
     },
     "WS": {
       "ver": "2026.1.4",
@@ -68,9 +68,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "262.8377.40",
-      "archive": "https://download.jetbrains.com/cpp/CLion-262.8377.40.tar.gz",
-      "sha256": "b539c9df9f467ae8272a0821271f6c9184f85ca5474fb7652546041d1d1612d6"
+      "ver": "262.8665.65",
+      "archive": "https://download.jetbrains.com/cpp/CLion-262.8665.65.tar.gz",
+      "sha256": "aa889a2b5d6a6dc55d76da94fb95ae12981b6454597544429e175d7e0d11fb34"
     },
     "DG": {
       "ver": "262.8377.45",
