@@ -36,9 +36,9 @@
       "sha256": "c4023e52b4e17824d61d2768238619be14e5ae5735db533e3951647f377b6b79"
     },
     "PCP": {
-      "ver": "2026.1.3",
-      "archive": "https://download.jetbrains.com/python/pycharm-2026.1.3.tar.gz",
-      "sha256": "f3ede3de02d3c97b7c166a66dfb59389e5c9a7d298fd0ff01689745d308e2807"
+      "ver": "2026.1.4",
+      "archive": "https://download.jetbrains.com/python/pycharm-2026.1.4.tar.gz",
+      "sha256": "448b9f819860fe7f83d6e11d703c984634c37e1f0989ccb3e21d01d644db557b"
     },
     "PS": {
       "ver": "2026.1.4",
@@ -108,14 +108,14 @@
       "sha256": "72a6759b5ca4626c3605ee99cc1669e14d687d2b78147b9eae2dade4886c9dec"
     },
     "PS": {
-      "ver": "262.8377.43",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-262.8377.43.tar.gz",
-      "sha256": "fd3c17082cb75312169f231a82f7ddddaa38d9fe10551fb4474eb9de82015599"
+      "ver": "262.8665.90",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-262.8665.90.tar.gz",
+      "sha256": "062a9c18fb03ffb603f93f4dd57e2dec03b788ae068b944582fba61f62ef124a"
     },
     "RD": {
-      "ver": "262.8377.34",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2-EAP8-262.8377.34.Checked.tar.gz",
-      "sha256": "9809176d9792d6b466098ca49a9f6bd223af2f8bcac231931fada5550ddff4a1"
+      "ver": "262.8665.68",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2-EAP9-262.8665.68.Checked.tar.gz",
+      "sha256": "928ac6249208272510cbe6f98587534dff8464495fec703c13e0ebf8f87f8835"
     },
     "RM": {
       "ver": "262.8665.80",
