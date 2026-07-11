@@ -6,9 +6,9 @@
       "sha256": "b8e845b83a95c37a71b6a06f3901fe16925316b9de683fd1d157292594580f6a"
     },
     "DG": {
-      "ver": "2026.1.3",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-2026.1.3.tar.gz",
-      "sha256": "5f1c2f5e269601f2b7d7c0636f328f2d50de30194eaf9045b83d9ba94f3ed76a"
+      "ver": "2026.1.4",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-2026.1.4.tar.gz",
+      "sha256": "3d871c6a4d15583e399e67b0486ca497e41d9111daff0d8ab46892ae80cad8ae"
     },
     "DS": {
       "ver": "2026.1.2",
@@ -123,9 +123,9 @@
       "sha256": "13b52ce6b026978df2df55e53f4ec8f500d4455e1a5cc5d5abb6e5e99f71f4cf"
     },
     "TBA": {
-      "ver": "3.6.0.85322",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.6.0.85322.tar.gz",
-      "sha256": "d72ecd4cc7d3f3138550f61c3b0ec00e774a59950b176ba01b1d295f36303bd6"
+      "ver": "3.6.2.85810",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.6.2.85810.tar.gz",
+      "sha256": "164755cc59d397f34a83705b259523ef0d2025bd5d3b699a5d5ddbdb3f969f3e"
     },
     "WS": {
       "ver": "262.8665.84",
