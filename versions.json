@@ -56,9 +56,9 @@
       "sha256": "d0486d5385ca588f62ee28fe9b9bafc474989db41a609cbc49ae92d4e5b80855"
     },
     "TBA": {
-      "ver": "3.6.1",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.6.1.85592.tar.gz",
-      "sha256": "9282664b47b6d14c96e865a0b54738d4252a9c2824c20e99101eaba0575c183d"
+      "ver": "3.6.2",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.6.2.85969.tar.gz",
+      "sha256": "348a30b3cade505596327e74cbe346610405dc850481f7317654ac219e8dc24b"
     },
     "WS": {
       "ver": "2026.1.4",
@@ -123,9 +123,9 @@
       "sha256": "13b52ce6b026978df2df55e53f4ec8f500d4455e1a5cc5d5abb6e5e99f71f4cf"
     },
     "TBA": {
-      "ver": "3.6.2.85810",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.6.2.85810.tar.gz",
-      "sha256": "164755cc59d397f34a83705b259523ef0d2025bd5d3b699a5d5ddbdb3f969f3e"
+      "ver": "3.6.0.85322",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.6.0.85322.tar.gz",
+      "sha256": "d72ecd4cc7d3f3138550f61c3b0ec00e774a59950b176ba01b1d295f36303bd6"
     },
     "WS": {
       "ver": "262.8665.84",
