@@ -26,9 +26,9 @@
       "sha256": "13f4174ba16c1cef04871cb261433536d002586c269a809392c20ee3f94959f5"
     },
     "IIU": {
-      "ver": "2026.1.4",
-      "archive": "https://download.jetbrains.com/idea/idea-2026.1.4.tar.gz",
-      "sha256": "3104d85d9507ff882065e3f8eb9506402b4a8129092d2682662bb6e9c4f063fc"
+      "ver": "2026.2",
+      "archive": "https://download.jetbrains.com/idea/idea-2026.2.tar.gz",
+      "sha256": "a8055cadef1a6eed4558f8bc9bd591c3a4939f4c8c34560fdf58ab4d2a5c783d"
     },
     "MPS": {
       "ver": "2026.1",
@@ -41,9 +41,9 @@
       "sha256": "448b9f819860fe7f83d6e11d703c984634c37e1f0989ccb3e21d01d644db557b"
     },
     "PS": {
-      "ver": "2026.1.4",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2026.1.4.tar.gz",
-      "sha256": "485db90fb7439fb6fa0337171032cac21a634e70aa633d5f126bcd0f9765f08b"
+      "ver": "2026.2",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2026.2.tar.gz",
+      "sha256": "8017e674ef9e52d8859e5b365b5c981657eaf4d3d57e01bcb8f0d310d50f5ea2"
     },
     "RD": {
       "ver": "2026.1.4",
@@ -61,9 +61,9 @@
       "sha256": "348a30b3cade505596327e74cbe346610405dc850481f7317654ac219e8dc24b"
     },
     "WS": {
-      "ver": "2026.1.4",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2026.1.4.tar.gz",
-      "sha256": "04fb8c4f06775e493848144276067cbc2a046238536b777c0853aaac695c1a0d"
+      "ver": "2026.2",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2026.2.tar.gz",
+      "sha256": "cea72b20a973da18badeaf7a9aec949749ae555d748e1b3084aee789679e8dd5"
     }
   },
   "eap": {
