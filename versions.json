@@ -1,14 +1,14 @@
 {
   "stable": {
     "CL": {
-      "ver": "2026.1.4",
-      "archive": "https://download.jetbrains.com/cpp/CLion-2026.1.4.tar.gz",
-      "sha256": "b8e845b83a95c37a71b6a06f3901fe16925316b9de683fd1d157292594580f6a"
+      "ver": "2026.2",
+      "archive": "https://download.jetbrains.com/cpp/CLion-2026.2.tar.gz",
+      "sha256": "d186c9da718007b798d370cbe19bc29745294880cdfe9ab202fb09f1907b271d"
     },
     "DG": {
-      "ver": "2026.1.4",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-2026.1.4.tar.gz",
-      "sha256": "3d871c6a4d15583e399e67b0486ca497e41d9111daff0d8ab46892ae80cad8ae"
+      "ver": "2026.2",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-2026.2.tar.gz",
+      "sha256": "9d68d1b6435cb9850c63b6f98a704346abc07a84826c30ab2fcbb3da4516c46f"
     },
     "DS": {
       "ver": "2026.1.2",
@@ -16,9 +16,9 @@
       "sha256": "0f978e36b3bee442f572eb24514e1c4582e071b1bb442be5b9c9e6c3db7608e3"
     },
     "GO": {
-      "ver": "2026.1.4",
-      "archive": "https://download.jetbrains.com/go/goland-2026.1.4.tar.gz",
-      "sha256": "a4749b98067eb527dad3076d0e9ff721bfc634c3f7d0e14d4251d651f330ad6d"
+      "ver": "2026.2",
+      "archive": "https://download.jetbrains.com/go/goland-2026.2.tar.gz",
+      "sha256": "2102b9b40a7e28cd943deeb3bfa6fe21e31c7eaacf486275289cee05532a0869"
     },
     "IIC": {
       "ver": "2025.3",
