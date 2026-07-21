@@ -36,9 +36,9 @@
       "sha256": "35b5112aed634cfa0942f57c16931a7016be15e845ed77c5eb16662211656f60"
     },
     "PCP": {
-      "ver": "2026.1.4",
-      "archive": "https://download.jetbrains.com/python/pycharm-2026.1.4.tar.gz",
-      "sha256": "448b9f819860fe7f83d6e11d703c984634c37e1f0989ccb3e21d01d644db557b"
+      "ver": "2026.2",
+      "archive": "https://download.jetbrains.com/python/pycharm-2026.2.tar.gz",
+      "sha256": "ac36f7c0743465215bf8227079b77272945338c485c1da6b924e56468046bd5a"
     },
     "PS": {
       "ver": "2026.2",
@@ -51,9 +51,9 @@
       "sha256": "2be5f633889dbfea03a82fdd91bccc4d7dd6df3c746f47bc653b3190feeb01f2"
     },
     "RM": {
-      "ver": "2026.1.4",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2026.1.4.tar.gz",
-      "sha256": "d0486d5385ca588f62ee28fe9b9bafc474989db41a609cbc49ae92d4e5b80855"
+      "ver": "2026.2",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2026.2.tar.gz",
+      "sha256": "93e4f940308872ea875ab8e1a0219cca6fd0f6fe1806f89a720f6b9cd1412113"
     },
     "TBA": {
       "ver": "3.6.2",
