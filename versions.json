@@ -26,9 +26,9 @@
       "sha256": "13f4174ba16c1cef04871cb261433536d002586c269a809392c20ee3f94959f5"
     },
     "IIU": {
-      "ver": "2026.2.0.1",
-      "archive": "https://download.jetbrains.com/idea/idea-2026.2.0.1.tar.gz",
-      "sha256": "914e31e31b4e1285d538cf3fae5b300af08bcff36bc298ac6200504bbe12f180"
+      "ver": "2026.2.1",
+      "archive": "https://download.jetbrains.com/idea/idea-2026.2.1.tar.gz",
+      "sha256": "dac2021204c8bf3bd8d66567a1ae36a341da0050b6006c32d42006c6577eb29a"
     },
     "MPS": {
       "ver": "2026.1",
