@@ -6,9 +6,9 @@
       "sha256": "09c3310bc37abce1678df118d742fe1b0eeaef23f3b7ca6aaffff5db0993fbb1"
     },
     "DG": {
-      "ver": "2026.2.3",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-2026.2.3.tar.gz",
-      "sha256": "7338e3bc75bc34bbac60fffa1528cbeab850d1a6826adbff298f4bb31d058260"
+      "ver": "2026.2.4",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-2026.2.4.tar.gz",
+      "sha256": "82b437a8e0dc2fd1ae0f876fb9cef2f5ffdfbeeed33e70e70e266bee35847510"
     },
     "DS": {
       "ver": "2026.1.3",
