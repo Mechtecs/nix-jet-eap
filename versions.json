@@ -56,9 +56,9 @@
       "sha256": "71f1f34ea1d23f3f69c1d66bad70246564200f79af00406df3de3b5076b2c0e2"
     },
     "TBA": {
-      "ver": "3.7",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.7.0.87111.tar.gz",
-      "sha256": "6e9b3d17fe5081a428325aa62f67717e4bbe0c2cfb7bc0745fc39c987a0a7b1e"
+      "ver": "3.7.1",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.7.1.87197.tar.gz",
+      "sha256": "eb4d9c4672ae7194824ce642600f8968cec110bf120abf7de6fde26483f58fe8"
     },
     "WS": {
       "ver": "2026.2.1",
@@ -93,9 +93,9 @@
       "sha256": "713ebeb0b2ada110ed19a79cb2fb03bc790a0ec02fe6c4ba1fcfce4d4f0a4d18"
     },
     "IIU": {
-      "ver": "262.9437.22",
-      "archive": "https://download.jetbrains.com/idea/idea-262.9437.22.tar.gz",
-      "sha256": "5f3a1e9fb05e5cf4a04ccfcceb31a3122dc431dc2e2124c11274789d74df90db"
+      "ver": "262.10315.19",
+      "archive": "https://download.jetbrains.com/idea/idea-262.10315.19.tar.gz",
+      "sha256": "1883bc1c8b3a01ee8eae39fc495f3210fbcaf6562d9934398fa4279283133c77"
     },
     "MPS": {
       "ver": "261.24374.603",
