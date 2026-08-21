@@ -56,9 +56,9 @@
       "sha256": "71f1f34ea1d23f3f69c1d66bad70246564200f79af00406df3de3b5076b2c0e2"
     },
     "TBA": {
-      "ver": "3.7.1",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.7.1.87197.tar.gz",
-      "sha256": "eb4d9c4672ae7194824ce642600f8968cec110bf120abf7de6fde26483f58fe8"
+      "ver": "3.7.2",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.7.2.87231.tar.gz",
+      "sha256": "f5a01f0b23843120c5137ae98b701c424761f813d8cfcd7965dad5c3c84bd396"
     },
     "WS": {
       "ver": "2026.2.1",
@@ -128,9 +128,9 @@
       "sha256": "7a40e7d5bde4ceca645e495a1bcbc918a4450abfb523ba2e9b8d55c7117f161d"
     },
     "WS": {
-      "ver": "262.9437.27",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-262.9437.27.tar.gz",
-      "sha256": "790b717e7fd7957539fee88ad3a268f0c05e39fd5054f6ff182a416c35dcd677"
+      "ver": "262.10315.17",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-262.10315.17.tar.gz",
+      "sha256": "b636d473127c5704ce4710c1f07b1c99f881e43fc1c52e7b261d6d95164c43c2"
     }
   }
 }
