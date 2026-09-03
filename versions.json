@@ -16,9 +16,9 @@
       "sha256": "e7b131c9d4677c28980908fad57a3fa2628021b299172923a8348eb847648068"
     },
     "GO": {
-      "ver": "2026.2.1.1",
-      "archive": "https://download.jetbrains.com/go/goland-2026.2.1.1.tar.gz",
-      "sha256": "41e3c2a1005a832190d3b2a359b922e5836742c9428fc3e663287f8acbc2d26a"
+      "ver": "2026.2.2",
+      "archive": "https://download.jetbrains.com/go/goland-2026.2.2.tar.gz",
+      "sha256": "98be979d9dfef9ffa2cac00dfdd5e9e40f9e6b57b3915b0cdcd495c0b5e484fd"
     },
     "IIC": {
       "ver": "2025.3",
@@ -41,9 +41,9 @@
       "sha256": "9cff6f18ec28a3d51643bcf47f001bed194260185fa6f5693f5a6f83cebae868"
     },
     "PS": {
-      "ver": "2026.2.1",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2026.2.1.tar.gz",
-      "sha256": "96131f898139a8b964823a068a84bfea0d79303acc74c37121d9e507ce6c8559"
+      "ver": "2026.2.2",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2026.2.2.tar.gz",
+      "sha256": "6410c62a9a03cdc62ee78a7ebf5a3e5085314a9121e775f358a3531295627728"
     },
     "RD": {
       "ver": "2026.2.1",
@@ -128,9 +128,9 @@
       "sha256": "175efb97f704d4f1135723d6c5767e4acdb9e2339642c989e308a758c1cd404e"
     },
     "WS": {
-      "ver": "262.10315.17",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-262.10315.17.tar.gz",
-      "sha256": "b636d473127c5704ce4710c1f07b1c99f881e43fc1c52e7b261d6d95164c43c2"
+      "ver": "263.3889.67",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-263.3889.67.tar.gz",
+      "sha256": "15371874926d76fcbd8795a54605404eae2f08eb76930153788b83694c52cf0f"
     }
   }
 }
