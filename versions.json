@@ -16,9 +16,9 @@
       "sha256": "e7b131c9d4677c28980908fad57a3fa2628021b299172923a8348eb847648068"
     },
     "GO": {
-      "ver": "2026.2.2.1",
-      "archive": "https://download.jetbrains.com/go/goland-2026.2.2.1.tar.gz",
-      "sha256": "10d27af7d6174fbf7c8e94d0415a45c13be586f5db425c10310c44df35f15471"
+      "ver": "2026.2.3",
+      "archive": "https://download.jetbrains.com/go/goland-2026.2.3.tar.gz",
+      "sha256": "0af3e82e63f906824c49c41fdbf6c6e679a02ab94ab11fc04f27050a6970d76f"
     },
     "IIC": {
       "ver": "2025.3",
@@ -46,9 +46,9 @@
       "sha256": "6410c62a9a03cdc62ee78a7ebf5a3e5085314a9121e775f358a3531295627728"
     },
     "RD": {
-      "ver": "2026.2.1",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.1.tar.gz",
-      "sha256": "f7a485d26b133daea3e6ebc1257dd4e55aacbf48ca8b4b47dffaef3e1905ebe2"
+      "ver": "2026.2.2",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.2.tar.gz",
+      "sha256": "33b5c46a850a19af3c45736634295ec37ac104fccc8356d215dfb94398bd0211"
     },
     "RM": {
       "ver": "2026.2.2",
