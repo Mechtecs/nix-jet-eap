@@ -61,16 +61,16 @@
       "sha256": "3bd93bc3d251dc142514fda1e9aba9d2768f8cb84f17b7599befa001466af1cf"
     },
     "WS": {
-      "ver": "2026.2.2",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2026.2.2.tar.gz",
-      "sha256": "0e768599752ee03165ad40fc74a36c46a7291cea43f2752777bc321ff65c64ca"
+      "ver": "2026.2.3",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2026.2.3.tar.gz",
+      "sha256": "3e29741c06799d6609c6d1ff7df720cad73cdb47825879091a577ed496cd00b0"
     }
   },
   "eap": {
     "CL": {
-      "ver": "263.4732.7",
-      "archive": "https://download.jetbrains.com/cpp/CLion-263.4732.7.tar.gz",
-      "sha256": "038f8cf74f995a7e563ab0675dc699395325d1a9a3b9661a0dc0b28926b751f1"
+      "ver": "263.5153.33",
+      "archive": "https://download.jetbrains.com/cpp/CLion-263.5153.33.tar.gz",
+      "sha256": "2177ab124986f99e731e4cac3a757710b389b620d06a36e25f0499f9dca0b3ca"
     },
     "DG": {
       "ver": "262.8377.45",
