@@ -41,9 +41,9 @@
       "sha256": "60448e3fb4e6a700e3d2ad3583ea8de1505b3f436e6715329a5a35e31c34aced"
     },
     "PS": {
-      "ver": "2026.2.2",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2026.2.2.tar.gz",
-      "sha256": "6410c62a9a03cdc62ee78a7ebf5a3e5085314a9121e775f358a3531295627728"
+      "ver": "2026.2.3",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2026.2.3.tar.gz",
+      "sha256": "d9fad320592fac25e44753ef03a8f68a86f7ef5e0e89ffc86991b0467b1a7b87"
     },
     "RD": {
       "ver": "2026.2.2",
@@ -56,9 +56,9 @@
       "sha256": "67d4dbb83a6840276924ef2b44025b526b1e993640b8f71b54a2772eaa2e94d6"
     },
     "TBA": {
-      "ver": "3.8",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.8.0.87909.tar.gz",
-      "sha256": "3bd93bc3d251dc142514fda1e9aba9d2768f8cb84f17b7599befa001466af1cf"
+      "ver": "3.8.1",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.8.1.88030.tar.gz",
+      "sha256": "25cbe2ad027f5a5749bf8d8ae7c2215a8665403cfe94ff5d05cd48b25daac345"
     },
     "WS": {
       "ver": "2026.2.3",
