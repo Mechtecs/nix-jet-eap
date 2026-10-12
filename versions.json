@@ -93,9 +93,9 @@
       "sha256": "713ebeb0b2ada110ed19a79cb2fb03bc790a0ec02fe6c4ba1fcfce4d4f0a4d18"
     },
     "IIU": {
-      "ver": "263.6259.32",
-      "archive": "https://download.jetbrains.com/idea/idea-263.6259.32.tar.gz",
-      "sha256": "bdabdb667dc6a1dd029368276ded56bf54c254bb65b65ae8699824731ef25bea"
+      "ver": "263.6800.24",
+      "archive": "https://download.jetbrains.com/idea/idea-263.6800.24.tar.gz",
+      "sha256": "d917fba256d690d78f7f0d64eb196fbdb1711b2594396e525e14692b55e99516"
     },
     "MPS": {
       "ver": "262.9437.166",
@@ -108,9 +108,9 @@
       "sha256": "7b619b41929b6b95fcc3103f1747b96c76bde4dc20629cb8ae9fcf863b6a6478"
     },
     "PS": {
-      "ver": "263.6259.29",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-263.6259.29.tar.gz",
-      "sha256": "38104bc8239418bfd0bd8b4b5afddbe2fc75c574b63f6456d5fee1d5d42c3bec"
+      "ver": "263.6800.27",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-263.6800.27.tar.gz",
+      "sha256": "a543c6155621ff03fe6d4b24bd2710294bb163ddc914695c5fe6dfd987298223"
     },
     "RD": {
       "ver": "263.6259.33",
@@ -118,9 +118,9 @@
       "sha256": "9d996c9a74dd5f9b0d99f3d73962cca38a9450fbb91f50b4aef8e9d333525adf"
     },
     "RM": {
-      "ver": "263.6259.31",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-263.6259.31.tar.gz",
-      "sha256": "6abc42096e8dd22bad97f30d35e8ea16e1a269af983b72aae610cdc1bb4c08d5"
+      "ver": "263.6800.26",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-263.6800.26.tar.gz",
+      "sha256": "0750e936967cde1038eea73c0f32f454831c942cde7676ae305dc7c354deec51"
     },
     "TBA": {
       "ver": "3.8.0.87617",
@@ -128,9 +128,9 @@
       "sha256": "175efb97f704d4f1135723d6c5767e4acdb9e2339642c989e308a758c1cd404e"
     },
     "WS": {
-      "ver": "263.6259.34",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-263.6259.34.tar.gz",
-      "sha256": "b05f9e243f055b791156eefd50c8002764b43908920dfde2d4ef23432c294783"
+      "ver": "263.6800.25",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-263.6800.25.tar.gz",
+      "sha256": "9a6bbb4c3df355a244bdb5999699a58bf09fe7bfee87229fa7f09128db6d2d56"
     }
   }
 }
