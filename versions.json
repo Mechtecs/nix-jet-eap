@@ -103,9 +103,9 @@
       "sha256": "156dd60389e294bb996491ab3b9cafb0a09ce9a1a6dadc11dc266b9d1039eafc"
     },
     "PCP": {
-      "ver": "263.6259.38",
-      "archive": "https://download.jetbrains.com/python/pycharm-263.6259.38.tar.gz",
-      "sha256": "7b619b41929b6b95fcc3103f1747b96c76bde4dc20629cb8ae9fcf863b6a6478"
+      "ver": "263.6800.43",
+      "archive": "https://download.jetbrains.com/python/pycharm-263.6800.43.tar.gz",
+      "sha256": "9c28e2d5470c7b6f99b316f7b1e4ae0a18df751d3097d3e69076e0da0f8c0b21"
     },
     "PS": {
       "ver": "263.6800.27",
@@ -123,9 +123,9 @@
       "sha256": "0750e936967cde1038eea73c0f32f454831c942cde7676ae305dc7c354deec51"
     },
     "TBA": {
-      "ver": "3.8.0.87617",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.8.0.87617.tar.gz",
-      "sha256": "175efb97f704d4f1135723d6c5767e4acdb9e2339642c989e308a758c1cd404e"
+      "ver": "3.9.0.88701",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.9.0.88701.tar.gz",
+      "sha256": "e14b13bff4cd237b211d7cc6350931d30f1be25314378e7b44178e7d83f487aa"
     },
     "WS": {
       "ver": "263.6800.25",
