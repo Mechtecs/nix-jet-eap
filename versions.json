@@ -68,9 +68,9 @@
   },
   "eap": {
     "CL": {
-      "ver": "263.6800.10",
-      "archive": "https://download.jetbrains.com/cpp/CLion-263.6800.10.tar.gz",
-      "sha256": "21e689962df266e4efa755f8deaa9e68e071afc206597eb0222ee05f8fbf6c1b"
+      "ver": "263.7031.19",
+      "archive": "https://download.jetbrains.com/cpp/CLion-263.7031.19.tar.gz",
+      "sha256": "4680a6cbcd81f628534a11ca5e79453a873784feaca0a3d5ffcaccc8d4000bf6"
     },
     "DG": {
       "ver": "263.6259.36",
@@ -93,9 +93,9 @@
       "sha256": "713ebeb0b2ada110ed19a79cb2fb03bc790a0ec02fe6c4ba1fcfce4d4f0a4d18"
     },
     "IIU": {
-      "ver": "263.6800.24",
-      "archive": "https://download.jetbrains.com/idea/idea-263.6800.24.tar.gz",
-      "sha256": "d917fba256d690d78f7f0d64eb196fbdb1711b2594396e525e14692b55e99516"
+      "ver": "263.7031.23",
+      "archive": "https://download.jetbrains.com/idea/idea-263.7031.23.tar.gz",
+      "sha256": "df285d7f73081d7e184254b1cd054b8d8a6ed98397a3e63fa845688b0695e124"
     },
     "MPS": {
       "ver": "262.10968.569",
@@ -118,9 +118,9 @@
       "sha256": "fee06e4eea96791dee1aae1f8f31e5dd279ebb445090a0d08faaa76d2917edd8"
     },
     "RM": {
-      "ver": "263.6800.26",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-263.6800.26.tar.gz",
-      "sha256": "0750e936967cde1038eea73c0f32f454831c942cde7676ae305dc7c354deec51"
+      "ver": "263.7031.29",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-263.7031.29.tar.gz",
+      "sha256": "d9ed97fcecf38d3a964583a3e97f06a3fb6ea90d594a8ad9df5e4081f01905d3"
     },
     "TBA": {
       "ver": "3.9.0.88701",
@@ -128,9 +128,9 @@
       "sha256": "e14b13bff4cd237b211d7cc6350931d30f1be25314378e7b44178e7d83f487aa"
     },
     "WS": {
-      "ver": "263.6800.25",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-263.6800.25.tar.gz",
-      "sha256": "9a6bbb4c3df355a244bdb5999699a58bf09fe7bfee87229fa7f09128db6d2d56"
+      "ver": "263.7031.26",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-263.7031.26.tar.gz",
+      "sha256": "7f3b41579a9442dcf29fc324f11eb3aa0ebb567cc449c7b245a125fa03c232b4"
     }
   }
 }
