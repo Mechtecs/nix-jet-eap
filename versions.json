@@ -83,9 +83,9 @@
       "sha256": "8f98b880126029360636622bfceb30c0e7ab17ce917b5ab30a9e5802001a71e9"
     },
     "GO": {
-      "ver": "263.7031.36",
-      "archive": "https://download.jetbrains.com/go/goland-263.7031.36.tar.gz",
-      "sha256": "b3a41dbc5e9d97cfb37fcba473fd67d51bd712ed32ff7308fffbc3c742f48e4a"
+      "ver": "263.7307.43",
+      "archive": "https://download.jetbrains.com/go/goland-263.7307.43.tar.gz",
+      "sha256": "0b3c591e4e6c777e2e52c31206df449b11ee6b266913df0372bcad6aee0012d1"
     },
     "IIC": {
       "ver": "253.28294.169",
@@ -103,14 +103,14 @@
       "sha256": "f5ef978ec962dbd940cfd92aee9b59bb651599cc5eadc69e56b57d31f778fb8c"
     },
     "PCP": {
-      "ver": "263.7031.30",
-      "archive": "https://download.jetbrains.com/python/pycharm-263.7031.30.tar.gz",
-      "sha256": "93a4181c2c41448925cbec9a6a41b869358afe23872c1f637956f2c99b57b41e"
+      "ver": "263.7307.50",
+      "archive": "https://download.jetbrains.com/python/pycharm-263.7307.50.tar.gz",
+      "sha256": "28d378987644579d2f4ceac9283a35a08f92bce27537d1dd821f312c23ea46aa"
     },
     "PS": {
-      "ver": "263.7031.45",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-263.7031.45.tar.gz",
-      "sha256": "dd49abc56ff23e314384bbacac347be340e62b5ad2b3fb5ef948d2b4574d587b"
+      "ver": "263.7307.51",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-263.7307.51.tar.gz",
+      "sha256": "e155d732cd9acc5a6352a766ae53b36b7091d4f3f7330bffd119c8e379f17b5f"
     },
     "RD": {
       "ver": "263.7031.38",
@@ -118,9 +118,9 @@
       "sha256": "d0a42b647cb73b8495469692ca048f3c6d42ffa9c9294a14589c0fe934a474c0"
     },
     "RM": {
-      "ver": "263.7031.29",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-263.7031.29.tar.gz",
-      "sha256": "d9ed97fcecf38d3a964583a3e97f06a3fb6ea90d594a8ad9df5e4081f01905d3"
+      "ver": "263.7307.47",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-263.7307.47.tar.gz",
+      "sha256": "00693968391e656fc0b3a7f32cd65b145ebbeb2445bc7fd7cb06832451c6e3c4"
     },
     "TBA": {
       "ver": "3.9.0.88701",
