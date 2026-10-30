@@ -31,9 +31,9 @@
       "sha256": "cc6b29ddb82c7dcc656d5c728cefb2c917ac767eb4b8368f1208732846fbb5bd"
     },
     "MPS": {
-      "ver": "2026.1.1",
-      "archive": "https://download.jetbrains.com/mps/2026.1/MPS-2026.1.1.tar.gz",
-      "sha256": "4e0c721e922d859b540347a73903bdcb5b017581b25deec8d6737e065b067eb6"
+      "ver": "2026.1.2",
+      "archive": "https://download.jetbrains.com/mps/2026.1/MPS-2026.1.2.tar.gz",
+      "sha256": "295019532aaf7b84e0e766f30e598c96152a6624f49a672d028e586775682d5c"
     },
     "PCP": {
       "ver": "2026.2.4",
@@ -98,9 +98,9 @@
       "sha256": "8d24ec865531b2d6c840ce58e53a217d6f9f15bb17ce5c1579d42aacbefaf751"
     },
     "MPS": {
-      "ver": "262.10968.569",
-      "archive": "https://download.jetbrains.com/mps/2026.2/MPS-2026.2-RC1.tar.gz",
-      "sha256": "f5ef978ec962dbd940cfd92aee9b59bb651599cc5eadc69e56b57d31f778fb8c"
+      "ver": "262.11879.672",
+      "archive": "https://download.jetbrains.com/mps/2026.2/MPS-2026.2-RC2.tar.gz",
+      "sha256": "3aba13caf75a6de776b1875ad2173fc99bf5eb3c5131b17baa93f6e6f6966595"
     },
     "PCP": {
       "ver": "263.7307.50",
