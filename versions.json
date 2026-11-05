@@ -6,9 +6,9 @@
       "sha256": "136b6c22c984cc31734480ce4acf12f6af5b4838653af216601032f21cd35382"
     },
     "DG": {
-      "ver": "2026.2.6.1",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-2026.2.6.1.tar.gz",
-      "sha256": "0127b0b46e9a8bd2f65130b3968b0cd04ff30d839f91f2b3809e64934db989ea"
+      "ver": "2026.3",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-2026.3.tar.gz",
+      "sha256": "efdc1a568758ab4bbba2cb3d1f52b63849a10e7ddd2c136ed9c26fd32fb80650"
     },
     "DS": {
       "ver": "2026.1.3.1",
@@ -36,14 +36,14 @@
       "sha256": "295019532aaf7b84e0e766f30e598c96152a6624f49a672d028e586775682d5c"
     },
     "PCP": {
-      "ver": "2026.2.4",
-      "archive": "https://download.jetbrains.com/python/pycharm-2026.2.4.tar.gz",
-      "sha256": "87d39ae1125f7298e8f8c4b96aac836043eb15053f8dc5d7c52356eaab5762a8"
+      "ver": "2026.3",
+      "archive": "https://download.jetbrains.com/python/pycharm-2026.3.tar.gz",
+      "sha256": "70d448ee1aa2a60234a6135b7ef9af6403fb691c26446113d587ccee06f6b813"
     },
     "PS": {
-      "ver": "2026.2.4",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2026.2.4.tar.gz",
-      "sha256": "8213bae6a2d3f0925139d30be879a57c9dc4e4dff13afe1df3ce19c05244b8c5"
+      "ver": "2026.3",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2026.3.tar.gz",
+      "sha256": "958a881627aec444bd72aebace52c1f1a94fd4d0bddd84038c98f04767ef0e0f"
     },
     "RD": {
       "ver": "2026.2.4.1",
@@ -51,9 +51,9 @@
       "sha256": "910f27503b403f92a2fa9ab86ce3026c1f0ba92e37ca0358abafbe1edfdf21ae"
     },
     "RM": {
-      "ver": "2026.2.4",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2026.2.4.tar.gz",
-      "sha256": "664f742cfd301a055c3bbc4ffc7de22ef132ddf559259ba8171d929fdc460f4a"
+      "ver": "2026.3",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2026.3.tar.gz",
+      "sha256": "e618b01f9a01890f63772dceb1417dcf187f590de38164412364291b1be77770"
     },
     "TBA": {
       "ver": "3.9.1",
