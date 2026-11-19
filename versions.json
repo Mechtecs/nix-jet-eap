@@ -36,9 +36,9 @@
       "sha256": "ce0cf20e178efc5a014b9066eb2b2fce534a164138bf3d1ae5e5d11722bf4cf8"
     },
     "PCP": {
-      "ver": "2026.3",
-      "archive": "https://download.jetbrains.com/python/pycharm-2026.3.tar.gz",
-      "sha256": "70d448ee1aa2a60234a6135b7ef9af6403fb691c26446113d587ccee06f6b813"
+      "ver": "2026.3.0.1",
+      "archive": "https://download.jetbrains.com/python/pycharm-2026.3.0.1.tar.gz",
+      "sha256": "277b7f1197495fa9dd4c8e2337783c7417188a2a3810fd5b979b9fefcbd49084"
     },
     "PS": {
       "ver": "2026.3",
