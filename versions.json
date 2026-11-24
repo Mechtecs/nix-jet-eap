@@ -1,24 +1,24 @@
 {
   "stable": {
     "CL": {
-      "ver": "2026.3.0.1",
-      "archive": "https://download.jetbrains.com/cpp/CLion-2026.3.0.1.tar.gz",
-      "sha256": "72610a58b9526dd83ab66b885b216eb20b87a1bac3a0bc0571f0abd072a20d8e"
+      "ver": "2026.3.0.2",
+      "archive": "https://download.jetbrains.com/cpp/CLion-2026.3.0.2.tar.gz",
+      "sha256": "a2e9a7de5c851c44df7fdfb073ae709d6c24b8e2d3769bc693381c9292adfef9"
     },
     "DG": {
-      "ver": "2026.3",
-      "archive": "https://download.jetbrains.com/datagrip/datagrip-2026.3.tar.gz",
-      "sha256": "efdc1a568758ab4bbba2cb3d1f52b63849a10e7ddd2c136ed9c26fd32fb80650"
+      "ver": "2026.3.0.1",
+      "archive": "https://download.jetbrains.com/datagrip/datagrip-2026.3.0.1.tar.gz",
+      "sha256": "58b6a60b791f4e59bb27ec92ed4b09815a72c54862a456749b9633ae687957b7"
     },
     "DS": {
-      "ver": "2026.1.3.1",
-      "archive": "https://download.jetbrains.com/python/dataspell-2026.1.3.1.tar.gz",
-      "sha256": "d987dea96fdf1c3f92b194999c1c6a8ad455ab8a04a2f06bd4618aaf7cb2abab"
+      "ver": "2026.1.3.2",
+      "archive": "https://download.jetbrains.com/python/dataspell-2026.1.3.2.tar.gz",
+      "sha256": "651a8ff40cac44e6f03e257629258d4e484bf1eba58c0c0c82edb9d0e3812760"
     },
     "GO": {
-      "ver": "2026.3",
-      "archive": "https://download.jetbrains.com/go/goland-2026.3.tar.gz",
-      "sha256": "f69816791625bb334b1de9d80ce47a38c0aa90951151846eea899e1a35a15a19"
+      "ver": "2026.3.0.1",
+      "archive": "https://download.jetbrains.com/go/goland-2026.3.0.1.tar.gz",
+      "sha256": "69a4c31fc570b5054e2b848117ca4fd279a8014a1c8550a5a065996ab3964e35"
     },
     "IIC": {
       "ver": "2025.3",
@@ -26,9 +26,9 @@
       "sha256": "13f4174ba16c1cef04871cb261433536d002586c269a809392c20ee3f94959f5"
     },
     "IIU": {
-      "ver": "2026.3",
-      "archive": "https://download.jetbrains.com/idea/idea-2026.3.tar.gz",
-      "sha256": "6a53ff71f4a06add4c97edc4efe86c83119ff82e5b5e9f1db62fc95995bd6b25"
+      "ver": "2026.3.0.1",
+      "archive": "https://download.jetbrains.com/idea/idea-2026.3.0.1.tar.gz",
+      "sha256": "def869cc0109273f5a144ac669c739029e9bd5178d137213b8d15298c0055858"
     },
     "MPS": {
       "ver": "2026.2",
@@ -36,34 +36,34 @@
       "sha256": "ce0cf20e178efc5a014b9066eb2b2fce534a164138bf3d1ae5e5d11722bf4cf8"
     },
     "PCP": {
-      "ver": "2026.3.0.1",
-      "archive": "https://download.jetbrains.com/python/pycharm-2026.3.0.1.tar.gz",
-      "sha256": "277b7f1197495fa9dd4c8e2337783c7417188a2a3810fd5b979b9fefcbd49084"
+      "ver": "2026.3.0.2",
+      "archive": "https://download.jetbrains.com/python/pycharm-2026.3.0.2.tar.gz",
+      "sha256": "83f64231ac3032a4526a810aead197e87976e09558471bf9c940a1b8a6bab4bc"
     },
     "PS": {
-      "ver": "2026.3",
-      "archive": "https://download.jetbrains.com/webide/PhpStorm-2026.3.tar.gz",
-      "sha256": "958a881627aec444bd72aebace52c1f1a94fd4d0bddd84038c98f04767ef0e0f"
+      "ver": "2026.3.0.1",
+      "archive": "https://download.jetbrains.com/webide/PhpStorm-2026.3.0.1.tar.gz",
+      "sha256": "0522ec67587c289142c08c5130af4041ace6524cc3ed81c3133ff84010710547"
     },
     "RD": {
-      "ver": "2026.3.0.1",
-      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.3.0.1.tar.gz",
-      "sha256": "30fbd3e0073c587cdb31c9497160169f69dc833b95006b787d8b1559e3430daa"
+      "ver": "2026.3.0.2",
+      "archive": "https://download.jetbrains.com/rider/JetBrains.Rider-2026.3.0.2.tar.gz",
+      "sha256": "d3e843135970d48c58033690229bf5965497ab5b1e11bac1b9e70743232203b7"
     },
     "RM": {
-      "ver": "2026.3",
-      "archive": "https://download.jetbrains.com/ruby/RubyMine-2026.3.tar.gz",
-      "sha256": "e618b01f9a01890f63772dceb1417dcf187f590de38164412364291b1be77770"
+      "ver": "2026.3.0.1",
+      "archive": "https://download.jetbrains.com/ruby/RubyMine-2026.3.0.1.tar.gz",
+      "sha256": "cfdb4fa09c4be6ba64b4acfa6a61a25a0b70ab986dc729dbb89eef8d7a065421"
     },
     "TBA": {
-      "ver": "3.9.1",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.9.1.89198.tar.gz",
-      "sha256": "43add3c33c9b86ee560adc8579261e8e26465a101b281720937c6d1d4967b3e4"
+      "ver": "3.9.2",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.9.2.89815.tar.gz",
+      "sha256": "5feaea5e5d7cdddfa020536ef85d97854576e67eaa8590f2e31dcde64b92a5f0"
     },
     "WS": {
-      "ver": "2026.3",
-      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2026.3.tar.gz",
-      "sha256": "62b78a642d8962b43bf420558fa1fcbbee039d03d690d7e73f02c1450c8b5982"
+      "ver": "2026.3.0.1",
+      "archive": "https://download.jetbrains.com/webstorm/WebStorm-2026.3.0.1.tar.gz",
+      "sha256": "ec066b78e09be654444bc16c0fea68607592aa616cceead23ef8ec17a0932f5d"
     }
   },
   "eap": {
@@ -123,9 +123,9 @@
       "sha256": "c5997854045faa06c1eb03ef97ab2f0a5aa9b8dc8cdc3c7be4fd804ed1a4e12c"
     },
     "TBA": {
-      "ver": "3.9.0.88701",
-      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.9.0.88701.tar.gz",
-      "sha256": "e14b13bff4cd237b211d7cc6350931d30f1be25314378e7b44178e7d83f487aa"
+      "ver": "3.10.0.89820",
+      "archive": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-3.10.0.89820.tar.gz",
+      "sha256": "637c25ad27b622c7354343181bb5d9fa2264aaac9ea5e629b6f5dec972260019"
     },
     "WS": {
       "ver": "263.8311.23",
